@@ -1,0 +1,707 @@
+requestPayment	{}
+getAppConfig	"{""type"": 1}"
+openCTID	"{""miniProgramID"": ""test""}"
+shareGameLive	"{""Val"": ""test"", ""ExptCheckSum"": ""test"", ""EndTime"": 1, ""SvrType"": 1, ""ExptType"": 1, ""StartTime"": 1, ""BucketSrc"": 1, ""ExptSequence"": 1, ""ExptId"": 1, ""type"": 1, ""Key"": ""test"", ""GroupId"": 1}"
+shareFinderEndorsementToFriend	"{""relativePath"": ""test"", ""appid"": ""test"", ""title"": ""test"", ""desc"": ""test"", ""scene"": 1, ""sceneNote"": ""test""}"
+launchApplication	"{""operateDirectly"": ""test"", ""sourceInfo"": ""test"", ""alertType"": ""test"", ""signature"": ""test"", ""parameter"": ""test"", ""appId"": ""test"", ""schemeUrl"": ""test"", ""bizInfo"": ""test"", ""packageName"": ""test"", ""extInfo"": ""test""}"
+getLastLocationCache	{}
+setTabBarItem	"{""selectedIconPath"": ""test"", ""text"": ""test"", ""iconPath"": ""test""}"
+operateUploadTask	"{""uploadTaskId"": ""test"", ""operationType"": ""test""}"
+getMapCenterLocation	"{""mapId"": 1}"
+openStickerIPView	"{""Val"": ""test"", ""EndTime"": 1, ""SvrType"": 1, ""StartTime"": 1, ""BucketSrc"": 1, ""title"": ""test"", ""GroupId"": 1, ""ExptCheckSum"": ""test"", ""ExptType"": 1, ""iconUrl"": ""test"", ""ExptId"": 1, ""ExptSequence"": 1, ""Key"": ""test"", ""desc"": ""test"", ""setKey"": ""test""}"
+addMapPolygons	"{""fillColor"": ""test"", ""polygons"": ""test"", ""level"": ""test"", ""latitude"": ""test"", ""mapId"": 1, ""strokeColor"": ""test"", ""dashArray"": ""test"", ""longitude"": ""test"", ""points"": ""test"", ""zIndex"": 1}"
+startFacialEncryptionVerifyAndUploadVideo	"{""checkAliveType"": 1, ""requestVerifyPreInfo"": ""test""}"
+navigateTo	"{""singlePageData"": {}, ""url"": ""test""}"
+private_openUrl	"{""Val"": ""test"", ""commonUxInfo"": ""test"", ""EndTime"": 1, ""SvrType"": 1, ""StartTime"": 1, ""BucketSrc"": 1, ""url"": ""test"", ""GroupId"": 1, ""scene"": 1, ""ExptCheckSum"": ""test"", ""ExptType"": 1, ""isNativeStyle"": true, ""adInfo"": ""test"", ""ExptSequence"": 1, ""ExptId"": 1, ""Key"": ""test"", ""adUxInfo"": ""test""}"
+updateMapGroundOverlay	"{""visible"": true, ""latitude"": 1.0, ""mapId"": 1, ""opacity"": 1.0, ""longitude"": 1.0, ""zIndex"": 1}"
+makeBluetoothPair	"{""useOldImpl"": true, ""pin"": ""test"", ""forcePair"": true, ""deviceId"": ""test"", ""timeout"": 1}"
+stopVoice	"{""localId"": ""test""}"
+updateXWebWebGLCanvas	"{""canvasId"": 1}"
+insertFinderWidget	{}
+operateRequestTask	"{""operationType"": ""test"", ""requestTaskId"": ""test""}"
+navigateBack	"{""singlePageData"": {}}"
+getOAID	"{""Val"": ""test"", ""ExptCheckSum"": ""test"", ""EndTime"": 1, ""SvrType"": 1, ""ExptType"": 1, ""StartTime"": 1, ""BucketSrc"": 1, ""ExptSequence"": 1, ""ExptId"": 1, ""Key"": ""test"", ""GroupId"": 1}"
+splashAdAllViewLayoutStateChange	"{""state"": 1}"
+addMapGroundOverlay	"{""visible"": true, ""latitude"": 1.0, ""mapId"": 1, ""opacity"": 1.0, ""longitude"": 1.0, ""zIndex"": 1}"
+operateRealtimeData	{}
+getBLEDeviceCharacteristics	"{""Val"": ""test"", ""EndTime"": 1, ""SvrType"": 1, ""BucketSrc"": 1, ""StartTime"": 1, ""deviceId"": ""test"", ""GroupId"": 1, ""ExptCheckSum"": ""test"", ""ExptType"": 1, ""ExptId"": 1, ""ExptSequence"": 1, ""serviceId"": ""test"", ""Key"": ""test""}"
+getMapIndoorFloor	"{""mapId"": 1}"
+disableLocationUpdate	{}
+showDatePickerView	"{""mode"": ""test"", ""current"": ""test"", ""headerText"": ""test"", ""start"": ""test"", ""range"": {}, ""end"": ""test"", ""fields"": ""test""}"
+closeBluetoothAdapter	{}
+canvasToTempFilePath	{}
+exitGameLive	{}
+returnTakeScreenshot	"{""url"": ""test""}"
+cryptoOperate	"{""id"": 1, ""type"": ""test""}"
+setNavigationBarColor	"{""duration"": 1, ""timingFunc"": ""test"", ""alpha"": 1.0, ""animation"": {}}"
+canvasToTempFilePath	{}
+privateEnterContact	"{""rendererOptions"": {}, ""customButtonIconData"": ""test"", ""renderer"": ""test"", ""sessionFrom"": ""test"", ""singlePage"": {}, ""enableFullScreen"": true, ""businessId"": ""test"", ""skyline"": {}, ""title"": ""test"", ""sdkVersionBegin"": ""test"", ""navigationBarFit"": ""test"", ""sdkVersionEnd"": ""test"", ""homeButton"": true, ""androidVersionEnd"": ""test"", ""subTitle"": ""test"", ""navigationBarBackgroundColor"": ""test"", ""navigationBarTitleText"": ""test"", ""appId"": ""test"", ""showMessageCard"": true, ""backgroundColor"": ""test"", ""navigationStyle"": ""test"", ""resizable"": true, ""androidVersionBegin"": ""test"", ""enablePullDownRefresh"": true, ""disableABTest"": true, ""backgroundTextStyle"": ""test"", ""userName"": ""test"", ""visualEffectInBackground"": ""test"", ""sendMessageImg"": ""test"", ""sendMessageTitle"": ""test"", ""handleWebviewPreload"": ""test"", ""contactUsername"": ""test"", ""navigationBarRightButton"": {}, ""hide"": true, ""navigationBarBackgroundAlpha"": 1.0, ""pageOrientation"": ""test"", ""backgroundColorContent"": ""test"", ""disableSwipeBack"": true, ""navigationBarTextStyle"": ""test"", ""page"": {}, ""sendMessagePath"": ""test"", ""window"": {}, ""headimgUrl"": ""test""}"
+runInferenceSession	"{""input"": {}, ""shape"": [], ""data"": 1, ""sessionId"": 1, ""type"": ""test""}"
+mkdir	{}
+addPhoneCalendar	"{""allDay"": true, ""repeatEndTime"": 1, ""repeat"": true, ""repeatInterval"": ""test"", ""description"": ""test"", ""startTime"": 1, ""location"": ""test"", ""endTime"": 1, ""title"": ""test""}"
+operateAudio	"{""currentTime"": 1, ""audioId"": ""test"", ""operationType"": ""test"", ""timestamp"": 1}"
+chooseVideo	"{""Val"": ""test"", ""EndTime"": 1, ""SvrType"": 1, ""StartTime"": 1, ""BucketSrc"": 1, ""GroupId"": 1, ""ExptCheckSum"": ""test"", ""sourceType"": [], ""ExptType"": 1, ""compressed"": true, ""ExptSequence"": 1, ""ExptId"": 1, ""maxDuration"": ""test"", ""Key"": ""test""}"
+loadJsFiles	"{""paths"": [], ""key"": ""test""}"
+requestVerifyUserIdentity	"{""Val"": ""test"", ""ExptCheckSum"": ""test"", ""EndTime"": 1, ""SvrType"": 1, ""ExptType"": 1, ""StartTime"": 1, ""BucketSrc"": 1, ""sessionid"": ""test"", ""ExptSequence"": 1, ""ExptId"": 1, ""Key"": ""test"", ""GroupId"": 1}"
+navigateBackApplication	"{""extraData"": ""test"", ""appId"": ""test""}"
+getConnectedWifi	"{""acceptIncompleteWiFiInfo"": true, ""checkNetInfo"": true}"
+openWeComUserProfileForFakeNative	"{""Val"": ""test"", ""EndTime"": 1, ""SvrType"": 1, ""bizInfo"": ""test"", ""StartTime"": 1, ""BucketSrc"": 1, ""GroupId"": 1, ""scene"": 1, ""ExptCheckSum"": ""test"", ""ExptType"": 1, ""ExptId"": 1, ""ExptSequence"": 1, ""Key"": ""test""}"
+saveVideoToPhotosAlbum	"{""filePath"": ""test""}"
+openChannelsOrderCenter	{}
+insertXWebWebGLCanvas	"{""canvasId"": 1}"
+joinVoIPChat	"{""Val"": ""test"", ""videoRatio"": 1, ""EndTime"": 1, ""signature"": ""test"", ""SvrType"": 1, ""lifespan"": 1, ""groupId"": ""test"", ""BucketSrc"": 1, ""roomId"": 1, ""muteEarphone"": true, ""maxHeight"": 1, ""handsFree"": true, ""ExptId"": 1, ""roomType"": 1, ""maxWidth"": 1, ""sessionKey"": ""test"", ""StartTime"": 1, ""nonceStr"": ""test"", ""GroupId"": 1, ""timeStamp"": 1, ""privateData"": ""test"", ""muteMicrophone"": true, ""ExptCheckSum"": ""test"", ""ExptType"": 1, ""ExptSequence"": 1, ""Key"": ""test""}"
+getFuzzyLocation	"{""type"": ""test""}"
+openHKOfflinePayView	"{""Val"": ""test"", ""ExptCheckSum"": ""test"", ""EndTime"": 1, ""SvrType"": 1, ""ExptType"": 1, ""BucketSrc"": 1, ""StartTime"": 1, ""ExptSequence"": 1, ""ExptId"": 1, ""Key"": ""test"", ""GroupId"": 1}"
+moveMapMarkerAlong	{}
+closeBluetoothAdapter	{}
+verifyPlugin	"{""data"": ""test""}"
+launchApplicationForNative	"{""operateDirectly"": ""test"", ""sourceInfo"": ""test"", ""alertType"": ""test"", ""signature"": ""test"", ""appId"": ""test"", ""parameter"": ""test"", ""bizInfo"": ""test"", ""schemeUrl"": ""test"", ""packageName"": ""test"", ""extInfo"": ""test""}"
+rtosWatchQuickReply	"{""action"": 1}"
+operateXWebLivePlayer	"{""viewId"": 1, ""type"": ""test""}"
+enableCompass	"{""enable"": true, ""interval"": 1}"
+openChannelsRedPacketPublish	{}
+vibrateShort	"{""style"": ""test""}"
+getUserAutoFillData	"{""getAllInfo"": true, ""clientVersion"": 1, ""fields"": []}"
+addDownloadTaskForNative	"{""useDownloaderWidget"": true, ""fileMd5"": ""test"", ""taskSize"": 1, ""scene"": 1, ""extInfo"": ""test"", ""alterUrl"": ""test"", ""downloaderType"": 1, ""taskUrl"": ""test"", ""appId"": ""test"", ""taskName"": ""test"", ""packageName"": ""test"", ""fileType"": ""test"", ""downloadInWifi"": true}"
+readCompressedFile	{}
+startBLEPeripheralAdvertising	{}
+shareFinderShop	"{""Val"": ""test"", ""EndTime"": 1, ""ExptCheckSum"": ""test"", ""SvrType"": 1, ""ExptType"": 1, ""BucketSrc"": 1, ""StartTime"": 1, ""ExptSequence"": 1, ""ExptId"": 1, ""Key"": ""test"", ""GroupId"": 1}"
+updateKeyboard	"{""value"": ""test""}"
+logInJava	{}
+openADCanvas	"{""Val"": ""test"", ""EndTime"": 1, ""SvrType"": 1, ""StartTime"": 1, ""BucketSrc"": 1, ""GroupId"": 1, ""canvasDynamicInfo"": ""test"", ""ExptCheckSum"": ""test"", ""ExptType"": 1, ""ExptId"": 1, ""openFirstSightVoice"": 1, ""ExptSequence"": 1, ""Key"": ""test""}"
+private_setPageOrientation	"{""orientation"": ""test""}"
+cryptoGetGeneratedKeys	{}
+startCustomFacialRecognitionVerify	"{""checkAliveType"": 1, ""requestVerifyPreInfo"": ""test""}"
+publishWeChatState	"{""Val"": ""test"", ""ExptCheckSum"": ""test"", ""EndTime"": 1, ""SvrType"": 1, ""ExptType"": 1, ""BucketSrc"": 1, ""StartTime"": 1, ""ExptId"": 1, ""ExptSequence"": 1, ""Key"": ""test"", ""GroupId"": 1}"
+hideStatusBar	{}
+connectWifi	"{""password"": ""test"", ""BSSID"": ""test"", ""maunal"": true, ""acceptIncompleteWiFiInfo"": true, ""SSID"": ""test"", ""timeout"": 1, ""forceNewApi"": true}"
+removeXWebLivePusher	"{""viewId"": 1}"
+launchMiniProgram	"{""SystemAuthBizScene"": 1, ""downloadURL"": ""test"", ""Uint32WxaLibPrivateMaxFileStorageSizeInMB"": 1, ""TempFileSizeLimitTotal"": 1, ""scene"": 1, ""path"": ""test"", ""NewSetting"": {}, ""auto_update"": true, ""WidgetImageFlowLimitMaxSize"": 1, ""HeaderBlackList"": [], ""ClientStorageMinMB"": 1, ""AppServiceType"": 1, ""MaxWorkerConcurrent"": 1, ""black_style"": {}, ""DownloadMaxTimeoutMS"": 1, ""height"": 1, ""NativeBufferSizeLimitByte"": 1, ""UploadMaxTimeoutMS"": 1, ""LifeSpanAfterSuspend"": 1, ""version"": 1, ""materialSize"": 1, ""noRelaunchIfPathUnchanged"": true, ""navigation_bar_text_color"": ""test"", ""GamePerfCollectInterval"": 1, ""CanPreFetchData"": 1, ""icon_big"": {}, ""size"": 1, ""preSceneNote"": ""test"", ""firstPageNavigationStyle"": ""test"", ""MaxCodeSize"": 1, ""Key"": ""test"", ""BrandOfficialLabel"": 1, ""AgeAppropriateLevel"": 1, ""separated_plugin_list"": ""test"", ""plugin_id"": ""test"", ""renderer"": ""test"", ""version_desc"": ""test"", ""independent"": true, ""MaxDownloadConcurrent"": 1, ""CheckInterval"": 1, ""SvrType"": 1, ""WebsocketMaxTimeoutMS"": 1, ""module_list"": ""test"", ""StarNumberLimitation"": 1, ""SyncLaunchSceneList"": [], ""SystemAuthFrequencyLimitFlag"": 1, ""UsePackageConfirmSubDescScopeList"": [], ""icon_dark"": {}, ""WidgetDrawMinInterval"": 1, ""PullVersionWxaUsageLastInterval"": 1, ""PeriodFetchData"": 1, ""sessionId"": ""test"", ""AppMaxBackgroundLaunchBluetoothCount"": 1, ""background_color"": ""test"", ""OpenWxaWaitUpdateMinMicSec"": 1, ""template_id"": 1, ""TaskBarSyncUsageRecordIntervalMinute"": 1, ""HTTPSetting"": {}, ""PullVersionMaxCountPerRequest"": 1, ""OpenWxaWaitUpdateMaxMicSecForWeakNet"": 1, ""contexts"": [], ""GlobalWxaFileStorageCleanMbThreshold"": 1, ""semver"": ""test"", ""appId"": ""test"", ""MaxUploadConcurrent"": 1, ""TaskBarItemCountLimitation"": 1, ""inner_version"": 1, ""PreCgiCallByteBeforeLaunch"": ""test"", ""StartTime"": 1, ""ShowRelievedBuyFlag"": 1, ""WeUseRecallInterval"": 1, ""WidgetImageFlowLimitDuration"": 1, ""device_orientation"": ""test"", ""ExptType"": 1, ""page"": {}, ""HeaderWhiteList"": [], ""WxaWebRenderingCacheMaxStorageSizeMB"": 1, ""RunningFlagInfo"": {}, ""AppSharedResourceBackgroundRunningCount"": 1, ""InvalidContactFreqBlockSeconds"": 1, ""PrefetchDNSDomain"": [], ""NewTaskBarRecentsItemCountLimitation"": 1, ""AppVersion"": 1, ""PackageManager"": {}, ""NewCategories"": [], ""DownloadFileSizeLimit"": 1, ""ExpendedMaxWebviewDepth"": 1, ""without_lib_md5"": ""test"", ""PreDownloadUserNameBlackList"": [], ""SingleWxaFileStorageCleanMbThreshold"": 1, ""CanShowLoadingAdvert"": 1, ""debug_launch_info"": ""test"", ""OriginalRedirectUrl"": ""test"", ""OpenWxaWaitUpdateMaxMicSec"": 1, ""CanPeriodFetchData"": 1, ""username"": ""test"", ""fromBusinessUsername"": ""test"", ""Val"": ""test"", ""WsRequestDomain"": [], ""extraData"": ""test"", ""FlagshipSetting"": {}, ""OpendataMaxFileStorageSize"": 1, ""UploadDomain"": [], ""UDPDomain"": [], ""Appid"": ""test"", ""Network"": {}, ""GuaranteeFlag"": 1, ""ExptId"": 1, ""VersionMD5"": ""test"", ""open_remote"": true, ""AppMaxRunningCount"": 1, ""ForceSyncUpdateWhenLaunchLastInterval"": 1, ""MaxBackgroundLifespan"": 1, ""WithoutContactClearSeconds"": 1, ""Uint32MaxTempFileStorageSizeInMB"": 1, ""loading_image_info"": {}, ""progressbar_color"": ""test"", ""RunningFlag"": 1, ""MigrateInfo"": {}, ""EndTime"": 1, ""Uint32MinTempFileStorageSizeInMB"": 1, ""CanShowGameLoadingAdvert"": 1, ""TCPDomain"": [], ""widget_list"": ""test"", ""AppMaxBackgroundBluetoothCount"": 1, ""Uint32MaxLocalstorageSizeInMB"": 1, ""instanceId"": ""test"", ""TLSSkipHostnameCheck"": 1, ""MaxGlobalStorageItemSize"": 1, ""wxapkg_md5"": ""test"", ""CanNotStarWxaBeforeTime"": 1, ""HTTPHeaderReferer"": ""test"", ""LifeSpanBeforeSuspend"": 1, ""DownloadDomain"": [], ""SubContextImgDomain"": [], ""resizable"": true, ""WechatPluginApp"": 1, ""fake_native_loading_style_info"": {}, ""url"": ""test"", ""MaxGlobalStorageSize"": 1, ""GroupId"": 1, ""icon_gray"": {}, ""envVersion"": ""test"", ""RequestDomain"": [], ""CDNBaseURL"": ""test"", ""width"": 1, ""ExptSequence"": 1, ""MaxRequestConcurrent"": 1, ""first"": ""test"", ""md5"": ""test"", ""AgeAppropriateIcon"": {}, ""BatchPreFetchBusiFlag"": 1, ""checkSumMd5"": ""test"", ""entrance_module"": ""test"", ""BucketSrc"": 1, ""client_js_ext_info"": ""test"", ""preScene"": 1, ""GameMaxRunningCount"": 1, ""package_type"": 1, ""RequestMaxTimeoutMS"": 1, ""PerformIndexReportGapInSeconds"": 1, ""sceneNote"": ""test"", ""second"": ""test"", ""Uint32OpendataMaxLocalstorageSizeInMB"": 1, ""WXDataMaxRequestConcurrent"": 1, ""MaxLocalStorageItemSize"": 1, ""icon_green"": {}, ""custom_version"": ""test"", ""BluetoothBackgroundTimeoutWithoutConnectionInSeconds"": 1, ""white_style"": {}, ""EntranceModule"": ""test"", ""halfPage"": {}, ""WebsocketSkipPortCheck"": 1, ""MaxWebsocketConnect"": 1, ""prefix_path"": ""test"", ""materialName"": ""test"", ""NativeBufferQueueLimitByte"": 1, ""icon_light"": {}, ""TradeGuaranteeMenuSetting"": ""test"", ""HTTPHeaderMode"": ""test"", ""WholeClientStoragePercent"": 1, ""CanKeepAliveByAudioPlay"": 1, ""NextTryOpenWxaDisMicSec"": 1, ""SyncVersionSetting"": {}, ""VersionState"": 1, ""code_size"": 1, ""extoptions"": ""test"", ""dev_key"": 1, ""brotli"": true, ""WhiteScreenDetectThresholdFloatNew"": 1.0, ""OriginalFlag"": 1, ""AppOpenForbiddenUrl"": ""test"", ""PeriodFetchDataDay"": 1, ""isTransparentBackgroundSupport"": ""test"", ""UseModule"": true, ""alias"": [], ""GamePerfCollectSamplePercentage"": 1.0, ""GameDownloadFileSizeLimit"": 1, ""LoadingWeakNetDelayDurationInSecondsAndroid"": 1, ""ShowFlagshipFlag"": 1, ""Uint32MaxFileStorageSizeInMB"": 1, ""LaunchFallbackMinVersion"": 1, ""ExptCheckSum"": ""test"", ""PullVersionMaxCount"": 1, ""parallelDownloadOnLaunchStage"": true, ""ScanCodeEnableZZM"": 1, ""PullVersionInterval"": 1, ""target_appid"": ""test"", ""CDNPreConnectURL"": ""test"", ""RelievedBuySetting"": {}}"
+handleBrandPersonalCenterAction	"{""Val"": ""test"", ""EndTime"": 1, ""SvrType"": 1, ""StartTime"": 1, ""BucketSrc"": 1, ""c2bRedDotCount"": 1, ""sessionId"": 1, ""GroupId"": 1, ""actionType"": 1, ""ExptCheckSum"": ""test"", ""ExptType"": 1, ""ExptId"": 1, ""ExptSequence"": 1, ""Key"": ""test""}"
+setBackgroundColor	"{""backgroundColor"": ""test""}"
+enableLocationUpdate	"{""type"": ""test""}"
+openChannelsLive	{}
+operateTingAudio	{}
+operateMediaTrack	"{""operationType"": ""test"", ""source"": ""test""}"
+requestSRFile	{}
+openNewLifeEditor	"{""Val"": ""test"", ""EndTime"": 1, ""ExptCheckSum"": ""test"", ""SvrType"": 1, ""ExptType"": 1, ""StartTime"": 1, ""BucketSrc"": 1, ""ExptSequence"": 1, ""ExptId"": 1, ""Key"": ""test"", ""GroupId"": 1}"
+recordOperateUserDataInWa	{}
+removeMapGroundOverlay	"{""mapId"": 1}"
+invokeMiniProgramAPI	{}
+showSalesDrivingMenu	{}
+reportSubmitForm	{}
+fromScreenLocation	"{""mapId"": 1}"
+translateMapMarker	{}
+vibrateLong	{}
+queryTrafficCardInfo	"{""Val"": ""test"", ""deviceType"": ""test"", ""EndTime"": 1, ""SvrType"": 1, ""deviceData"": {}, ""BucketSrc"": 1, ""StartTime"": 1, ""GroupId"": 1, ""ExptCheckSum"": ""test"", ""ExptType"": 1, ""ExptSequence"": 1, ""ExptId"": 1, ""Key"": ""test""}"
+requestWCPayRealnameVerify	"{""Val"": ""test"", ""EndTime"": 1, ""ExptCheckSum"": ""test"", ""SvrType"": 1, ""ExptType"": 1, ""StartTime"": 1, ""BucketSrc"": 1, ""ExptId"": 1, ""ExptSequence"": 1, ""Key"": ""test"", ""GroupId"": 1}"
+getIPAddress	{}
+setMapCenterOffset	"{""animated"": true, ""mapId"": 1}"
+preloadSkylineView	{}
+cropImage	"{""rendererOptions"": {}, ""customButtonIconData"": ""test"", ""renderer"": ""test"", ""singlePage"": {}, ""enableFullScreen"": true, ""skyline"": {}, ""sdkVersionEnd"": ""test"", ""navigationBarFit"": ""test"", ""sdkVersionBegin"": ""test"", ""homeButton"": true, ""androidVersionEnd"": ""test"", ""navigationBarBackgroundColor"": ""test"", ""navigationBarTitleText"": ""test"", ""height"": 1, ""backgroundColor"": ""test"", ""navigationStyle"": ""test"", ""resizable"": true, ""src"": ""test"", ""androidVersionBegin"": ""test"", ""enablePullDownRefresh"": true, ""disableABTest"": true, ""backgroundTextStyle"": ""test"", ""visualEffectInBackground"": ""test"", ""handleWebviewPreload"": ""test"", ""hide"": true, ""navigationBarRightButton"": {}, ""navigationBarBackgroundAlpha"": 1.0, ""pageOrientation"": ""test"", ""backgroundColorContent"": ""test"", ""disableSwipeBack"": true, ""navigationBarTextStyle"": ""test"", ""width"": 1, ""window"": {}, ""page"": {}}"
+setUserAutoFillData	"{""dataList"": ""test"", ""clientVersion"": 1}"
+getStorageInfo	"{""storageId"": 1}"
+canvasToTempFilePath	"{""width"": 1, ""destWidth"": ""test"", ""fileType"": ""test"", ""destHeight"": ""test"", ""height"": 1, ""quality"": 1.0}"
+cryptoCompute	"{""id"": 1}"
+shareAppMessage	"{""rendererOptions"": {}, ""customButtonIconData"": ""test"", ""videoMD5"": ""test"", ""singlePage"": {}, ""type"": ""test"", ""sdkVersionEnd"": ""test"", ""sdkVersionBegin"": ""test"", ""homeButton"": true, ""liteAppPath"": ""test"", ""mode"": ""test"", ""path"": ""test"", ""chatroomUsername"": ""test"", ""playDesc"": ""test"", ""navigationBarBackgroundColor"": ""test"", ""liteAppId"": ""test"", ""androidVersionBegin"": ""test"", ""appBrandPriority"": 1, ""visualEffectInBackground"": ""test"", ""videoPath"": ""test"", ""thumbDataHash"": ""test"", ""navigationBarRightButton"": {}, ""useDefaultSnapshot"": true, ""pageOrientation"": ""test"", ""navigationBarBackgroundAlpha"": 1.0, ""backgroundColorContent"": ""test"", ""webViewUrl"": ""test"", ""disableForward"": true, ""page"": {}, ""desc"": ""test"", ""videoThumbPath"": ""test"", ""renderer"": ""test"", ""liteAppQuery"": ""test"", ""signature"": ""test"", ""openId"": ""test"", ""enableFullScreen"": true, ""link"": ""test"", ""liteAppBizData"": ""test"", ""skyline"": {}, ""title"": ""test"", ""navigationBarFit"": ""test"", ""androidVersionEnd"": ""test"", ""liteAppPriority"": 1, ""cacheKey"": ""test"", ""navigationBarTitleText"": ""test"", ""imageUrl"": ""test"", ""messageExtraData"": ""test"", ""hasRelievedBuyPlugin"": true, ""backgroundColor"": ""test"", ""videoButtonText"": ""test"", ""navigationStyle"": ""test"", ""resizable"": true, ""cardSubType"": 1, ""enablePullDownRefresh"": true, ""sdk_isFromMenu"": true, ""disableABTest"": true, ""backgroundTextStyle"": ""test"", ""handleWebviewPreload"": ""test"", ""hide"": true, ""disableSwipeBack"": true, ""navigationBarTextStyle"": ""test"", ""to"": ""test"", ""window"": {}, ""webpageUrl"": ""test""}"
+private_openUrl	"{""Val"": ""test"", ""commonUxInfo"": ""test"", ""EndTime"": 1, ""SvrType"": 1, ""BucketSrc"": 1, ""StartTime"": 1, ""url"": ""test"", ""GroupId"": 1, ""scene"": 1, ""ExptCheckSum"": ""test"", ""ExptType"": 1, ""isNativeStyle"": true, ""adInfo"": ""test"", ""ExptSequence"": 1, ""ExptId"": 1, ""adUxInfo"": ""test"", ""Key"": ""test""}"
+preloadWebview	{}
+openWeAppSearch	"{""Val"": ""test"", ""ExptCheckSum"": ""test"", ""EndTime"": 1, ""SvrType"": 1, ""ExptType"": 1, ""StartTime"": 1, ""BucketSrc"": 1, ""ExptSequence"": 1, ""ExptId"": 1, ""Key"": ""test"", ""GroupId"": 1}"
+chooseContact	{}
+addDownloadTask	"{""downloaderType"": 1, ""taskUrl"": ""test"", ""appId"": ""test"", ""showNotification"": true, ""taskName"": ""test"", ""packageName"": ""test"", ""taskSize"": 1, ""fileMd5"": ""test"", ""fileType"": ""test"", ""downloadInWifi"": true, ""extInfo"": ""test""}"
+setDeviceOrientation	"{""value"": ""test""}"
+operateNativeView	"{""viewId"": 1}"
+requestPayment	{}
+getLocalLiveInfo	{}
+updateShareMenuDynamic	"{""isDynamic"": true}"
+shareFileMessage	"{""Val"": ""test"", ""fileName"": ""test"", ""EndTime"": 1, ""SvrType"": 1, ""filePath"": ""test"", ""StartTime"": 1, ""BucketSrc"": 1, ""GroupId"": 1, ""ExptCheckSum"": ""test"", ""ExptType"": 1, ""ExptId"": 1, ""ExptSequence"": 1, ""Key"": ""test""}"
+enterContact	"{""rendererOptions"": {}, ""customButtonIconData"": ""test"", ""renderer"": ""test"", ""sessionFrom"": ""test"", ""singlePage"": {}, ""enableFullScreen"": true, ""businessId"": ""test"", ""skyline"": {}, ""sdkVersionEnd"": ""test"", ""navigationBarFit"": ""test"", ""sdkVersionBegin"": ""test"", ""homeButton"": true, ""androidVersionEnd"": ""test"", ""navigationBarBackgroundColor"": ""test"", ""navigationBarTitleText"": ""test"", ""showMessageCard"": true, ""backgroundColor"": ""test"", ""navigationStyle"": ""test"", ""resizable"": true, ""androidVersionBegin"": ""test"", ""enablePullDownRefresh"": true, ""disableABTest"": true, ""backgroundTextStyle"": ""test"", ""visualEffectInBackground"": ""test"", ""sendMessageImg"": ""test"", ""sendMessageTitle"": ""test"", ""handleWebviewPreload"": ""test"", ""navigationBarRightButton"": {}, ""hide"": true, ""pageOrientation"": ""test"", ""navigationBarBackgroundAlpha"": 1.0, ""backgroundColorContent"": ""test"", ""disableSwipeBack"": true, ""navigationBarTextStyle"": ""test"", ""window"": {}, ""page"": {}, ""sendMessagePath"": ""test""}"
+enableSplashAdHotStart	"{""intervalThreshold"": 1, ""isShow"": true}"
+setClipboardData	"{""data"": ""test""}"
+unlink	{}
+pauseDownloadTask	"{""downloadId"": 1}"
+getRegionData	{}
+hideVirtualBottomNavigationBar	{}
+restart	"{""mode"": ""test"", ""privateExtraData"": ""test"", ""force"": true, ""url"": ""test"", ""scene"": 1}"
+secureTunnel	{}
+openQRCode	"{""Val"": ""test"", ""EndTime"": 1, ""SvrType"": 1, ""StartTime"": 1, ""BucketSrc"": 1, ""GroupId"": 1, ""ExptCheckSum"": ""test"", ""needResult"": ""test"", ""ExptType"": 1, ""scanType"": ""test"", ""ExptId"": 1, ""ExptSequence"": 1, ""Key"": ""test"", ""desc"": ""test""}"
+requestPayment	{}
+hideNavigationBar	{}
+releaseInferenceSession	"{""sessionId"": 1}"
+setCurrentPaySpeech	"{""dialectPackId"": ""test"", ""tempFilePath"": ""test"", ""md5Sum"": ""test"", ""version"": ""test"", ""isOnlyDownload"": true}"
+clearAdPushMsg	"{""slotid"": ""test""}"
+addMapMarkers	"{""rotate"": 1.0, ""borderColor"": ""test"", ""callout"": ""test"", ""color"": ""test"", ""independent"": true, ""data"": ""test"", ""latitude"": ""test"", ""clusterId"": 1, ""content"": ""test"", ""bgColor"": ""test"", ""alpha"": 1.0, ""id"": ""test"", ""floorName"": ""test"", ""shadowColor"": ""test"", ""longitude"": ""test"", ""zIndex"": 1, ""joinCluster"": true, ""textAlign"": ""test"", ""display"": 1, ""customCallout"": ""test"", ""clear"": true, ""label"": ""test"", ""shadowOpacity"": 1, ""ariaLabel"": ""test"", ""buildingId"": ""test"", ""collision"": ""test"", ""viewId"": 1, ""anchor"": ""test"", ""x"": 1.0, ""y"": 1.0, ""fontSize"": 1, ""mapId"": 1, ""iconPath"": ""test"", ""markers"": ""test""}"
+roamApiChannel	{}
+login	{}
+createVestUser	"{""editAvatarInfo"": {}, ""avatarUrl"": ""test"", ""nickname"": ""test"", ""defaultAvatarFileId"": ""test"", ""id"": ""test"", ""sessionId"": 1, ""defaultAvatarUrl"": ""test""}"
+updateAppContact	"{""appId"": ""test"", ""username"": ""test""}"
+reportPageData	{}
+removeSavedFile	"{""filePath"": ""test""}"
+getRandomValues	"{""length"": 1}"
+openChannelsLiveCollection	"{""Val"": ""test"", ""ExptCheckSum"": ""test"", ""EndTime"": 1, ""SvrType"": 1, ""ExptType"": 1, ""StartTime"": 1, ""BucketSrc"": 1, ""ExptSequence"": 1, ""ExptId"": 1, ""Key"": ""test"", ""GroupId"": 1}"
+getAvailableAudioSources	{}
+createInferenceSession	"{""allowGPU"": true, ""allowQuantize"": true, ""useNpuOnly"": true, ""typicalShape"": {}, ""model"": ""test"", ""allowNPU"": true, ""typicalDataFile"": {}, ""precisionLevel"": 1}"
+requestBizSplitBillPayment	"{""orderNo"": ""test""}"
+responseClientRequest	"{""data"": ""test"", ""id"": 1, ""support"": true}"
+faceDetect	{}
+requestVirtualPayment	"{""Val"": ""test"", ""currencyType"": ""test"", ""virtualPaySign"": ""test"", ""EndTime"": 1, ""SvrType"": 1, ""StartTime"": 1, ""count"": 1, ""BucketSrc"": 1, ""priceLevel"": ""test"", ""GroupId"": 1, ""extInfo"": ""test"", ""ExptCheckSum"": ""test"", ""outTradeNo"": ""test"", ""ExptType"": 1, ""attach"": ""test"", ""ExptId"": 1, ""ExptSequence"": 1, ""Key"": ""test"", ""desc"": ""test""}"
+disableLocationUpdate	{}
+updateVoIPChatMuteConfig	"{""Val"": ""test"", ""EndTime"": 1, ""SvrType"": 1, ""StartTime"": 1, ""BucketSrc"": 1, ""GroupId"": 1, ""ExptCheckSum"": ""test"", ""ExptType"": 1, ""handsFree"": true, ""ExptSequence"": 1, ""ExptId"": 1, ""Key"": ""test"", ""roomType"": 1}"
+addBLEPeripheralService	"{""readable"": true, ""characteristics"": [], ""read"": true, ""permission"": {}, ""readEncryptionRequired"": true, ""writeable"": true, ""uuid"": ""test"", ""serverId"": 1, ""notify"": true, ""writeEncryptionRequired"": true, ""descriptors"": [], ""writeNoResponse"": true, ""service"": {}, ""indicate"": true, ""value"": ""test"", ""write"": true, ""properties"": {}}"
+openWeComUserProfile	"{""Val"": ""test"", ""EndTime"": 1, ""SvrType"": 1, ""BucketSrc"": 1, ""bizInfo"": ""test"", ""StartTime"": 1, ""scene"": 1, ""GroupId"": 1, ""ExptCheckSum"": ""test"", ""ExptType"": 1, ""ExptSequence"": 1, ""ExptId"": 1, ""Key"": ""test""}"
+shareAppMessageDirectly	"{""rendererOptions"": {}, ""customButtonIconData"": ""test"", ""videoMD5"": ""test"", ""singlePage"": {}, ""sdkVersionBegin"": ""test"", ""type"": ""test"", ""sdkVersionEnd"": ""test"", ""homeButton"": true, ""liteAppPath"": ""test"", ""mode"": ""test"", ""playDesc"": ""test"", ""chatroomUsername"": ""test"", ""path"": ""test"", ""navigationBarBackgroundColor"": ""test"", ""liteAppId"": ""test"", ""androidVersionBegin"": ""test"", ""appBrandPriority"": 1, ""visualEffectInBackground"": ""test"", ""videoPath"": ""test"", ""thumbDataHash"": ""test"", ""navigationBarRightButton"": {}, ""useDefaultSnapshot"": true, ""navigationBarBackgroundAlpha"": 1.0, ""pageOrientation"": ""test"", ""backgroundColorContent"": ""test"", ""webViewUrl"": ""test"", ""disableForward"": true, ""page"": {}, ""desc"": ""test"", ""videoThumbPath"": ""test"", ""liteAppQuery"": ""test"", ""renderer"": ""test"", ""signature"": ""test"", ""enableFullScreen"": true, ""openId"": ""test"", ""link"": ""test"", ""liteAppBizData"": ""test"", ""skyline"": {}, ""navigationBarFit"": ""test"", ""title"": ""test"", ""androidVersionEnd"": ""test"", ""liteAppPriority"": 1, ""cacheKey"": ""test"", ""imageUrl"": ""test"", ""navigationBarTitleText"": ""test"", ""messageExtraData"": ""test"", ""hasRelievedBuyPlugin"": true, ""backgroundColor"": ""test"", ""videoButtonText"": ""test"", ""navigationStyle"": ""test"", ""resizable"": true, ""cardSubType"": 1, ""enablePullDownRefresh"": true, ""sdk_isFromMenu"": true, ""disableABTest"": true, ""backgroundTextStyle"": ""test"", ""handleWebviewPreload"": ""test"", ""hide"": true, ""disableSwipeBack"": true, ""navigationBarTextStyle"": ""test"", ""window"": {}, ""to"": ""test"", ""webpageUrl"": ""test""}"
+verifyPaymentPassword	{}
+publishWechatStateActivity	"{""Val"": ""test"", ""ExptCheckSum"": ""test"", ""EndTime"": 1, ""SvrType"": 1, ""ExptType"": 1, ""BucketSrc"": 1, ""StartTime"": 1, ""ExptId"": 1, ""ExptSequence"": 1, ""Key"": ""test"", ""GroupId"": 1}"
+openWeComUserProfile	"{""Val"": ""test"", ""EndTime"": 1, ""SvrType"": 1, ""StartTime"": 1, ""bizInfo"": ""test"", ""BucketSrc"": 1, ""scene"": 1, ""GroupId"": 1, ""ExptCheckSum"": ""test"", ""ExptType"": 1, ""ExptSequence"": 1, ""ExptId"": 1, ""Key"": ""test""}"
+closeSplashAd	"{""animated"": true, ""source"": ""test""}"
+showShareActionSheet	{}
+showStatusBar	{}
+closeBLEPeripheralServer	"{""serverId"": 1}"
+checkTrafficCardConditions	"{""Val"": ""test"", ""deviceType"": ""test"", ""EndTime"": 1, ""SvrType"": 1, ""StartTime"": 1, ""deviceData"": {}, ""BucketSrc"": 1, ""GroupId"": 1, ""ExptCheckSum"": ""test"", ""ExptType"": 1, ""ExptId"": 1, ""ExptSequence"": 1, ""Key"": ""test""}"
+batchSetStorage	"{""kvList"": [], ""data"": ""test"", ""dataType"": ""test"", ""key"": ""test"", ""storageId"": 1}"
+hideKeyboard	{}
+createUploadTaskAsync	{}
+uploadToCommonCDN	"{""snsUploadVersion"": 1, ""appType"": 1, ""filePath"": ""test"", ""fileData"": ""test"", ""action"": ""test"", ""isStorageMode"": true, ""fileKey"": ""test"", ""fileType"": 1, ""thumbFilePath"": ""test"", ""thumbFileData"": ""test""}"
+getMapScale	"{""mapId"": 1}"
+getVideoInfo	"{""src"": ""test""}"
+checkStrangerContactListIsFriend	"{""data"": {}}"
+launchMiniProgram	"{""SystemAuthBizScene"": 1, ""downloadURL"": ""test"", ""Uint32WxaLibPrivateMaxFileStorageSizeInMB"": 1, ""TempFileSizeLimitTotal"": 1, ""scene"": 1, ""path"": ""test"", ""NewSetting"": {}, ""auto_update"": true, ""WidgetImageFlowLimitMaxSize"": 1, ""HeaderBlackList"": [], ""ClientStorageMinMB"": 1, ""AppServiceType"": 1, ""MaxWorkerConcurrent"": 1, ""DownloadMaxTimeoutMS"": 1, ""black_style"": {}, ""height"": 1, ""NativeBufferSizeLimitByte"": 1, ""LifeSpanAfterSuspend"": 1, ""UploadMaxTimeoutMS"": 1, ""version"": 1, ""materialSize"": 1, ""noRelaunchIfPathUnchanged"": true, ""navigation_bar_text_color"": ""test"", ""GamePerfCollectInterval"": 1, ""CanPreFetchData"": 1, ""icon_big"": {}, ""size"": 1, ""preSceneNote"": ""test"", ""firstPageNavigationStyle"": ""test"", ""MaxCodeSize"": 1, ""BrandOfficialLabel"": 1, ""Key"": ""test"", ""AgeAppropriateLevel"": 1, ""plugin_id"": ""test"", ""separated_plugin_list"": ""test"", ""renderer"": ""test"", ""version_desc"": ""test"", ""MaxDownloadConcurrent"": 1, ""independent"": true, ""CheckInterval"": 1, ""SvrType"": 1, ""WebsocketMaxTimeoutMS"": 1, ""module_list"": ""test"", ""StarNumberLimitation"": 1, ""SyncLaunchSceneList"": [], ""SystemAuthFrequencyLimitFlag"": 1, ""UsePackageConfirmSubDescScopeList"": [], ""icon_dark"": {}, ""PullVersionWxaUsageLastInterval"": 1, ""WidgetDrawMinInterval"": 1, ""PeriodFetchData"": 1, ""sessionId"": ""test"", ""AppMaxBackgroundLaunchBluetoothCount"": 1, ""background_color"": ""test"", ""OpenWxaWaitUpdateMinMicSec"": 1, ""template_id"": 1, ""TaskBarSyncUsageRecordIntervalMinute"": 1, ""HTTPSetting"": {}, ""PullVersionMaxCountPerRequest"": 1, ""OpenWxaWaitUpdateMaxMicSecForWeakNet"": 1, ""contexts"": [], ""GlobalWxaFileStorageCleanMbThreshold"": 1, ""semver"": ""test"", ""MaxUploadConcurrent"": 1, ""appId"": ""test"", ""TaskBarItemCountLimitation"": 1, ""inner_version"": 1, ""PreCgiCallByteBeforeLaunch"": ""test"", ""StartTime"": 1, ""ShowRelievedBuyFlag"": 1, ""WeUseRecallInterval"": 1, ""WidgetImageFlowLimitDuration"": 1, ""device_orientation"": ""test"", ""ExptType"": 1, ""page"": {}, ""HeaderWhiteList"": [], ""WxaWebRenderingCacheMaxStorageSizeMB"": 1, ""RunningFlagInfo"": {}, ""AppSharedResourceBackgroundRunningCount"": 1, ""PrefetchDNSDomain"": [], ""InvalidContactFreqBlockSeconds"": 1, ""NewTaskBarRecentsItemCountLimitation"": 1, ""AppVersion"": 1, ""PackageManager"": {}, ""NewCategories"": [], ""DownloadFileSizeLimit"": 1, ""ExpendedMaxWebviewDepth"": 1, ""without_lib_md5"": ""test"", ""PreDownloadUserNameBlackList"": [], ""SingleWxaFileStorageCleanMbThreshold"": 1, ""debug_launch_info"": ""test"", ""CanShowLoadingAdvert"": 1, ""OriginalRedirectUrl"": ""test"", ""OpenWxaWaitUpdateMaxMicSec"": 1, ""CanPeriodFetchData"": 1, ""username"": ""test"", ""fromBusinessUsername"": ""test"", ""Val"": ""test"", ""WsRequestDomain"": [], ""extraData"": ""test"", ""FlagshipSetting"": {}, ""OpendataMaxFileStorageSize"": 1, ""UploadDomain"": [], ""UDPDomain"": [], ""Appid"": ""test"", ""Network"": {}, ""GuaranteeFlag"": 1, ""open_remote"": true, ""VersionMD5"": ""test"", ""ExptId"": 1, ""AppMaxRunningCount"": 1, ""ForceSyncUpdateWhenLaunchLastInterval"": 1, ""WithoutContactClearSeconds"": 1, ""MaxBackgroundLifespan"": 1, ""Uint32MaxTempFileStorageSizeInMB"": 1, ""loading_image_info"": {}, ""progressbar_color"": ""test"", ""RunningFlag"": 1, ""MigrateInfo"": {}, ""EndTime"": 1, ""Uint32MinTempFileStorageSizeInMB"": 1, ""CanShowGameLoadingAdvert"": 1, ""TCPDomain"": [], ""widget_list"": [], ""AppMaxBackgroundBluetoothCount"": 1, ""Uint32MaxLocalstorageSizeInMB"": 1, ""instanceId"": ""test"", ""TLSSkipHostnameCheck"": 1, ""MaxGlobalStorageItemSize"": 1, ""wxapkg_md5"": ""test"", ""HTTPHeaderReferer"": ""test"", ""CanNotStarWxaBeforeTime"": 1, ""LifeSpanBeforeSuspend"": 1, ""DownloadDomain"": [], ""SubContextImgDomain"": [], ""resizable"": true, ""WechatPluginApp"": 1, ""fake_native_loading_style_info"": {}, ""url"": ""test"", ""MaxGlobalStorageSize"": 1, ""GroupId"": 1, ""icon_gray"": {}, ""envVersion"": ""test"", ""RequestDomain"": [], ""CDNBaseURL"": ""test"", ""width"": 1, ""ExptSequence"": 1, ""MaxRequestConcurrent"": 1, ""first"": ""test"", ""AgeAppropriateIcon"": {}, ""BatchPreFetchBusiFlag"": 1, ""md5"": ""test"", ""checkSumMd5"": ""test"", ""entrance_module"": ""test"", ""BucketSrc"": 1, ""client_js_ext_info"": ""test"", ""preScene"": 1, ""package_type"": 1, ""GameMaxRunningCount"": 1, ""PerformIndexReportGapInSeconds"": 1, ""RequestMaxTimeoutMS"": 1, ""second"": ""test"", ""sceneNote"": ""test"", ""Uint32OpendataMaxLocalstorageSizeInMB"": 1, ""WXDataMaxRequestConcurrent"": 1, ""MaxLocalStorageItemSize"": 1, ""icon_green"": {}, ""custom_version"": ""test"", ""white_style"": {}, ""BluetoothBackgroundTimeoutWithoutConnectionInSeconds"": 1, ""EntranceModule"": ""test"", ""halfPage"": {}, ""WebsocketSkipPortCheck"": 1, ""MaxWebsocketConnect"": 1, ""prefix_path"": ""test"", ""materialName"": ""test"", ""NativeBufferQueueLimitByte"": 1, ""TradeGuaranteeMenuSetting"": ""test"", ""icon_light"": {}, ""HTTPHeaderMode"": ""test"", ""WholeClientStoragePercent"": 1, ""CanKeepAliveByAudioPlay"": 1, ""NextTryOpenWxaDisMicSec"": 1, ""SyncVersionSetting"": {}, ""VersionState"": 1, ""code_size"": 1, ""dev_key"": 1, ""brotli"": true, ""WhiteScreenDetectThresholdFloatNew"": 1.0, ""OriginalFlag"": 1, ""AppOpenForbiddenUrl"": ""test"", ""PeriodFetchDataDay"": 1, ""isTransparentBackgroundSupport"": ""test"", ""UseModule"": true, ""alias"": [], ""GamePerfCollectSamplePercentage"": 1.0, ""GameDownloadFileSizeLimit"": 1, ""LoadingWeakNetDelayDurationInSecondsAndroid"": 1, ""ShowFlagshipFlag"": 1, ""Uint32MaxFileStorageSizeInMB"": 1, ""LaunchFallbackMinVersion"": 1, ""ExptCheckSum"": ""test"", ""PullVersionMaxCount"": 1, ""parallelDownloadOnLaunchStage"": true, ""ScanCodeEnableZZM"": 1, ""PullVersionInterval"": 1, ""target_appid"": ""test"", ""CDNPreConnectURL"": ""test"", ""RelievedBuySetting"": {}}"
+removeXWebLivePlayer	"{""viewId"": 1}"
+enableAccelerometer	"{""enable"": true, ""interval"": 1}"
+stopNFCDiscovery	{}
+getEncryptHKPasswd	"{""Val"": ""test"", ""EndTime"": 1, ""ExptCheckSum"": ""test"", ""SvrType"": 1, ""ExptType"": 1, ""BucketSrc"": 1, ""StartTime"": 1, ""ExptSequence"": 1, ""ExptId"": 1, ""Key"": ""test"", ""GroupId"": 1}"
+setAppSnapshotStrategy	"{""ignoreNative"": true, ""shortEdge"": 1}"
+requestFindPayPwdWay	{}
+chooseMultiMedia	"{""Val"": ""test"", ""EndTime"": 1, ""poiName"": ""test"", ""SvrType"": 1, ""latitude"": 1.0, ""StartTime"": 1, ""BucketSrc"": 1, ""count"": 1, ""pickAlbumType"": 1, ""cameraType"": [], ""GroupId"": 1, ""locationRadius"": 1.0, ""ExptCheckSum"": ""test"", ""sourceType"": [], ""ExptType"": 1, ""location"": {}, ""ExptId"": 1, ""ExptSequence"": 1, ""Key"": ""test"", ""maxDuration"": 1, ""longitude"": 1.0}"
+openAddress	"{""Val"": ""test"", ""ExptCheckSum"": ""test"", ""EndTime"": 1, ""SvrType"": 1, ""ExptType"": 1, ""BucketSrc"": 1, ""StartTime"": 1, ""ExptId"": 1, ""ExptSequence"": 1, ""Key"": ""test"", ""GroupId"": 1}"
+reportCanvasData	"{""eventInfo"": ""test"", ""viewId"": 1}"
+uploadWeRunData	"{""step"": 1}"
+openWCPayLQTDetail	"{""Val"": ""test"", ""auto_jump_charge_setting"": 1, ""package"": ""test"", ""EndTime"": 1, ""SvrType"": 1, ""BucketSrc"": 1, ""StartTime"": 1, ""nonceStr"": ""test"", ""GroupId"": 1, ""timeStamp"": ""test"", ""ExptCheckSum"": ""test"", ""paySign"": ""test"", ""ExptType"": 1, ""show_open_toast"": 1, ""signType"": ""test"", ""pay_channel"": ""test"", ""ExptSequence"": 1, ""ExptId"": 1, ""Key"": ""test""}"
+getInferenceEnvInfo	"{""Val"": ""test"", ""ExptCheckSum"": ""test"", ""EndTime"": 1, ""SvrType"": 1, ""ExptType"": 1, ""BucketSrc"": 1, ""StartTime"": 1, ""ExptId"": 1, ""ExptSequence"": 1, ""Key"": ""test"", ""GroupId"": 1}"
+updateMultiPickerView	"{""current"": 1, ""headerText"": ""test"", ""array"": [], ""column"": 1}"
+openSetting	"{""Val"": ""test"", ""EndTime"": 1, ""SvrType"": 1, ""StartTime"": 1, ""BucketSrc"": 1, ""GroupId"": 1, ""ExptCheckSum"": ""test"", ""withSubscriptions"": true, ""ExptType"": 1, ""ExptId"": 1, ""ExptSequence"": 1, ""Key"": ""test"", ""username"": ""test""}"
+getMusicPlayerState	{}
+unzip	{}
+setVolume	"{""value"": 1}"
+setMapLocMarkerIcon	"{""mapId"": 1, ""iconPath"": ""test""}"
+updateShareMenuToDo	"{""toDoActivityId"": ""test"", ""isToDoMessage"": true}"
+updateApp	{}
+openCustomerServiceChat	"{""rendererOptions"": {}, ""customButtonIconData"": ""test"", ""renderer"": ""test"", ""singlePage"": {}, ""enableFullScreen"": true, ""skyline"": {}, ""sdkVersionEnd"": ""test"", ""navigationBarFit"": ""test"", ""sdkVersionBegin"": ""test"", ""sendMessageHintTitle"": ""test"", ""scene"": 1, ""extInfo"": ""test"", ""homeButton"": true, ""androidVersionEnd"": ""test"", ""navigationBarBackgroundColor"": ""test"", ""finder_context"": ""test"", ""navigationBarTitleText"": ""test"", ""showMessageCard"": true, ""backgroundColor"": ""test"", ""navigationStyle"": ""test"", ""resizable"": true, ""androidVersionBegin"": ""test"", ""enablePullDownRefresh"": true, ""backgroundTextStyle"": ""test"", ""disableABTest"": true, ""visualEffectInBackground"": ""test"", ""sendMessageImg"": ""test"", ""url"": ""test"", ""handleWebviewPreload"": ""test"", ""sendMessageTitle"": ""test"", ""hide"": true, ""navigationBarRightButton"": {}, ""pageOrientation"": ""test"", ""navigationBarBackgroundAlpha"": 1.0, ""sendMessageParam"": {}, ""backgroundColorContent"": ""test"", ""disableSwipeBack"": true, ""navigationBarTextStyle"": ""test"", ""page"": {}, ""sendMessagePath"": ""test"", ""window"": {}}"
+isSupportNFC	{}
+includeMapPoints	"{""padding"": ""test"", ""latitude"": ""test"", ""mapId"": 1, ""longitude"": ""test"", ""points"": ""test""}"
+requestOfflineUserBindQuery	"{""timeStamp"": ""test"", ""package"": ""test"", ""paySign"": ""test"", ""signType"": ""test"", ""nonceStr"": ""test""}"
+setScreenBrightness	{}
+addMapCustomLayer	"{""layerId"": ""test"", ""mapId"": 1}"
+removeSplashScreenshot	{}
+removeTextArea	{}
+operateLocalServicesScan	"{""serviceType"": ""test"", ""action"": ""test""}"
+highlightTitleForSinglePage	{}
+refreshSession	{}
+sendBizRedPacket	"{""Val"": ""test"", ""pay_scene"": 1, ""key_appbrand_from_path"": ""test"", ""result_jump_mode"": ""test"", ""EndTime"": 1, ""key_appbrand_from_scene"": ""test"", ""SvrType"": 1, ""BucketSrc"": 1, ""key_appbrand_from_username"": ""test"", ""src_username"": ""test"", ""key_joint_pay"": true, ""scene"": 1, ""paySign"": ""test"", ""key_qrcode_timeline_objid"": ""test"", ""key_qrcode_session_type"": 1, ""appId"": ""test"", ""signType"": ""test"", ""key_qrcode_session_name"": ""test"", ""ExptId"": 1, ""pay_for_wallet_type"": 1, ""package"": ""test"", ""cookie"": ""test"", ""key_chat_type"": 1, ""StartTime"": 1, ""ext_info"": ""test"", ""reqKey"": ""test"", ""nonceStr"": ""test"", ""url"": ""test"", ""token"": ""test"", ""GroupId"": 1, ""timeStamp"": ""test"", ""pay_code_scene"": 1, ""businessScene"": 1, ""ExptCheckSum"": ""test"", ""ExptType"": 1, ""pay_channel"": 1, ""key_send_type"": 1, ""partnerId"": ""test"", ""ExptSequence"": 1, ""Key"": ""test"", ""payScene"": 1}"
+setBackgroundAudioState	"{""src"": ""test""}"
+createBLEConnection	"{""Val"": ""test"", ""mainThread"": true, ""connectionPriority"": ""test"", ""debug"": true, ""EndTime"": 1, ""SvrType"": 1, ""StartTime"": 1, ""BucketSrc"": 1, ""discoverDelay"": 1, ""transport"": ""test"", ""doDiscover"": true, ""deviceId"": ""test"", ""GroupId"": 1, ""autoConnect"": true, ""ExptCheckSum"": ""test"", ""ExptType"": 1, ""ExptSequence"": 1, ""ExptId"": 1, ""Key"": ""test""}"
+chooseShareGroup	"{""labelList"": [], ""private"": true, ""userList"": [], ""visible"": true, ""public"": true, ""invisible"": true, ""group"": ""test""}"
+scanItem	"{""data"": ""test""}"
+getVolume	{}
+closeBLEConnection	"{""Val"": ""test"", ""mainThread"": true, ""debug"": true, ""EndTime"": 1, ""SvrType"": 1, ""StartTime"": 1, ""BucketSrc"": 1, ""deviceId"": ""test"", ""GroupId"": 1, ""ExptCheckSum"": ""test"", ""ExptType"": 1, ""ExptId"": 1, ""ExptSequence"": 1, ""Key"": ""test""}"
+createDownloadTaskAsync	{}
+operateWxappCGI	"{""uiCgi"": 1, ""uri"": ""test"", ""username"": ""test""}"
+updateXWebVoIPView	"{""viewId"": 1}"
+openFinderProfile	"{""Val"": ""test"", ""EndTime"": 1, ""ExptCheckSum"": ""test"", ""SvrType"": 1, ""ExptType"": 1, ""StartTime"": 1, ""BucketSrc"": 1, ""ExptSequence"": 1, ""ExptId"": 1, ""Key"": ""test"", ""username"": ""test"", ""GroupId"": 1}"
+removeStorage	"{""key"": ""test"", ""storageId"": 1}"
+reLaunch	"{""url"": ""test""}"
+startGameLive	"{""Val"": ""test"", ""EndTime"": 1, ""SvrType"": 1, ""BucketSrc"": 1, ""StartTime"": 1, ""GroupId"": 1, ""path"": ""test"", ""ExptCheckSum"": ""test"", ""ExptType"": 1, ""reportInfo"": ""test"", ""ExptSequence"": 1, ""ExptId"": 1, ""Key"": ""test""}"
+openCard	"{""cardList"": ""test"", ""Val"": ""test"", ""EndTime"": 1, ""ExptCheckSum"": ""test"", ""SvrType"": 1, ""ExptType"": 1, ""BucketSrc"": 1, ""StartTime"": 1, ""ExptSequence"": 1, ""ExptId"": 1, ""Key"": ""test"", ""GroupId"": 1}"
+postMessageToReferrerMiniProgram	"{""extraData"": ""test""}"
+openSingleStickerView	"{""Val"": ""test"", ""EndTime"": 1, ""SvrType"": 1, ""BucketSrc"": 1, ""StartTime"": 1, ""GroupId"": 1, ""emojiInfoBuf"": ""test"", ""ExptCheckSum"": ""test"", ""ExptType"": 1, ""ExptSequence"": 1, ""ExptId"": 1, ""Key"": ""test"", ""md5"": ""test""}"
+requestContactDisplayInfo	"{""userHash"": ""test"", ""headUrl"": ""test"", ""nickname"": ""test"", ""userHashList"": []}"
+compressImage	"{""src"": ""test"", ""compressedWidth"": 1, ""compressedHeight"": 1, ""quality"": 1}"
+modifyFinderAccountNickname	"{""signature"": ""test"", ""nickname"": ""test"", ""username"": ""test""}"
+enableLocationUpdate	"{""enableIndoor"": true, ""subKey"": ""test"", ""type"": ""test""}"
+startFacialEncryptionVerify	"{""checkAliveType"": 1, ""requestVerifyPreInfo"": ""test""}"
+openDeliveryList	"{""query"": ""test""}"
+chooseLicensePlate	{}
+installDownloadTaskForNative	"{""appId"": ""test"", ""downloadId"": 1}"
+showShareMenuWithShareTicket	{}
+openWeAppProfile	"{""Val"": ""test"", ""EndTime"": 1, ""SvrType"": 1, ""exposeScene"": 1, ""StartTime"": 1, ""BucketSrc"": 1, ""GroupId"": 1, ""sceneNote"": ""test"", ""scene"": 1, ""ExptCheckSum"": ""test"", ""ExptType"": 1, ""ExptId"": 1, ""ExptSequence"": 1, ""Key"": ""test"", ""username"": ""test""}"
+openVideoEditor	"{""buttonOptions"": [], ""atempo"": 1.0, ""minDuration"": 1, ""bgmSrc"": ""test"", ""sdkParmas"": {}, ""filePath"": ""test"", ""needExtUrl"": true, ""chosenId"": 1, ""videoSrc"": ""test"", ""wxaFilePath"": ""test"", ""audioMix"": true, ""title"": ""test"", ""editorParmas"": {}, ""toolBars"": [], ""duration"": 1, ""volume"": 1.0, ""size"": 1, ""editType"": 1, ""thumbPath"": ""test"", ""maxDuration"": 1, ""timeRange"": []}"
+batchGetContact	"{""appIds"": []}"
+operateRecentUsageList	"{""versionType"": 1, ""actionType"": 1, ""appId"": ""test"", ""username"": ""test""}"
+setNavigateBackInterception	"{""interception"": true, ""scopes"": [], ""type"": 1}"
+bindGroup	"{""signature"": ""test"", ""groupId"": ""test"", ""nonceStr"": ""test""}"
+sendDataToH5	"{""Val"": ""test"", ""EndTime"": 1, ""data"": ""test"", ""SvrType"": 1, ""StartTime"": 1, ""BucketSrc"": 1, ""webviewId"": 1, ""GroupId"": 1, ""ExptCheckSum"": ""test"", ""ExptType"": 1, ""ExptId"": 1, ""ExptSequence"": 1, ""Key"": ""test""}"
+authorize	{}
+operateWxappStarItem	"{""actionType"": 1, ""username"": ""test""}"
+private_addContact	"{""Val"": ""test"", ""EndTime"": 1, ""ExptCheckSum"": ""test"", ""SvrType"": 1, ""ExptType"": 1, ""StartTime"": 1, ""BucketSrc"": 1, ""ExptId"": 1, ""ExptSequence"": 1, ""Key"": ""test"", ""GroupId"": 1}"
+showSplashAdMenu	"{""showMenu"": true, ""icon"": ""test"", ""title"": ""test""}"
+operateMediaContainer	"{""operationType"": ""test"", ""mimeType"": ""test"", ""containerId"": 1}"
+enableLocationUpdate	"{""enableIndoor"": true, ""subKey"": ""test"", ""type"": ""test""}"
+removeMapVisualLayer	"{""layerId"": ""test"", ""mapId"": 1}"
+openRedPacket	"{""Val"": ""test"", ""ExptCheckSum"": ""test"", ""EndTime"": 1, ""SvrType"": 1, ""ExptType"": 1, ""BucketSrc"": 1, ""StartTime"": 1, ""ExptId"": 1, ""ExptSequence"": 1, ""Key"": ""test"", ""redPacketId"": ""test"", ""GroupId"": 1}"
+shareInvitationToLiveRoom	{}
+createFinderAccount	{}
+fetchFinderProfileFeed	"{""maxId"": ""test"", ""username"": ""test""}"
+batchPreloadMiniProgram	"{""Val"": ""test"", ""EndTime"": 1, ""SvrType"": 1, ""preloadList"": ""test"", ""BucketSrc"": 1, ""preloadRate"": [], ""path"": ""test"", ""high"": 1.0, ""low"": 1.0, ""appType"": 1, ""appId"": ""test"", ""id"": 1, ""ExptId"": 1, ""openRate"": 1.0, ""middle"": 1.0, ""StartTime"": 1, ""openParams"": ""test"", ""GroupId"": 1, ""innerScene"": 1, ""businessScene"": 1, ""visitScene"": 1, ""ExptCheckSum"": ""test"", ""ExptType"": 1, ""ExptSequence"": 1, ""Key"": ""test""}"
+openStickerSetView	"{""productId"": ""test""}"
+insertXWebVoIPView	"{""viewId"": 1}"
+getGamePerformance	"{""Val"": ""test"", ""EndTime"": 1, ""ExptCheckSum"": ""test"", ""SvrType"": 1, ""ExptType"": 1, ""StartTime"": 1, ""BucketSrc"": 1, ""ExptSequence"": 1, ""ExptId"": 1, ""Key"": ""test"", ""GroupId"": 1}"
+faceProcessInit	{}
+openRealnameAuth	"{""Val"": ""test"", ""EndTime"": 1, ""SvrType"": 1, ""StartTime"": 1, ""BucketSrc"": 1, ""GroupId"": 1, ""ExptCheckSum"": ""test"", ""ExptType"": 1, ""ExptId"": 1, ""ExptSequence"": 1, ""authType"": 1, ""Key"": ""test"", ""categoryId"": ""test""}"
+getWxCommFont	"{""path"": ""test""}"
+faceVerifyForPay	"{""Val"": ""test"", ""faceVerifyTitle"": ""test"", ""package"": ""test"", ""EndTime"": 1, ""SvrType"": 1, ""StartTime"": 1, ""BucketSrc"": 1, ""GroupId"": 1, ""scene"": 1, ""packageSign"": ""test"", ""otherVerifyTitle"": ""test"", ""ExptCheckSum"": ""test"", ""ExptType"": 1, ""otherVerifyTitleFront"": ""test"", ""needFrontPage"": ""test"", ""ExptId"": 1, ""ExptSequence"": 1, ""Key"": ""test""}"
+getPhoneNumber	"{""api_name"": ""test"", ""with_credentials"": true}"
+addCard	"{""cardList"": ""test"", ""Val"": ""test"", ""EndTime"": 1, ""ExptCheckSum"": ""test"", ""SvrType"": 1, ""ExptType"": 1, ""StartTime"": 1, ""BucketSrc"": 1, ""ExptSequence"": 1, ""ExptId"": 1, ""Key"": ""test"", ""GroupId"": 1}"
+getRecentUsageList	"{""requestId"": 1, ""count"": 1, ""lastUpdateTime"": 1}"
+enableLocationUpdate	"{""enableIndoor"": true, ""subKey"": ""test"", ""type"": ""test""}"
+enableGyroscope	"{""enable"": true, ""interval"": 1}"
+exitVoIPChat	"{""Val"": ""test"", ""EndTime"": 1, ""ExptCheckSum"": ""test"", ""SvrType"": 1, ""ExptType"": 1, ""StartTime"": 1, ""BucketSrc"": 1, ""ExptSequence"": 1, ""ExptId"": 1, ""roomType"": 1, ""Key"": ""test"", ""GroupId"": 1}"
+openBizProfile	"{""Val"": ""test"", ""EndTime"": 1, ""SvrType"": 1, ""StartTime"": 1, ""BucketSrc"": 1, ""scene"": 1, ""GroupId"": 1, ""ExptCheckSum"": ""test"", ""ExptType"": 1, ""profileReportInfo"": ""test"", ""ExptId"": 1, ""ExptSequence"": 1, ""Key"": ""test"", ""username"": ""test""}"
+setEnableDebug	"{""enableDebug"": true}"
+requestPaymentToBank	"{""Val"": ""test"", ""key_appbrand_from_path"": ""test"", ""pay_scene"": 1, ""result_jump_mode"": ""test"", ""EndTime"": 1, ""SvrType"": 1, ""key_appbrand_from_scene"": ""test"", ""BucketSrc"": 1, ""key_appbrand_from_username"": ""test"", ""src_username"": ""test"", ""key_joint_pay"": true, ""scene"": 1, ""paySign"": ""test"", ""key_qrcode_timeline_objid"": ""test"", ""key_qrcode_session_type"": 1, ""appId"": ""test"", ""signType"": ""test"", ""key_qrcode_session_name"": ""test"", ""ExptId"": 1, ""pay_for_wallet_type"": 1, ""package"": ""test"", ""cookie"": ""test"", ""key_chat_type"": 1, ""StartTime"": 1, ""ext_info"": ""test"", ""reqKey"": ""test"", ""url"": ""test"", ""nonceStr"": ""test"", ""token"": ""test"", ""GroupId"": 1, ""timeStamp"": ""test"", ""pay_code_scene"": 1, ""businessScene"": 1, ""ExptCheckSum"": ""test"", ""ExptType"": 1, ""pay_channel"": 1, ""key_send_type"": 1, ""partnerId"": ""test"", ""ExptSequence"": 1, ""Key"": ""test"", ""payScene"": 1}"
+getAppContact	"{""WsRequestDomain"": [], ""fromBusinessUsername"": ""test"", ""SystemAuthBizScene"": 1, ""Uint32WxaLibPrivateMaxFileStorageSizeInMB"": 1, ""UploadDomain"": [], ""UDPDomain"": [], ""NewSetting"": {}, ""Appid"": ""test"", ""auto_update"": true, ""Network"": {}, ""AppServiceType"": 1, ""MaxWorkerConcurrent"": 1, ""GuaranteeFlag"": 1, ""VersionMD5"": ""test"", ""black_style"": {}, ""ForceSyncUpdateWhenLaunchLastInterval"": 1, ""MaxBackgroundLifespan"": 1, ""LifeSpanAfterSuspend"": 1, ""Uint32MaxTempFileStorageSizeInMB"": 1, ""navigation_bar_text_color"": ""test"", ""loading_image_info"": {}, ""CanPreFetchData"": 1, ""size"": 1, ""progressbar_color"": ""test"", ""firstPageNavigationStyle"": ""test"", ""MaxCodeSize"": 1, ""BrandOfficialLabel"": 1, ""RunningFlag"": 1, ""AgeAppropriateLevel"": 1, ""plugin_id"": ""test"", ""separated_plugin_list"": ""test"", ""MigrateInfo"": {}, ""renderer"": ""test"", ""MaxDownloadConcurrent"": 1, ""independent"": true, ""version_desc"": ""test"", ""keyPath"": ""test"", ""Uint32MinTempFileStorageSizeInMB"": 1, ""CanShowGameLoadingAdvert"": 1, ""TCPDomain"": [], ""widget_list"": [], ""Uint32MaxLocalstorageSizeInMB"": 1, ""module_list"": [], ""TLSSkipHostnameCheck"": 1, ""wxapkg_md5"": ""test"", ""CanNotStarWxaBeforeTime"": 1, ""LifeSpanBeforeSuspend"": 1, ""SystemAuthFrequencyLimitFlag"": 1, ""DownloadDomain"": [], ""resizable"": true, ""WechatPluginApp"": 1, ""PeriodFetchData"": 1, ""fake_native_loading_style_info"": {}, ""url"": ""test"", ""background_color"": ""test"", ""OpenWxaWaitUpdateMinMicSec"": 1, ""RequestDomain"": [], ""appid"": ""test"", ""template_id"": 1, ""MaxRequestConcurrent"": 1, ""first"": ""test"", ""BatchPreFetchBusiFlag"": 1, ""md5"": ""test"", ""OpenWxaWaitUpdateMaxMicSecForWeakNet"": 1, ""client_js_ext_info"": ""test"", ""contexts"": [], ""package_type"": 1, ""second"": ""test"", ""Uint32OpendataMaxLocalstorageSizeInMB"": 1, ""semver"": ""test"", ""MaxUploadConcurrent"": 1, ""custom_version"": ""test"", ""inner_version"": 1, ""white_style"": {}, ""EntranceModule"": ""test"", ""PreCgiCallByteBeforeLaunch"": ""test"", ""halfPage"": {}, ""WebsocketSkipPortCheck"": 1, ""MaxWebsocketConnect"": 1, ""ShowRelievedBuyFlag"": 1, ""prefix_path"": ""test"", ""device_orientation"": ""test"", ""CanKeepAliveByAudioPlay"": 1, ""NextTryOpenWxaDisMicSec"": 1, ""VersionState"": 1, ""code_size"": 1, ""dev_key"": 1, ""brotli"": true, ""OriginalFlag"": 1, ""RunningFlagInfo"": {}, ""AppOpenForbiddenUrl"": ""test"", ""PrefetchDNSDomain"": [], ""AppVersion"": 1, ""PeriodFetchDataDay"": 1, ""isTransparentBackgroundSupport"": ""test"", ""NewCategories"": [], ""UseModule"": true, ""ExpendedMaxWebviewDepth"": 1, ""alias"": [], ""without_lib_md5"": ""test"", ""ShowFlagshipFlag"": 1, ""Uint32MaxFileStorageSizeInMB"": 1, ""CanShowLoadingAdvert"": 1, ""OriginalRedirectUrl"": ""test"", ""OpenWxaWaitUpdateMaxMicSec"": 1, ""LaunchFallbackMinVersion"": 1, ""CanPeriodFetchData"": 1, ""parallelDownloadOnLaunchStage"": true, ""ScanCodeEnableZZM"": 1, ""target_appid"": ""test"", ""username"": ""test""}"
+openRedPacketEditPage	{}
+isBluetoothDevicePaired	"{""deviceId"": ""test""}"
+shareAppMessageForFakeNative	"{""rendererOptions"": {}, ""customButtonIconData"": ""test"", ""videoMD5"": ""test"", ""singlePage"": {}, ""defaultHintUrl"": ""test"", ""sdkVersionEnd"": ""test"", ""sdkVersionBegin"": ""test"", ""type"": ""test"", ""liteAppPath"": ""test"", ""homeButton"": true, ""mode"": ""test"", ""playDesc"": ""test"", ""path"": ""test"", ""chatroomUsername"": ""test"", ""navigationBarBackgroundColor"": ""test"", ""liteAppId"": ""test"", ""androidVersionBegin"": ""test"", ""appBrandPriority"": 1, ""bizSourceName"": ""test"", ""visualEffectInBackground"": ""test"", ""videoPath"": ""test"", ""thumbDataHash"": ""test"", ""navigationBarRightButton"": {}, ""useDefaultSnapshot"": true, ""navigationBarBackgroundAlpha"": 1.0, ""pageOrientation"": ""test"", ""backgroundColorContent"": ""test"", ""webViewUrl"": ""test"", ""disableForward"": true, ""page"": {}, ""desc"": ""test"", ""bizSourceIconUrl"": ""test"", ""liteAppQuery"": ""test"", ""videoThumbPath"": ""test"", ""renderer"": ""test"", ""bizType"": 1, ""signature"": ""test"", ""enableFullScreen"": true, ""openId"": ""test"", ""link"": ""test"", ""liteAppBizData"": ""test"", ""skyline"": {}, ""navigationBarFit"": ""test"", ""title"": ""test"", ""androidVersionEnd"": ""test"", ""liteAppPriority"": 1, ""cacheKey"": ""test"", ""imageUrl"": ""test"", ""navigationBarTitleText"": ""test"", ""tailLang"": ""test"", ""messageExtraData"": ""test"", ""hasRelievedBuyPlugin"": true, ""backgroundColor"": ""test"", ""videoButtonText"": ""test"", ""navigationStyle"": ""test"", ""resizable"": true, ""cardSubType"": 1, ""sdk_isFromMenu"": true, ""enablePullDownRefresh"": true, ""disableABTest"": true, ""backgroundTextStyle"": ""test"", ""handleWebviewPreload"": ""test"", ""hide"": true, ""disableSwipeBack"": true, ""navigationBarTextStyle"": ""test"", ""window"": {}, ""to"": ""test"", ""webpageUrl"": ""test""}"
+modifyFinderAccountAvatar	"{""avatarPath"": ""test"", ""username"": ""test""}"
+operateSmCryptoSensitive	{}
+showSplashAd	"{""adCallTime"": 1, ""cgiFetchCallBack"": 1, ""cgiFetchStart"": 1, ""errCode"": 1, ""show"": true, ""eventReceivedTime"": 1}"
+operateCallTone	"{""Val"": ""test"", ""ExptCheckSum"": ""test"", ""EndTime"": 1, ""SvrType"": 1, ""ExptType"": 1, ""BucketSrc"": 1, ""StartTime"": 1, ""ExptId"": 1, ""ExptSequence"": 1, ""roomType"": 1, ""Key"": ""test"", ""GroupId"": 1}"
+addMapCircles	"{""fillColor"": ""test"", ""color"": ""test"", ""level"": ""test"", ""latitude"": ""test"", ""circles"": ""test"", ""mapId"": 1, ""radius"": 1, ""longitude"": ""test""}"
+goToLiteAppRoam	"{""running"": ""test"", ""query"": ""test"", ""pagePath"": ""test"", ""device"": ""test""}"
+getBluetoothDevices	"{""Val"": ""test"", ""useOldImpl"": true, ""EndTime"": 1, ""ExptCheckSum"": ""test"", ""SvrType"": 1, ""ExptType"": 1, ""StartTime"": 1, ""BucketSrc"": 1, ""ExptSequence"": 1, ""ExptId"": 1, ""Key"": ""test"", ""GroupId"": 1}"
+operateSocketTask	"{""reason"": ""test"", ""code"": 1, ""data"": ""test"", ""socketTaskId"": ""test"", ""operationType"": ""test""}"
+operateWXData	{}
+insertXWebCamera	"{""cameraId"": 1}"
+requestSubscribeMessage	{}
+getAdPushMsg	"{""slotid"": ""test""}"
+hideNavigationBarLoading	{}
+hideTabBar	"{""animation"": true}"
+openSelectPayment	"{""Val"": ""test"", ""EndTime"": 1, ""SvrType"": 1, ""BucketSrc"": 1, ""StartTime"": 1, ""sessionid"": ""test"", ""url"": ""test"", ""GroupId"": 1, ""ExptCheckSum"": ""test"", ""ExptType"": 1, ""ExptId"": 1, ""ExptSequence"": 1, ""Key"": ""test""}"
+openWCPayLQTSave	"{""Val"": ""test"", ""package"": ""test"", ""EndTime"": 1, ""SvrType"": 1, ""BucketSrc"": 1, ""StartTime"": 1, ""nonceStr"": ""test"", ""GroupId"": 1, ""timeStamp"": ""test"", ""ExptCheckSum"": ""test"", ""paySign"": ""test"", ""ExptType"": 1, ""pay_channel"": ""test"", ""signType"": ""test"", ""ExptSequence"": 1, ""ExptId"": 1, ""Key"": ""test""}"
+jumpToWCPayMessage	"{""Val"": ""test"", ""package"": ""test"", ""EndTime"": 1, ""SvrType"": 1, ""StartTime"": 1, ""BucketSrc"": 1, ""nonceStr"": ""test"", ""GroupId"": 1, ""timeStamp"": ""test"", ""ExptCheckSum"": ""test"", ""paySign"": ""test"", ""ExptType"": 1, ""signType"": ""test"", ""ExptSequence"": 1, ""ExptId"": 1, ""Key"": ""test""}"
+eraseMapLines	"{""latitude"": ""test"", ""clear"": true, ""index"": 1, ""mapId"": 1, ""id"": ""test"", ""lines"": ""test"", ""point"": {}, ""longitude"": ""test""}"
+hideShareMenu	{}
+setBLEMTU	"{""Val"": ""test"", ""EndTime"": 1, ""SvrType"": 1, ""BucketSrc"": 1, ""StartTime"": 1, ""deviceId"": ""test"", ""mtu"": 1, ""GroupId"": 1, ""ExptCheckSum"": ""test"", ""ExptType"": 1, ""ExptId"": 1, ""ExptSequence"": 1, ""Key"": ""test""}"
+private_setPageOrientation	"{""orientation"": ""test""}"
+fs_copyFile	{}
+fetchSendingAndFailProfileFeed	{}
+openTextStateMessage	"{""Val"": ""test"", ""ExptCheckSum"": ""test"", ""EndTime"": 1, ""data"": {}, ""SvrType"": 1, ""ExptType"": 1, ""StartTime"": 1, ""BucketSrc"": 1, ""ExptSequence"": 1, ""ExptId"": 1, ""Key"": ""test"", ""GroupId"": 1}"
+operateXWebVideoBackground	{}
+reportIDKey	"{""Val"": ""test"", ""dataArray"": [], ""EndTime"": 1, ""SvrType"": 1, ""StartTime"": 1, ""BucketSrc"": 1, ""GroupId"": 1, ""ExptCheckSum"": ""test"", ""ExptType"": 1, ""id"": 1, ""ExptSequence"": 1, ""ExptId"": 1, ""value"": 1, ""key"": 1, ""Key"": ""test""}"
+switchTab	"{""url"": ""test""}"
+makeVoIPCall	"{""Val"": ""test"", ""EndTime"": 1, ""avatarUrl"": ""test"", ""SvrType"": 1, ""BucketSrc"": 1, ""StartTime"": 1, ""type"": ""test"", ""allowBackCamera"": true, ""scene"": ""test"", ""GroupId"": 1, ""ExptCheckSum"": ""test"", ""ExptType"": 1, ""context"": ""test"", ""toUserName"": ""test"", ""ExptSequence"": 1, ""ExptId"": 1, ""Key"": ""test"", ""showOther"": true}"
+getBackgroundFetchData	"{""cleanCache"": true, ""fetchType"": ""test""}"
+operateXWebLivePlayerBackground	{}
+operateBackgroundAudio	{}
+operateWXData	{}
+shareVideoMessage	"{""Val"": ""test"", ""EndTime"": 1, ""SvrType"": 1, ""StartTime"": 1, ""BucketSrc"": 1, ""GroupId"": 1, ""videoPath"": ""test"", ""ExptCheckSum"": ""test"", ""ExptType"": 1, ""thumbPath"": ""test"", ""ExptSequence"": 1, ""ExptId"": 1, ""Key"": ""test""}"
+chooseMedia	"{""Val"": ""test"", ""sizeType"": [], ""EndTime"": 1, ""SvrType"": 1, ""StartTime"": 1, ""BucketSrc"": 1, ""count"": 1, ""mediaType"": [], ""GroupId"": 1, ""ExptCheckSum"": ""test"", ""sourceType"": [], ""ExptType"": 1, ""camera"": ""test"", ""ExptSequence"": 1, ""ExptId"": 1, ""maxDuration"": 1, ""Key"": ""test""}"
+requestQueryCashier	"{""timeStamp"": ""test"", ""package"": ""test"", ""paySign"": ""test"", ""signType"": ""test"", ""nonceStr"": ""test""}"
+getBeacons	{}
+deleteTrafficCard	"{""deviceType"": ""test"", ""Val"": ""test"", ""EndTime"": 1, ""SvrType"": 1, ""BucketSrc"": 1, ""StartTime"": 1, ""deviceData"": {}, ""GroupId"": 1, ""ExptCheckSum"": ""test"", ""ExptType"": 1, ""ExptSequence"": 1, ""ExptId"": 1, ""Key"": ""test""}"
+getSkylineInfo	{}
+sendRedPacket	"{""Val"": ""test"", ""EndTime"": 1, ""SvrType"": 1, ""BucketSrc"": 1, ""StartTime"": 1, ""defaultWishingWord"": ""test"", ""GroupId"": 1, ""ExptCheckSum"": ""test"", ""ExptType"": 1, ""scope"": [], ""ExptId"": 1, ""ExptSequence"": 1, ""Key"": ""test""}"
+openWCExDeviceList	"{""Val"": ""test"", ""EndTime"": 1, ""ExptCheckSum"": ""test"", ""SvrType"": 1, ""ExptType"": 1, ""StartTime"": 1, ""BucketSrc"": 1, ""ExptId"": 1, ""ExptSequence"": 1, ""Key"": ""test"", ""GroupId"": 1}"
+checkIsSoterEnrolledInDevice	"{""checkAuthMode"": ""test""}"
+splashAdFirstStepViewLayoutStateChange	"{""state"": 1}"
+updateMapMarkers	"{""rotate"": 1.0, ""borderColor"": ""test"", ""callout"": ""test"", ""data"": ""test"", ""color"": ""test"", ""independent"": true, ""latitude"": ""test"", ""clusterId"": 1, ""content"": ""test"", ""bgColor"": ""test"", ""alpha"": 1.0, ""id"": ""test"", ""floorName"": ""test"", ""shadowColor"": ""test"", ""zIndex"": 1, ""longitude"": ""test"", ""joinCluster"": true, ""textAlign"": ""test"", ""display"": 1, ""customCallout"": ""test"", ""label"": ""test"", ""shadowOpacity"": 1, ""buildingId"": ""test"", ""ariaLabel"": ""test"", ""collision"": ""test"", ""viewId"": 1, ""anchor"": ""test"", ""x"": 1.0, ""y"": 1.0, ""mapId"": 1, ""fontSize"": 1, ""iconPath"": ""test"", ""markers"": ""test""}"
+updatePerfData	"{""dataArray"": [], ""value"": ""test"", ""key"": ""test""}"
+openUrl	"{""Val"": ""test"", ""EndTime"": 1, ""ExptCheckSum"": ""test"", ""SvrType"": 1, ""ExptType"": 1, ""BucketSrc"": 1, ""StartTime"": 1, ""ExptSequence"": 1, ""ExptId"": 1, ""Key"": ""test"", ""GroupId"": 1}"
+getMapSkew	"{""mapId"": 1}"
+updateXWebLivePusher	"{""viewId"": 1}"
+openDocument	"{""Val"": ""test"", ""EndTime"": 1, ""SvrType"": 1, ""filePath"": ""test"", ""BucketSrc"": 1, ""StartTime"": 1, ""GroupId"": 1, ""ExptCheckSum"": ""test"", ""showMenu"": true, ""ExptType"": 1, ""ExptSequence"": 1, ""ExptId"": 1, ""Key"": ""test"", ""fileType"": ""test""}"
+disableLocationUpdate	{}
+clearStorage	"{""storageId"": 1}"
+requestMedicalInsurancePay	"{""Val"": ""test"", ""ExptCheckSum"": ""test"", ""EndTime"": 1, ""SvrType"": 1, ""ExptType"": 1, ""BucketSrc"": 1, ""StartTime"": 1, ""ExptSequence"": 1, ""ExptId"": 1, ""Key"": ""test"", ""GroupId"": 1}"
+uploadEncryptedFileToCDN	"{""tempFilePath"": ""test"", ""isShowProgressTips"": true}"
+openWeAppStarList	"{""Val"": ""test"", ""EndTime"": 1, ""SvrType"": 1, ""BucketSrc"": 1, ""StartTime"": 1, ""GroupId"": 1, ""scene"": 1, ""getUsageReason"": 1, ""sceneNote"": ""test"", ""ExptCheckSum"": ""test"", ""ExptType"": 1, ""ExptId"": 1, ""ExptSequence"": 1, ""Key"": ""test""}"
+notifyBLECharacteristicValueChanged	"{""Val"": ""test"", ""mainThread"": true, ""debug"": true, ""EndTime"": 1, ""SvrType"": 1, ""StartTime"": 1, ""BucketSrc"": 1, ""type"": ""test"", ""deviceId"": ""test"", ""characteristicId"": ""test"", ""GroupId"": 1, ""ExptCheckSum"": ""test"", ""ExptType"": 1, ""state"": true, ""serviceId"": ""test"", ""ExptId"": 1, ""ExptSequence"": 1, ""Key"": ""test""}"
+getMapRegion	"{""mapId"": 1}"
+navigateBackNative	"{""extraData"": ""test"", ""forbidAnimation"": true}"
+executeMapVisualLayerCommand	"{""layerId"": ""test"", ""mapId"": 1, ""command"": ""test""}"
+requestAuthUserAutoFillData	"{""authGroupList"": [], ""authStatus"": 1, ""clientVersion"": 1, ""fields"": [], ""wording"": ""test""}"
+showModal	"{""showCancel"": true, ""cancelText"": ""test"", ""confirmColor"": ""test"", ""editable"": true, ""upper"": true, ""cancelColorDark"": ""test"", ""confirmColorDark"": ""test"", ""confirmText"": ""test"", ""title"": ""test"", ""content"": ""test"", ""cancelColor"": ""test""}"
+openChannelsActivity	"{""Val"": ""test"", ""EndTime"": 1, ""SvrType"": 1, ""BucketSrc"": 1, ""StartTime"": 1, ""GroupId"": 1, ""ExptCheckSum"": ""test"", ""feedId"": ""test"", ""ExptType"": 1, ""ExptSequence"": 1, ""ExptId"": 1, ""Key"": ""test"", ""nonceId"": ""test""}"
+setScreenMode	"{""screenMode"": ""test""}"
+getLabInfo	"{""labId"": ""test""}"
+navigateBackMiniProgram	"{""extraData"": {}, ""privateExtraData"": {}}"
+installDownloadTask	"{""appId"": ""test"", ""downloadId"": 1}"
+updateXWebLivePlayer	"{""viewId"": 1}"
+operateSmCrypto	{}
+reserveChannelsLive	{}
+redirectTo	"{""singlePageData"": {}, ""url"": ""test""}"
+noticePerformanceMetrics	"{""Val"": ""test"", ""parent"": ""test"", ""EndTime"": 1, ""SvrType"": 1, ""StartTime"": 1, ""BucketSrc"": 1, ""eventType"": 1, ""GroupId"": 1, ""timeStamp"": 1, ""ExptCheckSum"": ""test"", ""ExptType"": 1, ""eventName"": ""test"", ""category"": 1, ""ExptSequence"": 1, ""ExptId"": 1, ""events"": [], ""Key"": ""test"", ""option"": 1}"
+showShareMenu	{}
+getBLEDeviceServices	"{""Val"": ""test"", ""EndTime"": 1, ""SvrType"": 1, ""StartTime"": 1, ""BucketSrc"": 1, ""doDiscover"": true, ""deviceId"": ""test"", ""GroupId"": 1, ""ExptCheckSum"": ""test"", ""ExptType"": 1, ""ExptSequence"": 1, ""ExptId"": 1, ""Key"": ""test""}"
+requestPayment	{}
+requestFacetoFacePayment	"{""Val"": ""test"", ""confirm_token"": ""test"", ""EndTime"": 1, ""ExptCheckSum"": ""test"", ""SvrType"": 1, ""ExptType"": 1, ""StartTime"": 1, ""BucketSrc"": 1, ""ExptSequence"": 1, ""ExptId"": 1, ""Key"": ""test"", ""GroupId"": 1}"
+makePhoneCall	"{""phoneNumber"": ""test""}"
+preloadLiteApp	"{""onlyUpdate"": true, ""onlyDownload"": true, ""onlyPreLoadBaseLib"": true}"
+setLabInfo	"{""labId"": ""test"", ""enabled"": true}"
+chooseImage	"{""Val"": ""test"", ""sizeType"": ""test"", ""EndTime"": 1, ""SvrType"": 1, ""StartTime"": 1, ""BucketSrc"": 1, ""count"": ""test"", ""GroupId"": 1, ""ExptCheckSum"": ""test"", ""sourceType"": [], ""ExptType"": 1, ""ExptId"": 1, ""ExptSequence"": 1, ""Key"": ""test""}"
+addMapControls	"{""controls"": ""test"", ""data"": ""test"", ""clickable"": true, ""mapId"": 1, ""iconPath"": ""test""}"
+collectWepalm	"{""Val"": ""test"", ""EndTime"": 1, ""palmSideLimit"": ""test"", ""SvrType"": 1, ""StartTime"": 1, ""BucketSrc"": 1, ""sessionid"": ""test"", ""GroupId"": 1, ""ExptCheckSum"": ""test"", ""ExptType"": 1, ""ExptId"": 1, ""ExptSequence"": 1, ""Key"": ""test""}"
+openChannelsRewardedVideoAd	"{""Val"": ""test"", ""EndTime"": 1, ""ExptCheckSum"": ""test"", ""SvrType"": 1, ""ExptType"": 1, ""StartTime"": 1, ""BucketSrc"": 1, ""ExptId"": 1, ""ExptSequence"": 1, ""Key"": ""test"", ""GroupId"": 1}"
+destroyAudioInstance	"{""audioId"": ""test""}"
+endorsementFinished	"{""finderUserName"": ""test""}"
+removeMapLines	"{""mapId"": 1, ""lines"": ""test""}"
+joinGroup	"{""signature"": ""test"", ""groupId"": ""test"", ""nonceStr"": ""test""}"
+hideSplashScreenshot	{}
+openLocation	"{""Val"": ""test"", ""address"": ""test"", ""EndTime"": 1, ""SvrType"": 1, ""latitude"": ""test"", ""BucketSrc"": 1, ""StartTime"": 1, ""scale"": ""test"", ""GroupId"": 1, ""ExptCheckSum"": ""test"", ""ExptType"": 1, ""name"": ""test"", ""ExptId"": 1, ""ExptSequence"": 1, ""Key"": ""test"", ""longitude"": ""test""}"
+checkIsOpenAccessibility	{}
+openMapApp	{}
+openWCPayLQTDepositPlan	"{""Val"": ""test"", ""package"": ""test"", ""EndTime"": 1, ""routURL"": ""test"", ""SvrType"": 1, ""StartTime"": 1, ""BucketSrc"": 1, ""nonceStr"": ""test"", ""GroupId"": 1, ""timeStamp"": ""test"", ""ExptCheckSum"": ""test"", ""paySign"": ""test"", ""ExptType"": 1, ""signType"": ""test"", ""pay_channel"": ""test"", ""ExptId"": 1, ""ExptSequence"": 1, ""Key"": ""test""}"
+jumpDownloaderWidgetForNative	"{""Val"": ""test"", ""EndTime"": 1, ""ExptCheckSum"": ""test"", ""SvrType"": 1, ""ExptType"": 1, ""appId"": ""test"", ""BucketSrc"": 1, ""StartTime"": 1, ""ExptSequence"": 1, ""ExptId"": 1, ""Key"": ""test"", ""GroupId"": 1}"
+deleteFinderDataItem	"{""dataItemNonceId"": ""test"", ""dataItemId"": ""test""}"
+removeXWebVideo	"{""viewId"": 1}"
+removeNativeView	"{""viewId"": 1}"
+setKeyboardValue	{}
+showPickerView	"{""current"": 1, ""headerText"": ""test"", ""array"": []}"
+canvasPutImageData	"{""independent"": true, ""x"": 1, ""width"": 1, ""y"": 1, ""height"": 1}"
+setInnerAudioOption	"{""Val"": ""test"", ""EndTime"": 1, ""SvrType"": 1, ""BucketSrc"": 1, ""StartTime"": 1, ""speakerOn"": true, ""GroupId"": 1, ""ExptCheckSum"": ""test"", ""ExptType"": 1, ""mixWithOther"": true, ""ExptId"": 1, ""ExptSequence"": 1, ""Key"": ""test""}"
+getLiteGameCapsuleWidgetRect	{}
+NFCGetMaxTransceiveLength	{}
+createRequestTaskAsync	{}
+startSoterAuthentication	"{""requestAuthModes"": [], ""authContent"": ""test"", ""challenge"": ""test""}"
+openAddress	"{""Val"": ""test"", ""ExptCheckSum"": ""test"", ""EndTime"": 1, ""SvrType"": 1, ""ExptType"": 1, ""BucketSrc"": 1, ""StartTime"": 1, ""ExptSequence"": 1, ""forceLightMode"": true, ""ExptId"": 1, ""Key"": ""test"", ""GroupId"": 1}"
+deleteWeAppNewTipsInfo	"{""pathKey"": ""test""}"
+openADCanvas	"{""Val"": ""test"", ""EndTime"": 1, ""SvrType"": 1, ""BucketSrc"": 1, ""StartTime"": 1, ""GroupId"": 1, ""canvasDynamicInfo"": ""test"", ""ExptCheckSum"": ""test"", ""ExptType"": 1, ""ExptSequence"": 1, ""openFirstSightVoice"": 1, ""ExptId"": 1, ""Key"": ""test""}"
+consumeWCCoin	"{""Val"": ""test"", ""EndTime"": 1, ""ExptCheckSum"": ""test"", ""SvrType"": 1, ""ExptType"": 1, ""BucketSrc"": 1, ""StartTime"": 1, ""ExptId"": 1, ""ExptSequence"": 1, ""Key"": ""test"", ""GroupId"": 1}"
+setTingAudioState	"{""src"": ""test""}"
+reportRealtimeAction	"{""actionData"": ""test""}"
+stopPullDownRefresh	{}
+queryDownloadTaskForNative	"{""appIdArray"": [], ""downloadId"": 1, ""downloadIdArray"": []}"
+postMessageToMagicBrushFrame	"{""biz"": 1, ""frameId"": 1, ""message"": ""test""}"
+showToast	"{""duration"": 1, ""image"": ""test"", ""icon"": ""test"", ""title"": ""test"", ""mask"": true}"
+updateXWebVideo	"{""viewId"": 1}"
+stopRecord	{}
+updateNativeView	"{""viewId"": 1}"
+readFile	{}
+getLocation	"{""highAccuracyExpireTime"": 1, ""altitude"": true, ""isHighAccuracy"": true, ""type"": ""test""}"
+setTabBarBadge	"{""badgeColor"": ""test"", ""badgeValue"": ""test"", ""type"": ""test"", ""badgeTextColor"": ""test""}"
+requestEntrustAuthorization	"{""Val"": ""test"", ""EndTime"": 1, ""SvrType"": 1, ""BucketSrc"": 1, ""StartTime"": 1, ""sessionid"": ""test"", ""url"": ""test"", ""GroupId"": 1, ""ExptCheckSum"": ""test"", ""ExptType"": 1, ""ExptId"": 1, ""ExptSequence"": 1, ""Key"": ""test""}"
+navigateBackMiniProgram	"{""extraData"": {}, ""privateExtraData"": {}}"
+systemLog	"{""message"": ""test""}"
+setStorage	"{""data"": ""test"", ""dataType"": ""test"", ""key"": ""test"", ""storageId"": 1}"
+rechargeTrafficCard	"{""deviceType"": ""test"", ""Val"": ""test"", ""EndTime"": 1, ""SvrType"": 1, ""BucketSrc"": 1, ""StartTime"": 1, ""deviceData"": {}, ""GroupId"": 1, ""ExptCheckSum"": ""test"", ""ExptType"": 1, ""ExptSequence"": 1, ""ExptId"": 1, ""Key"": ""test""}"
+bindSocketToNetwork	"{""networkType"": ""test"", ""socketFd"": 1}"
+deleteUserAutoFillData	"{""groupId"": 1, ""clientVersion"": 1, ""groupKey"": ""test""}"
+openChannelsLive	{}
+chooseVideo	"{""Val"": ""test"", ""EndTime"": 1, ""SvrType"": 1, ""StartTime"": 1, ""BucketSrc"": 1, ""GroupId"": 1, ""ExptCheckSum"": ""test"", ""sourceType"": ""test"", ""ExptType"": 1, ""compressed"": true, ""ExptId"": 1, ""camera"": ""test"", ""ExptSequence"": 1, ""maxDuration"": 1, ""Key"": ""test""}"
+getScreenBrightness	{}
+cancelDownloadTask	"{""downloadIdArray"": []}"
+openOfflinePayView	"{""Val"": ""test"", ""package"": ""test"", ""EndTime"": 1, ""SvrType"": 1, ""BucketSrc"": 1, ""StartTime"": 1, ""nonceStr"": ""test"", ""GroupId"": 1, ""timeStamp"": ""test"", ""ExptCheckSum"": ""test"", ""paySign"": ""test"", ""ExptType"": 1, ""signType"": ""test"", ""ExptSequence"": 1, ""ExptId"": 1, ""Key"": ""test""}"
+callbackDataToNative	{}
+getPhoneNumber	"{""api_name"": ""test"", ""with_credentials"": true}"
+notifyDcpPaymentCallback	"{""dcp_token"": ""test"", ""ret_status"": ""test""}"
+insertXWebVideo	"{""viewId"": 1}"
+insertXWebLivePlayer	"{""viewId"": 1}"
+setMapBoundary	"{""southwest"": {}, ""latitude"": 1.0, ""northeast"": {}, ""mapId"": 1, ""longitude"": 1.0}"
+stopWifi	{}
+removeStorage	"{""key"": ""test"", ""storageId"": 1}"
+phoneBindCardVerifySms	"{""package"": ""test"", ""signtype"": ""test"", ""paysign"": ""test"", ""sessionid"": ""test"", ""noncestr"": ""test"", ""timestamp"": ""test""}"
+addToFavorites	"{""Val"": ""test"", ""rendererOptions"": {}, ""customButtonIconData"": ""test"", ""renderer"": ""test"", ""EndTime"": 1, ""singlePage"": {}, ""SvrType"": 1, ""enableFullScreen"": true, ""BucketSrc"": 1, ""skyline"": {}, ""navigationBarFit"": ""test"", ""sdkVersionBegin"": ""test"", ""title"": ""test"", ""sdkVersionEnd"": ""test"", ""homeButton"": true, ""path"": ""test"", ""androidVersionEnd"": ""test"", ""navigationBarBackgroundColor"": ""test"", ""imageUrl"": ""test"", ""navigationBarTitleText"": ""test"", ""ExptId"": 1, ""backgroundColor"": ""test"", ""navigationStyle"": ""test"", ""resizable"": true, ""cardSubType"": 1, ""androidVersionBegin"": ""test"", ""StartTime"": 1, ""enablePullDownRefresh"": true, ""backgroundTextStyle"": ""test"", ""disableABTest"": true, ""visualEffectInBackground"": ""test"", ""handleWebviewPreload"": ""test"", ""GroupId"": 1, ""navigationBarRightButton"": {}, ""hide"": true, ""pageOrientation"": ""test"", ""navigationBarBackgroundAlpha"": 1.0, ""ExptCheckSum"": ""test"", ""backgroundColorContent"": ""test"", ""ExptType"": 1, ""disableSwipeBack"": true, ""navigationBarTextStyle"": ""test"", ""disableForward"": true, ""window"": {}, ""page"": {}, ""ExptSequence"": 1, ""Key"": ""test""}"
+removeMapArc	"{""mapId"": 1, ""id"": 1}"
+editImage	"{""rendererOptions"": {}, ""customButtonIconData"": ""test"", ""renderer"": ""test"", ""singlePage"": {}, ""enableFullScreen"": true, ""skyline"": {}, ""sdkVersionEnd"": ""test"", ""sdkVersionBegin"": ""test"", ""navigationBarFit"": ""test"", ""homeButton"": true, ""androidVersionEnd"": ""test"", ""navigationBarBackgroundColor"": ""test"", ""navigationBarTitleText"": ""test"", ""backgroundColor"": ""test"", ""navigationStyle"": ""test"", ""resizable"": true, ""src"": ""test"", ""androidVersionBegin"": ""test"", ""enablePullDownRefresh"": true, ""backgroundTextStyle"": ""test"", ""disableABTest"": true, ""visualEffectInBackground"": ""test"", ""handleWebviewPreload"": ""test"", ""navigationBarRightButton"": {}, ""hide"": true, ""navigationBarBackgroundAlpha"": 1.0, ""pageOrientation"": ""test"", ""backgroundColorContent"": ""test"", ""disableSwipeBack"": true, ""navigationBarTextStyle"": ""test"", ""page"": {}, ""window"": {}}"
+showUpdatableMessageSubscribeButton	"{""shareKey"": ""test""}"
+getFuzzyLocation	"{""subKey"": ""test"", ""type"": ""test""}"
+openWebViewUseFastLoad	"{""Val"": ""test"", ""EndTime"": 1, ""SvrType"": 1, ""BucketSrc"": 1, ""hexBackgroundColor"": ""test"", ""backMode"": 1, ""previewMode"": 1, ""openType"": 1, ""ExptId"": 1, ""heightPercent"": 1.0, ""reuseWebView"": true, ""immersiveUIStyle"": true, ""StartTime"": 1, ""url"": ""test"", ""GroupId"": 1, ""pageOrientation"": ""test"", ""ExptCheckSum"": ""test"", ""alwaysDarkMode"": 1, ""showRefreshIcon"": true, ""halfScreen"": 1, ""showTitle"": true, ""extData"": ""test"", ""showMenu"": true, ""ExptType"": 1, ""ExptSequence"": 1, ""Key"": ""test""}"
+setMapIndoorMaskColor	"{""mapId"": 1, ""maskColor"": ""test""}"
+requestPersonalPay	"{""Val"": ""test"", ""EndTime"": 1, ""ExptCheckSum"": ""test"", ""SvrType"": 1, ""ExptType"": 1, ""out_prepay_id"": ""test"", ""BucketSrc"": 1, ""StartTime"": 1, ""ExptId"": 1, ""ExptSequence"": 1, ""Key"": ""test"", ""GroupId"": 1}"
+getImageInfo	"{""src"": ""test""}"
+stat	{}
+getStorage	"{""key"": ""test"", ""storageId"": 1}"
+setNavigationBarRightButton	"{""hide"": true, ""iconPath"": ""test""}"
+openADCanvas	{}
+choosePoi	"{""Val"": ""test"", ""ExptCheckSum"": ""test"", ""EndTime"": 1, ""SvrType"": 1, ""ExptType"": 1, ""BucketSrc"": 1, ""StartTime"": 1, ""ExptId"": 1, ""ExptSequence"": 1, ""Key"": ""test"", ""GroupId"": 1}"
+openChannelsUserProfile	{}
+showSystemSheetMenu	"{""sessionBuffer"": ""test""}"
+operateDownloadTask	"{""downloadTaskId"": ""test"", ""operationType"": ""test""}"
+authorize	{}
+predownloadMiniProgramPackage	"{""path"": ""test"", ""appId"": ""test"", ""moduleName"": ""test"", ""username"": ""test"", ""scene"": 1}"
+previewImage	"{""Val"": ""test"", ""EndTime"": 1, ""showmenu"": true, ""SvrType"": 1, ""StartTime"": 1, ""BucketSrc"": 1, ""GroupId"": 1, ""current"": ""test"", ""urls"": [], ""ExptCheckSum"": ""test"", ""ExptType"": 1, ""ExptSequence"": 1, ""ExptId"": 1, ""Key"": ""test""}"
+jumpRedPacketEnvelopeList	"{""Val"": ""test"", ""packetId"": ""test"", ""EndTime"": 1, ""ExptCheckSum"": ""test"", ""SvrType"": 1, ""ExptType"": 1, ""StartTime"": 1, ""BucketSrc"": 1, ""ExptId"": 1, ""ExptSequence"": 1, ""Key"": ""test"", ""GroupId"": 1}"
+hideSplashScreen	{}
+fs_appendFile	{}
+openWeAppHistoryList	"{""Val"": ""test"", ""EndTime"": 1, ""SvrType"": 1, ""StartTime"": 1, ""BucketSrc"": 1, ""getUsageReason"": 1, ""GroupId"": 1, ""scene"": 1, ""sceneNote"": ""test"", ""ExptCheckSum"": ""test"", ""ExptType"": 1, ""ExptSequence"": 1, ""ExptId"": 1, ""Key"": ""test""}"
+setDeviceOrientation	"{""value"": ""test""}"
+getWeAppProfileInfo	"{""username"": ""test""}"
+getConnectedBluetoothDevices	"{""Val"": ""test"", ""useOldImpl"": true, ""EndTime"": 1, ""SvrType"": 1, ""StartTime"": 1, ""BucketSrc"": 1, ""services"": [], ""GroupId"": 1, ""ExptCheckSum"": ""test"", ""ExptType"": 1, ""ExptId"": 1, ""ExptSequence"": 1, ""Key"": ""test""}"
+loadLibFiles	"{""paths"": []}"
+openChannelsTopic	"{""Val"": ""test"", ""ExptCheckSum"": ""test"", ""EndTime"": 1, ""SvrType"": 1, ""ExptType"": 1, ""StartTime"": 1, ""BucketSrc"": 1, ""ExptSequence"": 1, ""ExptId"": 1, ""Key"": ""test"", ""GroupId"": 1}"
+getGameLivePermission	"{""Val"": ""test"", ""EndTime"": 1, ""ExptCheckSum"": ""test"", ""SvrType"": 1, ""ExptType"": 1, ""BucketSrc"": 1, ""StartTime"": 1, ""ExptId"": 1, ""ExptSequence"": 1, ""Key"": ""test"", ""GroupId"": 1}"
+enterGameLiveRoom	"{""Val"": ""test"", ""EndTime"": 1, ""ExptCheckSum"": ""test"", ""SvrType"": 1, ""ExptType"": 1, ""StartTime"": 1, ""BucketSrc"": 1, ""ExptId"": 1, ""ExptSequence"": 1, ""Key"": ""test"", ""GroupId"": 1}"
+removeMapMarkers	"{""mapId"": 1, ""markers"": ""test""}"
+getWeAppNewTipsInfo	"{""pathKey"": ""test""}"
+setNavigateBackInterception	"{""interception"": true, ""scopes"": [], ""type"": 1}"
+playVoice	"{""filePath"": ""test"", ""localId"": ""test""}"
+chooseContact	{}
+vibrateShort	"{""style"": ""test""}"
+openChannelsUserProfile	{}
+getSetting	{}
+getInstallState	"{""packageNameArray"": [], ""packageName"": ""test""}"
+navigateBackH5	"{""extraData"": ""test""}"
+bindPaymentCard	{}
+showMultiPickerView	"{""current"": [], ""headerText"": ""test"", ""array"": []}"
+requestMerchantTransfer	"{""Val"": ""test"", ""EndTime"": 1, ""ExptCheckSum"": ""test"", ""SvrType"": 1, ""ExptType"": 1, ""StartTime"": 1, ""BucketSrc"": 1, ""ExptId"": 1, ""ExptSequence"": 1, ""Key"": ""test"", ""GroupId"": 1}"
+getBLEDeviceRSSI	"{""deviceId"": ""test""}"
+NFCGetSak	{}
+stopBLEPeripheralAdvertising	{}
+preloadMiniProgramEnv	"{""Val"": ""test"", ""EndTime"": 1, ""ExptCheckSum"": ""test"", ""SvrType"": 1, ""ExptType"": 1, ""BucketSrc"": 1, ""StartTime"": 1, ""ExptSequence"": 1, ""type"": ""test"", ""ExptId"": 1, ""Key"": ""test"", ""GroupId"": 1}"
+cryptoOpen	"{""privateKey"": ""test"", ""keyAlias"": ""test"", ""signature"": ""test"", ""tagLength"": 1, ""id"": 1, ""publicKey"": ""test"", ""type"": ""test"", ""iv"": ""test"", ""key"": ""test"", ""algorithm"": ""test""}"
+triggerBackgroundFetch	{}
+startBluetoothDevicesDiscovery	"{""Val"": ""test"", ""EndTime"": 1, ""SvrType"": 1, ""StartTime"": 1, ""BucketSrc"": 1, ""powerLevel"": ""test"", ""services"": ""test"", ""refreshCache"": true, ""GroupId"": 1, ""ExptCheckSum"": ""test"", ""ExptType"": 1, ""allowDuplicatesKey"": true, ""interval"": 1, ""ExptId"": 1, ""ExptSequence"": 1, ""Key"": ""test"", ""scanWorkaround"": true}"
+phoneBindCardEntry	"{""Val"": ""test"", ""package"": ""test"", ""EndTime"": 1, ""SvrType"": 1, ""BucketSrc"": 1, ""StartTime"": 1, ""signtype"": ""test"", ""noncestr"": ""test"", ""GroupId"": 1, ""ExptCheckSum"": ""test"", ""ExptType"": 1, ""paysign"": ""test"", ""ExptSequence"": 1, ""ExptId"": 1, ""Key"": ""test"", ""timestamp"": ""test""}"
+quickSendRedPacket	"{""Val"": ""test"", ""EndTime"": 1, ""SvrType"": 1, ""StartTime"": 1, ""BucketSrc"": 1, ""sessionId"": ""test"", ""materialId"": ""test"", ""GroupId"": 1, ""ExptCheckSum"": ""test"", ""ExptType"": 1, ""ExptId"": 1, ""ExptSequence"": 1, ""Key"": ""test""}"
+reportKeyValue	"{""Val"": ""test"", ""dataArray"": [], ""EndTime"": 1, ""SvrType"": 1, ""StartTime"": 1, ""BucketSrc"": 1, ""version"": 1, ""GroupId"": 1, ""ExptCheckSum"": ""test"", ""ExptType"": 1, ""ExptId"": 1, ""ExptSequence"": 1, ""value"": ""test"", ""Key"": ""test"", ""key"": 1}"
+addPhoneContact	"{""lastName"": ""test"", ""mobilePhoneNumber"": ""test"", ""homePhoneNumber"": ""test"", ""nickName"": ""test"", ""hostNumber"": ""test"", ""remark"": ""test"", ""homeFaxNumber"": ""test"", ""title"": ""test"", ""url"": ""test"", ""photoFilePath"": ""test"", ""firstName"": ""test"", ""workPhoneNumber"": ""test"", ""organization"": ""test"", ""weChatNumber"": ""test"", ""middleName"": ""test"", ""email"": ""test"", ""workFaxNumber"": ""test""}"
+setMapIndoorFloor	"{""mapId"": 1, ""floorName"": ""test"", ""buildingId"": ""test""}"
+setScreenBrightness	{}
+showTabBar	"{""animation"": true}"
+shareAppMessageForFakeNative	"{""rendererOptions"": {}, ""customButtonIconData"": ""test"", ""videoMD5"": ""test"", ""singlePage"": {}, ""defaultHintUrl"": ""test"", ""sdkVersionBegin"": ""test"", ""sdkVersionEnd"": ""test"", ""type"": ""test"", ""homeButton"": true, ""liteAppPath"": ""test"", ""mode"": ""test"", ""path"": ""test"", ""chatroomUsername"": ""test"", ""playDesc"": ""test"", ""navigationBarBackgroundColor"": ""test"", ""liteAppId"": ""test"", ""androidVersionBegin"": ""test"", ""appBrandPriority"": 1, ""bizSourceName"": ""test"", ""visualEffectInBackground"": ""test"", ""thumbDataHash"": ""test"", ""videoPath"": ""test"", ""navigationBarRightButton"": {}, ""pageOrientation"": ""test"", ""navigationBarBackgroundAlpha"": 1.0, ""useDefaultSnapshot"": true, ""backgroundColorContent"": ""test"", ""webViewUrl"": ""test"", ""disableForward"": true, ""page"": {}, ""desc"": ""test"", ""bizSourceIconUrl"": ""test"", ""liteAppQuery"": ""test"", ""renderer"": ""test"", ""videoThumbPath"": ""test"", ""bizType"": 1, ""signature"": ""test"", ""openId"": ""test"", ""enableFullScreen"": true, ""link"": ""test"", ""liteAppBizData"": ""test"", ""skyline"": {}, ""title"": ""test"", ""navigationBarFit"": ""test"", ""androidVersionEnd"": ""test"", ""liteAppPriority"": 1, ""cacheKey"": ""test"", ""navigationBarTitleText"": ""test"", ""imageUrl"": ""test"", ""tailLang"": ""test"", ""messageExtraData"": ""test"", ""hasRelievedBuyPlugin"": true, ""backgroundColor"": ""test"", ""videoButtonText"": ""test"", ""navigationStyle"": ""test"", ""resizable"": true, ""cardSubType"": 1, ""sdk_isFromMenu"": true, ""enablePullDownRefresh"": true, ""backgroundTextStyle"": ""test"", ""disableABTest"": true, ""handleWebviewPreload"": ""test"", ""hide"": true, ""disableSwipeBack"": true, ""navigationBarTextStyle"": ""test"", ""window"": {}, ""to"": ""test"", ""webpageUrl"": ""test""}"
+writeFile	{}
+openChannelsTopic	"{""Val"": ""test"", ""ExptCheckSum"": ""test"", ""EndTime"": 1, ""SvrType"": 1, ""ExptType"": 1, ""StartTime"": 1, ""BucketSrc"": 1, ""ExptId"": 1, ""ExptSequence"": 1, ""Key"": ""test"", ""GroupId"": 1}"
+profile	"{""Val"": ""test"", ""EndTime"": 1, ""SvrType"": 1, ""BucketSrc"": 1, ""StartTime"": 1, ""tabType"": ""test"", ""GroupId"": 1, ""scene"": 1, ""ExptCheckSum"": ""test"", ""profileReportInfo"": ""test"", ""ExptType"": 1, ""ExptSequence"": 1, ""ExptId"": 1, ""Key"": ""test"", ""username"": ""test""}"
+getWCCoinBalance	{}
+enableDeviceMotionChangeListening	"{""enable"": true, ""interval"": 1}"
+vibrateShort	"{""style"": ""test""}"
+batchGetStorage	"{""keyList"": [], ""storageId"": 1}"
+chooseLocation	"{""Val"": ""test"", ""EndTime"": 1, ""SvrType"": 1, ""latitude"": ""test"", ""StartTime"": 1, ""BucketSrc"": 1, ""GroupId"": 1, ""ExptCheckSum"": ""test"", ""ExptType"": 1, ""ExptSequence"": 1, ""ExptId"": 1, ""Key"": ""test"", ""longitude"": ""test""}"
+webTransfer	"{""method"": 1, ""is_security_check"": true, ""cgiCmdId"": 1, ""scope"": ""test"", ""reqBody"": ""test"", ""header"": {}, ""needVerifySignature"": true, ""reqUrl"": ""test""}"
+checkNetworkAPIURL	"{""api"": ""test"", ""url"": ""test""}"
+createWebViewForFastLoad	"{""itemShowTypes"": [], ""scene"": 1}"
+getWifiList	"{""timeout"": 1}"
+authorize	{}
+fs_rename	{}
+resumeDownloadTask	"{""downloadId"": 1, ""downloadInWifi"": true}"
+setBackgroundAudioState	"{""src"": ""test""}"
+addMapLines	"{""borderColor"": ""test"", ""enableGradient"": true, ""color"": ""test"", ""latitude"": ""test"", ""dottedLine"": true, ""arrowLine"": true, ""segmentTexts"": ""test"", ""points"": ""test"", ""startIndex"": 1, ""endIndex"": 1, ""floorName"": ""test"", ""id"": ""test"", ""lines"": ""test"", ""strokeColor"": ""test"", ""longitude"": ""test"", ""level"": ""test"", ""clear"": true, ""textColor"": ""test"", ""buildingId"": ""test"", ""colorList"": ""test"", ""revisedArrowIconPath"": ""test"", ""name"": ""test"", ""fontSize"": 1, ""style"": 1, ""mapId"": 1, ""arrowIconPath"": ""test""}"
+hideToast	{}
+removeBLEPeripheralService	"{""serviceId"": ""test"", ""serverId"": 1}"
+previewMedia	"{""Val"": ""test"", ""EndTime"": 1, ""sources"": [], ""showmenu"": true, ""SvrType"": 1, ""BucketSrc"": 1, ""StartTime"": 1, ""type"": ""test"", ""url"": ""test"", ""GroupId"": 1, ""current"": ""test"", ""ExptCheckSum"": ""test"", ""ExptType"": 1, ""ExptId"": 1, ""ExptSequence"": 1, ""poster"": ""test"", ""Key"": ""test""}"
+openUserProfile	"{""Val"": ""test"", ""EndTime"": 1, ""SvrType"": 1, ""BucketSrc"": 1, ""StartTime"": 1, ""scene"": 1, ""GroupId"": 1, ""ExptCheckSum"": ""test"", ""ExptType"": 1, ""profileReportInfo"": ""test"", ""ExptSequence"": 1, ""ExptId"": 1, ""Key"": ""test"", ""username"": ""test""}"
+captureHTMLWebviewFullScreenshot	"{""htmlId"": 1}"
+openWCCardHomePage	"{""Val"": ""test"", ""EndTime"": 1, ""ExptCheckSum"": ""test"", ""SvrType"": 1, ""ExptType"": 1, ""StartTime"": 1, ""BucketSrc"": 1, ""ExptId"": 1, ""ExptSequence"": 1, ""Key"": ""test"", ""GroupId"": 1}"
+queryDownloadTask	"{""appIdArray"": [], ""downloadId"": 1, ""downloadIdArray"": []}"
+handleMPChannelAction	"{""operateType"": ""test""}"
+setBackgroundTextStyle	"{""textStyle"": ""test""}"
+loadPaySpeechDialectConfig	{}
+setStatusBarStyle	"{""color"": ""test""}"
+extTransfer	"{""method"": 1, ""is_security_check"": true, ""cgiCmdId"": 1, ""scope"": ""test"", ""reqBody"": ""test"", ""header"": {}, ""reqUrl"": ""test"", ""needVerifySignature"": true}"
+chooseInvoice	"{""Val"": ""test"", ""EndTime"": 1, ""SvrType"": 1, ""StartTime"": 1, ""BucketSrc"": 1, ""cardSign"": ""test"", ""nonceStr"": ""test"", ""GroupId"": 1, ""timeStamp"": 1, ""ExptCheckSum"": ""test"", ""ExptType"": 1, ""signType"": ""test"", ""ExptId"": 1, ""ExptSequence"": 1, ""Key"": ""test""}"
+shareTimeline	"{""Val"": ""test"", ""rendererOptions"": {}, ""customButtonIconData"": ""test"", ""renderer"": ""test"", ""EndTime"": 1, ""singlePage"": {}, ""enableFullScreen"": true, ""SvrType"": 1, ""BucketSrc"": 1, ""skyline"": {}, ""sdkVersionEnd"": ""test"", ""navigationBarFit"": ""test"", ""sdkVersionBegin"": ""test"", ""title"": ""test"", ""homeButton"": true, ""path"": ""test"", ""androidVersionEnd"": ""test"", ""navigationBarBackgroundColor"": ""test"", ""navigationBarTitleText"": ""test"", ""imageUrl"": ""test"", ""messageExtraData"": ""test"", ""ExptId"": 1, ""backgroundColor"": ""test"", ""navigationStyle"": ""test"", ""resizable"": true, ""androidVersionBegin"": ""test"", ""cardSubType"": 1, ""StartTime"": 1, ""enablePullDownRefresh"": true, ""backgroundTextStyle"": ""test"", ""disableABTest"": true, ""visualEffectInBackground"": ""test"", ""GroupId"": 1, ""handleWebviewPreload"": ""test"", ""navigationBarRightButton"": {}, ""hide"": true, ""navigationBarBackgroundAlpha"": 1.0, ""pageOrientation"": ""test"", ""ExptCheckSum"": ""test"", ""backgroundColorContent"": ""test"", ""ExptType"": 1, ""preloadResources"": ""test"", ""disableSwipeBack"": true, ""navigationBarTextStyle"": ""test"", ""page"": {}, ""window"": {}, ""ExptSequence"": 1, ""Key"": ""test""}"
+setAlreadyAcceptPrivacyScopeList	"{""scopeList"": [], ""pipelineScopeMap"": {}, ""jsapiScopeMap"": {}}"
+openWCPayOverseaPaymentReceive	"{""Val"": ""test"", ""ExptCheckSum"": ""test"", ""EndTime"": 1, ""SvrType"": 1, ""ExptType"": 1, ""StartTime"": 1, ""BucketSrc"": 1, ""ExptSequence"": 1, ""ExptId"": 1, ""Key"": ""test"", ""GroupId"": 1}"
+showActionSheet	"{""itemList"": ""test""}"
+operateSmStorage	{}
+hideKeyboard	{}
+operateRecorder	{}
+getClipboardData	{}
+getLastLocationCache	{}
+getFileInfo	"{""filePath"": ""test"", ""digestAlgorithm"": ""test""}"
+openUrl	"{""pageOrientation"": ""test"", ""url"": ""test""}"
+minimizeGameLive	{}
+getSystemInfoAsync	{}
+shareSpecificWxapp	"{""username"": ""test""}"
+createBLEConnection	"{""Val"": ""test"", ""mainThread"": true, ""debug"": true, ""connectionPriority"": ""test"", ""EndTime"": 1, ""SvrType"": 1, ""StartTime"": 1, ""BucketSrc"": 1, ""discoverDelay"": 1, ""transport"": ""test"", ""doDiscover"": true, ""deviceId"": ""test"", ""GroupId"": 1, ""autoConnect"": true, ""ExptCheckSum"": ""test"", ""ExptType"": 1, ""ExptSequence"": 1, ""ExptId"": 1, ""Key"": ""test""}"
+pageNotFoundCallback	"{""webviewId"": 1, ""hasHandler"": true}"
+chooseWeChatContact	"{""contactMode"": []}"
+checkIsSoterEnrolledInDevice	"{""checkAuthMode"": ""test""}"
+setStorage	"{""data"": ""test"", ""dataType"": ""test"", ""key"": ""test"", ""storageId"": 1}"
+shareFinderProduct	"{""Val"": ""test"", ""ExptCheckSum"": ""test"", ""EndTime"": 1, ""SvrType"": 1, ""ExptType"": 1, ""StartTime"": 1, ""BucketSrc"": 1, ""ExptId"": 1, ""ExptSequence"": 1, ""Key"": ""test"", ""GroupId"": 1}"
+setBackgroundFetchToken	"{""token"": ""test""}"
+saveWaid	{}
+saveSplashScreenshot	{}
+canvasGetImageData	"{""independent"": true, ""x"": 1, ""width"": 1, ""y"": 1, ""height"": 1}"
+checkIsSupportFacialRecognition	{}
+cancelDownloadTaskForNative	"{""downloadIdArray"": []}"
+openWCPayLQTDepositPlanAdd	"{""Val"": ""test"", ""package"": ""test"", ""EndTime"": 1, ""SvrType"": 1, ""StartTime"": 1, ""BucketSrc"": 1, ""nonceStr"": ""test"", ""GroupId"": 1, ""timeStamp"": ""test"", ""routeURL"": ""test"", ""ExptCheckSum"": ""test"", ""paySign"": ""test"", ""ExptType"": 1, ""signType"": ""test"", ""pay_channel"": ""test"", ""ExptId"": 1, ""ExptSequence"": 1, ""Key"": ""test""}"
+NFCGetHistoricalBytes	{}
+getWCPayOverseaPrepayRequest	"{""Val"": ""test"", ""key_appbrand_from_path"": ""test"", ""pay_scene"": 1, ""result_jump_mode"": ""test"", ""EndTime"": 1, ""key_appbrand_from_scene"": ""test"", ""SvrType"": 1, ""BucketSrc"": 1, ""key_appbrand_from_username"": ""test"", ""src_username"": ""test"", ""key_joint_pay"": true, ""scene"": 1, ""paySign"": ""test"", ""key_qrcode_session_type"": 1, ""key_qrcode_timeline_objid"": ""test"", ""appId"": ""test"", ""signType"": ""test"", ""key_qrcode_session_name"": ""test"", ""ExptId"": 1, ""pay_for_wallet_type"": 1, ""package"": ""test"", ""cookie"": ""test"", ""key_chat_type"": 1, ""StartTime"": 1, ""ext_info"": ""test"", ""reqKey"": ""test"", ""url"": ""test"", ""nonceStr"": ""test"", ""GroupId"": 1, ""token"": ""test"", ""timeStamp"": ""test"", ""businessScene"": 1, ""pay_code_scene"": 1, ""ExptCheckSum"": ""test"", ""ExptType"": 1, ""pay_channel"": 1, ""key_send_type"": 1, ""partnerId"": ""test"", ""ExptSequence"": 1, ""payScene"": 1, ""Key"": ""test""}"
+readdir	{}
+returnCopyUrl	"{""shortLinkEnable"": true, ""url"": ""test""}"
+openChannelsPostPage	"{""Val"": ""test"", ""ExptCheckSum"": ""test"", ""EndTime"": 1, ""SvrType"": 1, ""ExptType"": 1, ""BucketSrc"": 1, ""StartTime"": 1, ""ExptId"": 1, ""ExptSequence"": 1, ""Key"": ""test"", ""GroupId"": 1}"
+writeCommData	"{""data"": ""test"", ""packageName"": ""test""}"
+checkHandoffEnabled	"{""showToast"": true}"
+cryptoGenerateKey	"{""keySize"": 1, ""blockModes"": [], ""algorithm"": ""test""}"
+sendRedCoverAppMsg	"{""receiveuri"": ""test""}"
+insertXWebMap	"{""viewId"": 1}"
+cryptoRemoveKey	"{""keyAlias"": ""test""}"
+setAudioState	"{""volume"": 1.0, ""playbackRate"": 1.0, ""src"": ""test"", ""loop"": true, ""audioId"": ""test"", ""startTime"": 1, ""autoplay"": true, ""timestamp"": 1}"
+insertMagicBrushFrame	"{""biz"": 1, ""envVersion"": ""test"", ""extraData"": ""test"", ""frameId"": 1, ""appId"": ""test"", ""width"": 1, ""fsPath"": ""test"", ""position"": {}, ""appPath"": ""test"", ""height"": 1}"
+removeXWebWebGLCanvas	"{""canvasId"": 1}"
+addVideoToFavorites	"{""videoPath"": ""test"", ""thumbPath"": ""test""}"
+hasJoinVoIPChat	"{""roomType"": 1}"
+openChannelsActivity	{}
+checkIsSupportSoterAuthentication	{}
+showAddressPickerView	"{""mode"": ""test"", ""current"": []}"
+rewriteRoute	"{""webviewId"": 1, ""url"": ""test""}"
+startPullDownRefresh	{}
+writeNdefMessage	{}
+NFCTransceive	{}
+getFinderAccount	{}
+loadVideoResource	"{""resources"": []}"
+removeMapCustomLayer	"{""layerId"": ""test"", ""mapId"": 1}"
+startWifi	{}
+searchContacts	"{""phoneNumber"": ""test""}"
+startCustomFacialRecognitionVerifyAndUploadVideo	"{""checkAliveType"": 1, ""requestVerifyPreInfo"": ""test""}"
+getAudioState	"{""audioId"": ""test""}"
+NFCSetTimeout	{}
+operateWXData	{}
+scanCode	"{""Val"": ""test"", ""onlyFromCamera"": true, ""EndTime"": 1, ""SvrType"": 1, ""BucketSrc"": 1, ""StartTime"": 1, ""GroupId"": 1, ""ExptCheckSum"": ""test"", ""ExptType"": 1, ""scanType"": [], ""ExptId"": 1, ""ExptSequence"": 1, ""Key"": ""test""}"
+insertNativeView	"{""viewId"": 1}"
+faceProcessStop	{}
+moveToMapLocation	"{""latitude"": ""test"", ""mapId"": 1, ""longitude"": ""test""}"
+showNavigationBar	{}
+openAddressEditor	"{""Val"": ""test"", ""EndTime"": 1, ""ExptCheckSum"": ""test"", ""SvrType"": 1, ""ExptType"": 1, ""BucketSrc"": 1, ""StartTime"": 1, ""ExptSequence"": 1, ""ExptId"": 1, ""Key"": ""test"", ""GroupId"": 1}"
+getSavedFileList	{}
+resumeDownloadTaskForNative	"{""useDownloaderWidget"": true, ""downloadId"": 1, ""downloadInWifi"": true}"
+addNativeDownloadTask	"{""Val"": ""test"", ""app_version"": ""test"", ""EndTime"": 1, ""SvrType"": 1, ""StartTime"": 1, ""BucketSrc"": 1, ""taskSize"": ""test"", ""fileMD5"": ""test"", ""title"": ""test"", ""GroupId"": 1, ""permission_url"": ""test"", ""privacy_agreement_url"": ""test"", ""ExptCheckSum"": ""test"", ""taskUrl"": ""test"", ""ExptType"": 1, ""developer"": ""test"", ""taskName"": ""test"", ""app_desc"": ""test"", ""ExptId"": 1, ""thumbUrl"": ""test"", ""ExptSequence"": 1, ""Key"": ""test""}"
+getBluetoothAdapterState	"{""Val"": ""test"", ""EndTime"": 1, ""ExptCheckSum"": ""test"", ""SvrType"": 1, ""ExptType"": 1, ""StartTime"": 1, ""BucketSrc"": 1, ""ExptSequence"": 1, ""ExptId"": 1, ""Key"": ""test"", ""GroupId"": 1}"
+choosePhoneNumberAreaCode	{}
+enableLocationUpdate	"{""FlagshipSetting"": {}, ""GameMaxRunningCount"": 1, ""type"": ""test"", ""PerformIndexReportGapInSeconds"": 1, ""OpendataMaxFileStorageSize"": 1, ""RequestMaxTimeoutMS"": 1, ""TempFileSizeLimitTotal"": 1, ""GlobalWxaFileStorageCleanMbThreshold"": 1, ""WidgetImageFlowLimitMaxSize"": 1, ""HeaderBlackList"": [], ""ClientStorageMinMB"": 1, ""WXDataMaxRequestConcurrent"": 1, ""MaxLocalStorageItemSize"": 1, ""DownloadMaxTimeoutMS"": 1, ""icon_green"": {}, ""height"": 1, ""TaskBarItemCountLimitation"": 1, ""AppMaxRunningCount"": 1, ""BluetoothBackgroundTimeoutWithoutConnectionInSeconds"": 1, ""NativeBufferSizeLimitByte"": 1, ""subKey"": ""test"", ""UploadMaxTimeoutMS"": 1, ""WithoutContactClearSeconds"": 1, ""GamePerfCollectInterval"": 1, ""WeUseRecallInterval"": 1, ""enableIndoor"": true, ""icon_big"": {}, ""NativeBufferQueueLimitByte"": 1, ""icon_light"": {}, ""WidgetImageFlowLimitDuration"": 1, ""TradeGuaranteeMenuSetting"": ""test"", ""HTTPHeaderMode"": ""test"", ""WholeClientStoragePercent"": 1, ""SyncVersionSetting"": {}, ""HeaderWhiteList"": [], ""CheckInterval"": 1, ""WhiteScreenDetectThresholdFloatNew"": 1.0, ""WxaWebRenderingCacheMaxStorageSizeMB"": 1, ""WebsocketMaxTimeoutMS"": 1, ""AppSharedResourceBackgroundRunningCount"": 1, ""InvalidContactFreqBlockSeconds"": 1, ""AppMaxBackgroundBluetoothCount"": 1, ""NewTaskBarRecentsItemCountLimitation"": 1, ""PackageManager"": {}, ""StarNumberLimitation"": 1, ""DownloadFileSizeLimit"": 1, ""MaxGlobalStorageItemSize"": 1, ""SyncLaunchSceneList"": [], ""GamePerfCollectSamplePercentage"": 1.0, ""GameDownloadFileSizeLimit"": 1, ""HTTPHeaderReferer"": ""test"", ""LoadingWeakNetDelayDurationInSecondsAndroid"": 1, ""PreDownloadUserNameBlackList"": [], ""SingleWxaFileStorageCleanMbThreshold"": 1, ""UsePackageConfirmSubDescScopeList"": [], ""SubContextImgDomain"": [], ""icon_dark"": {}, ""WidgetDrawMinInterval"": 1, ""PullVersionWxaUsageLastInterval"": 1, ""AppMaxBackgroundLaunchBluetoothCount"": 1, ""url"": ""test"", ""MaxGlobalStorageSize"": 1, ""icon_gray"": {}, ""PullVersionMaxCount"": 1, ""CDNBaseURL"": ""test"", ""width"": 1, ""PullVersionInterval"": 1, ""TaskBarSyncUsageRecordIntervalMinute"": 1, ""HTTPSetting"": {}, ""CDNPreConnectURL"": ""test"", ""PullVersionMaxCountPerRequest"": 1, ""RelievedBuySetting"": {}, ""AgeAppropriateIcon"": {}}"
+openLocation	"{""Val"": ""test"", ""ExptCheckSum"": ""test"", ""EndTime"": 1, ""SvrType"": 1, ""ExptType"": 1, ""StartTime"": 1, ""BucketSrc"": 1, ""ExptId"": 1, ""ExptSequence"": 1, ""Key"": ""test"", ""GroupId"": 1}"
+setAcquireWebviewDom	"{""type"": [], ""enableAcquireWebviewDom"": true}"
+openLiteApp	"{""ignoreAlive"": true, ""seconds"": 1, ""keepAlive"": {}}"
+openBluetoothAdapter	"{""Val"": ""test"", ""EndTime"": 1, ""ExptCheckSum"": ""test"", ""SvrType"": 1, ""ExptType"": 1, ""StartTime"": 1, ""BucketSrc"": 1, ""ExptSequence"": 1, ""ExptId"": 1, ""Key"": ""test"", ""GroupId"": 1}"
+NFCClose	{}
+gameLiveInfoControl	"{""duration"": 1, ""action"": 1, ""topic"": ""test""}"
+private_fileSystemConvert	"{""fileName"": ""test"", ""operationType"": ""test"", ""mimeType"": ""test"", ""autoDeleteIfExists"": true, ""localId"": ""test""}"
+operateGlobalMonitoredBluetoothDevice	"{""envVersion"": ""test"", ""entryPackage"": ""test"", ""data"": {}, ""monitoredDeviceInfo"": {}, ""type"": ""test"", ""deviceId"": ""test""}"
+login	{}
+setBluetoothBackgroundMode	{}
+initMapMarkerCluster	"{""enableDefaultStyle"": true, ""zoomOnClick"": true, ""gridSize"": 1, ""minimumClusterSize"": 1, ""mapId"": 1}"
+chooseInvoiceTitle	"{""Val"": ""test"", ""EndTime"": 1, ""ExptCheckSum"": ""test"", ""SvrType"": 1, ""ExptType"": 1, ""BucketSrc"": 1, ""StartTime"": 1, ""ExptId"": 1, ""ExptSequence"": 1, ""Key"": ""test"", ""GroupId"": 1}"
+createRequestTaskAsync	{}
+isdir	{}
+setDefaultTrafficCard	"{""deviceType"": ""test"", ""Val"": ""test"", ""EndTime"": 1, ""SvrType"": 1, ""BucketSrc"": 1, ""deviceData"": {}, ""StartTime"": 1, ""GroupId"": 1, ""ExptCheckSum"": ""test"", ""ExptType"": 1, ""ExptSequence"": 1, ""ExptId"": 1, ""Key"": ""test""}"
+openWeRunSetting	"{""checkSupport"": true}"
+ecdsaSign	"{""signText"": ""test""}"
+hideHomeButton	{}
+hideShareTimelineMenu	{}
+shareImageMessage	"{""Val"": ""test"", ""rendererOptions"": {}, ""customButtonIconData"": ""test"", ""renderer"": ""test"", ""EndTime"": 1, ""singlePage"": {}, ""enableFullScreen"": true, ""SvrType"": 1, ""imagePath"": ""test"", ""BucketSrc"": 1, ""skyline"": {}, ""navigationBarFit"": ""test"", ""sdkVersionEnd"": ""test"", ""sdkVersionBegin"": ""test"", ""homeButton"": true, ""needShowEntrance"": true, ""androidVersionEnd"": ""test"", ""navigationBarBackgroundColor"": ""test"", ""navigationBarTitleText"": ""test"", ""ExptId"": 1, ""backgroundColor"": ""test"", ""navigationStyle"": ""test"", ""resizable"": true, ""androidVersionBegin"": ""test"", ""StartTime"": 1, ""enablePullDownRefresh"": true, ""backgroundTextStyle"": ""test"", ""disableABTest"": true, ""visualEffectInBackground"": ""test"", ""GroupId"": 1, ""handleWebviewPreload"": ""test"", ""quality"": ""test"", ""navigationBarRightButton"": {}, ""hide"": true, ""pageOrientation"": ""test"", ""navigationBarBackgroundAlpha"": 1.0, ""ExptCheckSum"": ""test"", ""backgroundColorContent"": ""test"", ""ExptType"": 1, ""disableSwipeBack"": true, ""navigationBarTextStyle"": ""test"", ""window"": {}, ""page"": {}, ""entrancePath"": ""test"", ""ExptSequence"": 1, ""Key"": ""test""}"
+openWeAppAuthManageList	"{""Val"": ""test"", ""EndTime"": 1, ""ExptCheckSum"": ""test"", ""SvrType"": 1, ""ExptType"": 1, ""StartTime"": 1, ""BucketSrc"": 1, ""ExptId"": 1, ""ExptSequence"": 1, ""Key"": ""test"", ""GroupId"": 1}"
+removeXWebMap	"{""viewId"": 1}"
+startFacialRecognitionVerify	"{""checkAliveType"": 1, ""requestVerifyPreInfo"": ""test""}"
+publishWeChatStateDirectly	"{""Val"": ""test"", ""EndTime"": 1, ""ExptCheckSum"": ""test"", ""SvrType"": 1, ""ExptType"": 1, ""StartTime"": 1, ""BucketSrc"": 1, ""ExptId"": 1, ""ExptSequence"": 1, ""Key"": ""test"", ""GroupId"": 1}"
+subscribeVoIPMembers	"{""Val"": ""test"", ""openIdList"": [], ""EndTime"": 1, ""SvrType"": 1, ""StartTime"": 1, ""BucketSrc"": 1, ""GroupId"": 1, ""ExptCheckSum"": ""test"", ""ExptType"": 1, ""ExptSequence"": 1, ""ExptId"": 1, ""roomType"": 1, ""Key"": ""test""}"
+editTextWithPopForm	"{""text"": ""test""}"
+private_addContact	"{""Val"": ""test"", ""EndTime"": 1, ""ExptCheckSum"": ""test"", ""SvrType"": 1, ""ExptType"": 1, ""StartTime"": 1, ""BucketSrc"": 1, ""ExptSequence"": 1, ""ExptId"": 1, ""Key"": ""test"", ""GroupId"": 1}"
+showNavigationBarLoading	{}
+downloadPageDataForFastLoad	"{""itemList"": [], ""item_show_type"": 1, ""url"": ""test"", ""scene"": 1}"
+operateMusicPlayer	{}
+openNewLifeDetail	"{""Val"": ""test"", ""EndTime"": 1, ""SvrType"": 1, ""StartTime"": 1, ""BucketSrc"": 1, ""GroupId"": 1, ""ExptCheckSum"": ""test"", ""feedId"": ""test"", ""ExptType"": 1, ""ExptId"": 1, ""fromScene"": 1, ""ExptSequence"": 1, ""Key"": ""test"", ""nonceId"": ""test""}"
+getStorage	"{""key"": ""test"", ""storageId"": 1}"
+getDeviceInfo	"{""Val"": ""test"", ""ExptCheckSum"": ""test"", ""EndTime"": 1, ""waidPkg"": ""test"", ""SvrType"": 1, ""ExptType"": 1, ""StartTime"": 1, ""BucketSrc"": 1, ""ExptId"": 1, ""ExptSequence"": 1, ""Key"": ""test"", ""GroupId"": 1}"
+reportAction	"{""Val"": ""test"", ""EndTime"": 1, ""SvrType"": 1, ""StartTime"": 1, ""BucketSrc"": 1, ""GroupId"": 1, ""ExptCheckSum"": ""test"", ""ExptType"": 1, ""ExptSequence"": 1, ""ExptId"": 1, ""value"": ""test"", ""key"": ""test"", ""Key"": ""test""}"
+compressVideo	"{""src"": ""test"", ""fps"": 1.0, ""bitrate"": 1, ""resolution"": 1.0, ""quality"": ""test""}"
+pauseVoice	{}
+sendSms	"{""phoneNumber"": ""test"", ""content"": ""test""}"
+getNpuLibsPath	{}
+updateXWebCamera	"{""cameraId"": 1}"
+getBackgroundFetchToken	{}
+insertXWebLivePusher	"{""viewId"": 1}"
+loadWAFile	"{""filename"": ""test""}"
+openBluetoothAdapter	"{""Val"": ""test"", ""ExptCheckSum"": ""test"", ""EndTime"": 1, ""SvrType"": 1, ""ExptType"": 1, ""BucketSrc"": 1, ""StartTime"": 1, ""ExptSequence"": 1, ""ExptId"": 1, ""Key"": ""test"", ""GroupId"": 1}"
+uploadWeRunData	"{""step"": 1}"
+traceEvent	"{""args"": ""test"", ""phase"": ""test"", ""name"": ""test"", ""start"": 1, ""end"": 1, ""category"": ""test"", ""events"": []}"
+openChannelsCreateContact	"{""Val"": ""test"", ""ExptCheckSum"": ""test"", ""EndTime"": 1, ""SvrType"": 1, ""ExptType"": 1, ""StartTime"": 1, ""BucketSrc"": 1, ""ExptSequence"": 1, ""ExptId"": 1, ""Key"": ""test"", ""GroupId"": 1}"
+setFileSpaceStatistics	"{""enable"": true}"
+getMapRotate	"{""mapId"": 1}"
+kvReport	"{""logId"": 1, ""logStr"": ""test""}"
+adOperateWXData	"{""keepAlive"": true, ""appendDeviceInfo"": true}"
+getDownloadWidgetTaskInfoForNative	{}
+removeMagicBrushFrame	"{""biz"": 1, ""frameId"": 1}"
+captureScreen	{}
+setNavigateBackConfirmDialog	"{""enable"": true, ""content"": ""test""}"
+setMenuStyle	"{""style"": ""test""}"
+pushNativeWebView	"{""Val"": ""test"", ""EndTime"": 1, ""SvrType"": 1, ""BucketSrc"": 1, ""StartTime"": 1, ""url"": ""test"", ""disableShareMenu"": true, ""GroupId"": 1, ""ExptCheckSum"": ""test"", ""ExptType"": 1, ""ExptSequence"": 1, ""ExptId"": 1, ""Key"": ""test""}"
+private_getBackgroundFetchData	"{""fetchType"": 1}"
+setNavigationBarTitle	"{""title"": ""test""}"
+readBLECharacteristicValue	"{""Val"": ""test"", ""mainThread"": true, ""debug"": true, ""EndTime"": 1, ""SvrType"": 1, ""StartTime"": 1, ""BucketSrc"": 1, ""deviceId"": ""test"", ""characteristicId"": ""test"", ""GroupId"": 1, ""ExptCheckSum"": ""test"", ""ExptType"": 1, ""serviceId"": ""test"", ""ExptSequence"": 1, ""ExptId"": 1, ""Key"": ""test""}"
+removeXWebVoIPView	"{""viewId"": 1}"
+getStorageInfo	"{""storageId"": 1}"
+requestH5Transaction	"{""Val"": ""test"", ""package"": ""test"", ""EndTime"": 1, ""SvrType"": 1, ""StartTime"": 1, ""BucketSrc"": 1, ""nonceStr"": ""test"", ""url"": ""test"", ""GroupId"": 1, ""timeStamp"": ""test"", ""ExptCheckSum"": ""test"", ""paySign"": ""test"", ""closeWebAfterPayDetailBack"": ""test"", ""ExptType"": 1, ""signType"": ""test"", ""ExptId"": 1, ""ExptSequence"": 1, ""Key"": ""test""}"
+startHandoff	"{""path"": ""test"", ""actionId"": 1}"
+startNFCDiscovery	{}
+stopBeaconDiscovery	{}
+setNavigationBarRightButton	"{""hide"": true, ""iconPath"": ""test""}"
+startFacialRecognitionVerifyAndUploadVideo	"{""checkAliveType"": 1, ""requestVerifyPreInfo"": ""test""}"
+getInstallStateForNative	"{""packageNameArray"": [], ""packageName"": ""test""}"
+shareAppMessageDirectly	"{""rendererOptions"": {}, ""customButtonIconData"": ""test"", ""videoMD5"": ""test"", ""singlePage"": {}, ""sdkVersionBegin"": ""test"", ""type"": ""test"", ""sdkVersionEnd"": ""test"", ""liteAppPath"": ""test"", ""homeButton"": true, ""mode"": ""test"", ""chatroomUsername"": ""test"", ""path"": ""test"", ""playDesc"": ""test"", ""navigationBarBackgroundColor"": ""test"", ""liteAppId"": ""test"", ""androidVersionBegin"": ""test"", ""appBrandPriority"": 1, ""visualEffectInBackground"": ""test"", ""thumbDataHash"": ""test"", ""videoPath"": ""test"", ""navigationBarRightButton"": {}, ""pageOrientation"": ""test"", ""useDefaultSnapshot"": true, ""navigationBarBackgroundAlpha"": 1.0, ""backgroundColorContent"": ""test"", ""webViewUrl"": ""test"", ""disableForward"": true, ""page"": {}, ""desc"": ""test"", ""liteAppQuery"": ""test"", ""videoThumbPath"": ""test"", ""renderer"": ""test"", ""signature"": ""test"", ""openId"": ""test"", ""enableFullScreen"": true, ""link"": ""test"", ""skyline"": {}, ""liteAppBizData"": ""test"", ""title"": ""test"", ""navigationBarFit"": ""test"", ""androidVersionEnd"": ""test"", ""liteAppPriority"": 1, ""cacheKey"": ""test"", ""imageUrl"": ""test"", ""navigationBarTitleText"": ""test"", ""messageExtraData"": ""test"", ""hasRelievedBuyPlugin"": true, ""backgroundColor"": ""test"", ""videoButtonText"": ""test"", ""navigationStyle"": ""test"", ""resizable"": true, ""cardSubType"": 1, ""enablePullDownRefresh"": true, ""sdk_isFromMenu"": true, ""disableABTest"": true, ""backgroundTextStyle"": ""test"", ""handleWebviewPreload"": ""test"", ""hide"": true, ""disableSwipeBack"": true, ""navigationBarTextStyle"": ""test"", ""window"": {}, ""to"": ""test"", ""webpageUrl"": ""test""}"
+notifyWCPayResult	"{""timeStamp"": ""test"", ""bizEventKey"": ""test""}"
+chooseMessageFile	"{""extension"": ""test"", ""count"": 1, ""type"": ""test""}"
+toScreenLocation	"{""mapId"": 1}"
+updateShareMenuShareTicket	"{""withShareTicket"": true}"
+updateXWebMap	"{""viewId"": 1}"
+setTabBarStyle	"{""backgroundColor"": ""test"", ""color"": ""test"", ""selectedColor"": ""test"", ""borderStyle"": ""test""}"
+gamelifeManager	"{""functionType"": 1}"
+appendRuntimeContext	"{""data"": ""test""}"
+setAudioState	"{""volume"": 1.0, ""playbackRate"": 1.0, ""src"": ""test"", ""loop"": true, ""audioId"": ""test"", ""startTime"": 1, ""autoplay"": true, ""timestamp"": 1}"
+saveFile	{}
+updateShareMenuUpdatable	"{""updatable"": true, ""isPrivateMessage"": true, ""templateId"": ""test""}"
+highlightBottomBanner	"{""shouldHighlight"": true}"
+NFCGetAtqa	{}
+reportRealtimeAction	"{""actionData"": ""test""}"
+showLiveToast	"{""toastContent"": ""test"", ""duration"": 1, ""icon"": ""test""}"
+operateXWebLivePusher	"{""viewId"": 1, ""type"": ""test""}"
+rmdir	{}
+operateXWebVideo	"{""viewId"": 1, ""type"": ""test""}"
+writeBLECharacteristicValue	"{""Val"": ""test"", ""mainThread"": true, ""debug"": true, ""EndTime"": 1, ""SvrType"": 1, ""StartTime"": 1, ""BucketSrc"": 1, ""characteristicId"": ""test"", ""deviceId"": ""test"", ""GroupId"": 1, ""ExptCheckSum"": ""test"", ""writeType"": ""test"", ""ExptType"": 1, ""ExptId"": 1, ""serviceId"": ""test"", ""ExptSequence"": 1, ""value"": ""test"", ""Key"": ""test""}"
+setKeepScreenOn	"{""keepScreenOn"": true}"
+setClipboardData	"{""data"": ""test""}"
+enterWCCoinHomePage	"{""Val"": ""test"", ""ExptCheckSum"": ""test"", ""EndTime"": 1, ""SvrType"": 1, ""ExptType"": 1, ""StartTime"": 1, ""businessId"": ""test"", ""BucketSrc"": 1, ""ExptSequence"": 1, ""ExptId"": 1, ""Key"": ""test"", ""GroupId"": 1}"
+nativeWXPayCgiTunnel	{}
+readZipEntry	{}
+getNetworkType	{}
+jumpRedPacketEnvelopePreview	"{""url"": ""test""}"
+setSecuritySnapshotStrategy	"{""snapshotIntervalMillis"": 1, ""enabledSnapshot"": true, ""shortEdge"": 1}"
+captureScreen	{}
+joinVoIPChat	"{""Val"": ""test"", ""videoRatio"": 1, ""EndTime"": 1, ""signature"": ""test"", ""SvrType"": 1, ""lifespan"": 1, ""groupId"": ""test"", ""BucketSrc"": 1, ""roomId"": 1, ""muteEarphone"": true, ""maxHeight"": 1, ""handsFree"": true, ""ExptId"": 1, ""roomType"": 1, ""maxWidth"": 1, ""sessionKey"": ""test"", ""StartTime"": 1, ""nonceStr"": ""test"", ""GroupId"": 1, ""timeStamp"": 1, ""privateData"": ""test"", ""muteMicrophone"": true, ""ExptCheckSum"": ""test"", ""ExptType"": 1, ""ExptSequence"": 1, ""Key"": ""test""}"
+openLink	"{""url"": ""test""}"
+stopBluetoothDevicesDiscovery	"{""Val"": ""test"", ""ExptCheckSum"": ""test"", ""EndTime"": 1, ""SvrType"": 1, ""ExptType"": 1, ""BucketSrc"": 1, ""StartTime"": 1, ""ExptSequence"": 1, ""ExptId"": 1, ""Key"": ""test"", ""GroupId"": 1}"
+opNativeRedDot	"{""op"": ""test"", ""redDotType"": 1}"
+buyWCCoin	"{""Val"": ""test"", ""agreementVersion"": ""test"", ""productId"": ""test"", ""EndTime"": 1, ""SvrType"": 1, ""StartTime"": 1, ""BucketSrc"": 1, ""GroupId"": 1, ""mode"": ""test"", ""panelShowType"": ""test"", ""ExptCheckSum"": ""test"", ""ExptType"": 1, ""ExptId"": 1, ""ExptSequence"": 1, ""Key"": ""test"", ""customCount"": ""test""}"
+getLocation	"{""altitude"": true, ""highAccuracyExpireTime"": 1, ""enableIndoor"": true, ""subKey"": ""test"", ""isHighAccuracy"": true, ""type"": ""test""}"
+addImageToFavorites	"{""rendererOptions"": {}, ""customButtonIconData"": ""test"", ""renderer"": ""test"", ""singlePage"": {}, ""enableFullScreen"": true, ""skyline"": {}, ""navigationBarFit"": ""test"", ""sdkVersionBegin"": ""test"", ""sdkVersionEnd"": ""test"", ""homeButton"": true, ""androidVersionEnd"": ""test"", ""navigationBarBackgroundColor"": ""test"", ""navigationBarTitleText"": ""test"", ""backgroundColor"": ""test"", ""navigationStyle"": ""test"", ""resizable"": true, ""androidVersionBegin"": ""test"", ""enablePullDownRefresh"": true, ""disableABTest"": true, ""backgroundTextStyle"": ""test"", ""visualEffectInBackground"": ""test"", ""url"": ""test"", ""handleWebviewPreload"": ""test"", ""navigationBarRightButton"": {}, ""hide"": true, ""navigationBarBackgroundAlpha"": 1.0, ""pageOrientation"": ""test"", ""backgroundColorContent"": ""test"", ""disableSwipeBack"": true, ""navigationBarTextStyle"": ""test"", ""page"": {}, ""window"": {}}"
+addMapVisualLayer	"{""layerId"": ""test"", ""level"": ""test"", ""interval"": 1, ""mapId"": 1, ""opacity"": 1.0, ""zIndex"": 1}"
+openCustomerServiceChat	"{""rendererOptions"": {}, ""customButtonIconData"": ""test"", ""renderer"": ""test"", ""singlePage"": {}, ""enableFullScreen"": true, ""skyline"": {}, ""sdkVersionBegin"": ""test"", ""navigationBarFit"": ""test"", ""sdkVersionEnd"": ""test"", ""sendMessageHintTitle"": ""test"", ""extInfo"": ""test"", ""homeButton"": true, ""scene"": 1, ""androidVersionEnd"": ""test"", ""navigationBarBackgroundColor"": ""test"", ""finder_context"": ""test"", ""navigationBarTitleText"": ""test"", ""showMessageCard"": true, ""backgroundColor"": ""test"", ""navigationStyle"": ""test"", ""resizable"": true, ""androidVersionBegin"": ""test"", ""enablePullDownRefresh"": true, ""disableABTest"": true, ""backgroundTextStyle"": ""test"", ""visualEffectInBackground"": ""test"", ""sendMessageImg"": ""test"", ""url"": ""test"", ""sendMessageTitle"": ""test"", ""handleWebviewPreload"": ""test"", ""hide"": true, ""navigationBarRightButton"": {}, ""pageOrientation"": ""test"", ""navigationBarBackgroundAlpha"": 1.0, ""sendMessageParam"": {}, ""backgroundColorContent"": ""test"", ""disableSwipeBack"": true, ""navigationBarTextStyle"": ""test"", ""page"": {}, ""window"": {}, ""sendMessagePath"": ""test"", ""entity"": ""test""}"
+openWCCertHomePage	"{""Val"": ""test"", ""EndTime"": 1, ""ExptCheckSum"": ""test"", ""SvrType"": 1, ""ExptType"": 1, ""BucketSrc"": 1, ""StartTime"": 1, ""ExptId"": 1, ""ExptSequence"": 1, ""Key"": ""test"", ""GroupId"": 1}"
+showVirtualBottomNavigationBar	{}
+cryptoExchangeKey	"{""privateKey"": ""test"", ""keyAlias"": ""test"", ""publicKey"": ""test"", ""algorithm"": ""test""}"
+handleWCPayOverseaWalletBuffer	"{""timeStamp"": ""test"", ""walletRegion"": ""test"", ""package"": ""test"", ""paySign"": ""test"", ""appId"": ""test"", ""signType"": ""test"", ""action"": ""test"", ""buffer"": ""test"", ""nonceStr"": ""test"", ""url"": ""test""}"
+openChannelsLive	{}
+addFileToFavorites	"{""fileName"": ""test"", ""filePath"": ""test""}"
+launchApplication	"{""operateDirectly"": ""test"", ""sourceInfo"": ""test"", ""alertType"": ""test"", ""installSchemeUrl"": ""test"", ""appId"": ""test"", ""parameter"": ""test"", ""bizInfo"": ""test"", ""schemeUrl"": ""test"", ""taskName"": ""test"", ""packageName"": ""test"", ""fileMd5"": ""test"", ""extInfo"": ""test""}"
+writeBLEPeripheralCharacteristicValue	"{""callbackId"": 1, ""serviceId"": ""test"", ""characteristicId"": ""test"", ""value"": ""test"", ""serverId"": 1, ""needNotify"": true}"
+updateCapsuleIcon	"{""sessionBuffer"": ""test"", ""iconUrl"": ""test"", ""darkModeIconUrl"": ""test""}"
+disableScrollBounce	"{""disable"": true}"
+removeXWebCamera	"{""cameraId"": 1}"
+adDataReport	"{""adInfo"": ""test""}"
+functionalPageStartGame	"{""url"": ""test""}"
+showShareTimelineMenu	{}
+NFCConnect	{}
+getNetworkType	{}
+saveInitialRenderingCache	"{""path"": ""test"", ""appserviceData"": ""test"", ""webviewData"": ""test""}"
+addDownloadTaskStraight	"{""taskUrl"": ""test"", ""alternativeUrl"": ""test"", ""taskName"": ""test"", ""taskSize"": 1, ""fileMd5"": ""test"", ""packageName"": ""test"", ""fileType"": ""test"", ""extInfo"": ""test""}"
+access	{}
+issueTrafficCard	"{""deviceType"": ""test"", ""Val"": ""test"", ""EndTime"": 1, ""SvrType"": 1, ""StartTime"": 1, ""BucketSrc"": 1, ""deviceData"": {}, ""GroupId"": 1, ""ExptCheckSum"": ""test"", ""ExptType"": 1, ""ExptId"": 1, ""ExptSequence"": 1, ""Key"": ""test""}"
+finishLoading	{}
+chooseMultiWechatChatroom	"{""rightButtonLightFontColor"": ""test"", ""countExceedTipWord"": ""test"", ""chatroomSessionWord"": ""test"", ""forceLightMode"": true, ""params"": {}, ""maxCount"": 1, ""rightButtonLightColor"": ""test"", ""canSelectOpenIM"": true, ""tipWord"": ""test"", ""selectedUserNameList"": [], ""rightButtonDarkColor"": ""test"", ""rightButtonWord"": ""test"", ""choiseSessionWord"": ""test"", ""rightButtonDarkFontColor"": ""test""}"
+createBLEPeripheralServer	{}
+saveImageToPhotosAlbum	"{""filePath"": ""test""}"
+hideSplashScreen	{}
+createAudioInstanceAsync	{}
+isNFCTechConnected	{}
+setVisualEffectOnCapture	"{""visualEffect"": ""test""}"
+startRecord	"{""duration"": 1}"
+showWCCoinFirstBuyCoinTips	"{""Val"": ""test"", ""EndTime"": 1, ""ExptCheckSum"": ""test"", ""alwaysDarkMode"": 1, ""SvrType"": 1, ""ExptType"": 1, ""StartTime"": 1, ""BucketSrc"": 1, ""ExptSequence"": 1, ""ExptId"": 1, ""Key"": ""test"", ""GroupId"": 1}"
+private_onWebPageUrlExposed	"{""bizType"": 1, ""urlList"": ""test""}"
+operateBackgroundAudio	{}
+pauseDownloadTaskForNative	"{""downloadId"": 1}"
+getSavedFileInfo	"{""filePath"": ""test""}"
+addMapArc	"{""color"": ""test"", ""pass"": {}, ""latitude"": 1.0, ""width"": 1.0, ""angle"": 1.0, ""mapId"": 1, ""longitude"": 1.0}"
+requestSnsPayment	"{""Val"": ""test"", ""package"": ""test"", ""EndTime"": 1, ""bankType"": ""test"", ""SvrType"": 1, ""BucketSrc"": 1, ""StartTime"": 1, ""nonceStr"": ""test"", ""GroupId"": 1, ""timeStamp"": ""test"", ""ExptCheckSum"": ""test"", ""paySign"": ""test"", ""ExptType"": 1, ""bindSerial"": ""test"", ""paymentDeskModalTitle"": ""test"", ""signType"": ""test"", ""prepayId"": ""test"", ""partnerId"": ""test"", ""ExptSequence"": 1, ""ExptId"": 1, ""Key"": ""test"", ""payScene"": 1}"
+showImageOperateSheet	{}
+showKeyboard	"{""showStoreEmoticon"": true, ""showEmoticonFirst"": true, ""keyboardAppearance"": ""test"", ""keyboardType"": ""test"", ""defaultValue"": ""test"", ""multiple"": true, ""showStoreEmoticonPlus"": true, ""confirmType"": ""test"", ""confirmHold"": true, ""maxLength"": 1}"
+startBeaconDiscovery	"{""uuids"": ""test""}"

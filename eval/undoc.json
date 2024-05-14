@@ -1,0 +1,282 @@
+{
+  "searchContacts": {
+    "errMsg": "searchContacts:fail can only be invoked by user TAP gesture."
+  },
+  "bindPaymentCard": {
+    "errno": 102,
+    "errMsg": "bindPaymentCard:fail:access denied"
+  },
+  "navigateBackH5": {
+    "errMsg": "navigateBackH5:fail not HTML5 page can navigate back."
+  },
+  "launchApplicationForNative": {
+    "errno": 102,
+    "errMsg": "launchApplicationForNative:fail:access denied"
+  },
+  "requestFacetoFacePayment": {
+    "errno": 102,
+    "errMsg": "requestFacetoFacePayment:fail:access denied"
+  },
+  "publishWechatStateActivity": {
+    "errMsg": "publishWechatStateActivity:fail should only called after a successful payment"
+  },
+  "getWCPayOverseaPrepayRequest": {
+    "errMsg": "getWCPayOverseaPrepayRequest:fail cancel"
+  },
+  "secureTunnel": { "errno": 102, "errMsg": "secureTunnel:fail:access denied" },
+  "handleWCPayOverseaWalletBuffer": {
+    "errno": 102,
+    "errMsg": "handleWCPayOverseaWalletBuffer:fail:access denied"
+  },
+  "openQRCode": { "errno": 102, "errMsg": "openQRCode:fail:access denied" },
+  "operateWXData": {
+    "errno": 1001,
+    "errMsg": "operateWXData:fail parameter error: parameter.apiName should be String instead of Undefined;"
+  },
+  "launchApplicationDirectly": {
+    "errno": 102,
+    "errMsg": "launchApplicationDirectly:fail:access denied"
+  },
+  "joinGroup": { "errno": 102, "errMsg": "joinGroup:fail:access denied" },
+  "requestScanPOSPay": { "errMsg": "requestScanPOSPay:fail invalid amount" },
+  "reportAction": { "errMsg": "reportAction:fail" },
+  "startCustomFacialRecognitionVerifyAndUploadVideo": {
+    "errno": 102,
+    "errMsg": "startCustomFacialRecognitionVerifyAndUploadVideo:fail:access denied"
+  },
+  "requestH5Transaction": { "errMsg": "requestH5Transaction:ok" },
+  "startFacialEncryptionVerifyAndUploadVideo": {
+    "errno": 102,
+    "errMsg": "startFacialEncryptionVerifyAndUploadVideo:fail:access denied"
+  },
+  "issueTrafficCard": {
+    "errno": 102,
+    "errMsg": "issueTrafficCard:fail:access denied"
+  },
+  "notifyWCPayResult": {
+    "errno": 1001,
+    "errMsg": "notifyWCPayResult:fail parameter error: parameter.appId should be String instead of Undefined;parameter.timeStamp should be String instead of Undefined;parameter.bizEventKey should be String instead of Undefined;"
+  },
+  "openChannelsCreateContact": {
+    "errno": 102,
+    "errMsg": "openChannelsCreateContact:fail:access denied"
+  },
+  "openDeliveryList": {
+    "errno": 102,
+    "errMsg": "openDeliveryList:fail:access denied"
+  },
+  "showShareActionSheet": {
+    "errno": 102,
+    "errMsg": "showShareActionSheet:fail:access denied"
+  },
+  "queryTrafficCardInfo": {
+    "errno": 102,
+    "errMsg": "queryTrafficCardInfo:fail:access denied"
+  },
+  "deleteTrafficCard": {
+    "errno": 102,
+    "errMsg": "deleteTrafficCard:fail:access denied"
+  },
+  "uploadEncryptedFileToCDN": {
+    "errno": 102,
+    "errMsg": "uploadEncryptedFileToCDN:fail:access denied"
+  },
+  "setCurrentPaySpeech": {
+    "errno": 102,
+    "errMsg": "setCurrentPaySpeech:fail:access denied"
+  },
+  "openChannelsLiveCollection": {
+    "errno": 0,
+    "errMsg": "openChannelsLiveCollection:ok"
+  },
+  "captureScreen": {
+    "errno": 102,
+    "errMsg": "captureScreen:fail:access denied"
+  },
+  "requestBizSplitBillPayment": {
+    "errno": 1001,
+    "errMsg": "requestBizSplitBillPayment:fail parameter error: parameter.orderNo should be String instead of Undefined;"
+  },
+  "requestVerifyUserIdentity": {
+    "errno": 102,
+    "errMsg": "requestVerifyUserIdentity:fail:access denied"
+  },
+  "startFacialRecognitionVerifyAndUploadVideo": {
+    "errno": 102,
+    "errMsg": "startFacialRecognitionVerifyAndUploadVideo:fail:access denied"
+  },
+  "setPageOrientation": { "errMsg": "setPageOrientation:fail:invalid data" },
+  "verifyPaymentPassword": {
+    "errno": 102,
+    "errMsg": "verifyPaymentPassword:fail:access denied"
+  },
+  "openUrl": { "errMsg": "openUrl: invalid url \"\"" },
+  "requestMedicalInsurancePay": {
+    "errno": 102,
+    "errMsg": "requestMedicalInsurancePay:fail:access denied"
+  },
+  "startCustomFacialRecognitionVerify": {
+    "errno": 102,
+    "errMsg": "startCustomFacialRecognitionVerify:fail:access denied"
+  },
+  "getABTestConfig": {
+    "errMsg": "getABTestConfig:fail permission denied",
+    "errCode": 1
+  },
+  "requestMallPayment": {
+    "errno": 102,
+    "errMsg": "requestMallPayment:fail:access denied"
+  },
+  "requestPersonalPay": {
+    "errno": 102,
+    "errMsg": "requestPersonalPay:fail:access denied"
+  },
+  "checkIsSupportFacialRecognition": {
+    "errno": 102,
+    "errMsg": "checkIsSupportFacialRecognition:fail:access denied"
+  },
+  "uploadToCommonCDN": { "errMsg": "uploadToCommonCDN:fail no permission" },
+  "chooseWeChatContact": {
+    "errno": 102,
+    "errMsg": "chooseWeChatContact:fail:access denied"
+  },
+  "setNavigationBarRightButton": {
+    "errno": 1001,
+    "errMsg": "setNavigationBarRightButton:fail parameter error: parameter.hide should be Boolean instead of Undefined;"
+  },
+  "requestPaymentToBank": {
+    "errno": 102,
+    "errMsg": "requestPaymentToBank:fail:access denied"
+  },
+  "openWCPayOverseaPaymentReceive": {
+    "errno": 102,
+    "errMsg": "openWCPayOverseaPaymentReceive:fail:access denied"
+  },
+  "setDefaultTrafficCard": {
+    "errno": 102,
+    "errMsg": "setDefaultTrafficCard:fail:access denied"
+  },
+  "publishWeChatState": {
+    "errMsg": "publishWeChatState:fail can only be invoked by user TAP gesture."
+  },
+  "enterContact": { "errMsg": "enterContact:fail no permission" },
+  "chooseMultiMedia": {
+    "errno": 102,
+    "errMsg": "chooseMultiMedia:fail:access denied"
+  },
+  "openOfflinePayView": {
+    "errno": 102,
+    "errMsg": "openOfflinePayView:fail:access denied"
+  },
+  "shareAppMessageForFakeNative": {
+    "errno": 1001,
+    "errMsg": "shareAppMessageForFakeNative:fail parameter error: parameter.title should be String instead of Undefined;parameter.bizType should be Number instead of Undefined;"
+  },
+  "setLabInfo": {
+    "errno": 1001,
+    "errMsg": "setLabInfo:fail parameter error: parameter.labId should be String instead of Undefined;parameter.enabled should be Boolean instead of Undefined;"
+  },
+  "faceVerifyForPay": {
+    "errno": 102,
+    "errMsg": "faceVerifyForPay:fail:access denied"
+  },
+  "requestQueryCashier": {
+    "errno": 1001,
+    "errMsg": "requestQueryCashier:fail parameter error: parameter.timeStamp should be Number instead of Undefined;parameter.nonceStr should be String instead of Undefined;parameter.package should be String instead of Undefined;parameter.signType should be String instead of Undefined;parameter.paySign should be String instead of Undefined;"
+  },
+  "requestJointPayment": {
+    "errno": 102,
+    "errMsg": "requestJointPayment:fail:access denied"
+  },
+  "openUserProfile": {
+    "errno": 102,
+    "errMsg": "openUserProfile:fail:access denied"
+  },
+  "rechargeTrafficCard": {
+    "errno": 102,
+    "errMsg": "rechargeTrafficCard:fail:access denied"
+  },
+  "sendBizRedPacket": {
+    "errno": 102,
+    "errMsg": "sendBizRedPacket:fail:access denied"
+  },
+  "makeVoIPCall": { "errno": 102, "errMsg": "makeVoIPCall:fail:access denied" },
+  "updatePerfData": { "errMsg": "updatePerfData:fail" },
+  "loadPaySpeechDialectConfig": {
+    "errno": 102,
+    "errMsg": "loadPaySpeechDialectConfig:fail:access denied"
+  },
+  "checkTrafficCardConditions": {
+    "errno": 102,
+    "errMsg": "checkTrafficCardConditions:fail:access denied"
+  },
+  "launchMiniProgram": {
+    "errno": 102,
+    "errMsg": "launchMiniProgram:fail:access denied"
+  },
+  "addWeRunData": {
+    "errMsg": "addWeRunData:fail parameter error: step should be number and greater or equal to 0"
+  },
+  "openWeComUserProfile": {
+    "errno": 1001,
+    "errMsg": "openWeComUserProfile:fail parameter error: parameter.dataUrl should be String instead of Undefined;"
+  },
+  "requestEntrustAuthorization": {
+    "errno": 102,
+    "errMsg": "requestEntrustAuthorization:fail:access denied"
+  },
+  "startFacialEncryptionVerify": {
+    "errno": 102,
+    "errMsg": "startFacialEncryptionVerify:fail:access denied"
+  },
+  "uploadWeRunData": {
+    "errMsg": "uploadWeRunData:fail parameter error: step should be number and greater or equal to 0"
+  },
+  "scanItem": { "errMsg": "scanItem:fail cancel" },
+  "openSelectPayment": {
+    "errno": 102,
+    "errMsg": "openSelectPayment:fail:access denied"
+  },
+  "openBluetoothAdapterBackground": {
+    "errMsg": "openBluetoothAdapterBackground:fail requiredBackgroundModes in app.json invalid",
+    "errCode": 10014
+  },
+  "setBluetoothBackgroundMode": {
+    "errno": 1001,
+    "errMsg": "setBluetoothBackgroundMode:fail parameter error: parameter.enable should be Boolean instead of Undefined;parameter.devices should be Array instead of Undefined;"
+  },
+  "navigateBackNative": {
+    "errno": 102,
+    "errMsg": "navigateBackNative:fail:access denied"
+  },
+  "getLabInfo": {
+    "errno": 1001,
+    "errMsg": "getLabInfo:fail parameter error: parameter.labId should be String instead of Undefined;"
+  },
+  "chooseShareGroup": {
+    "errno": 102,
+    "errMsg": "chooseShareGroup:fail:access denied"
+  },
+  "notifyBLECharacteristicValueChanged": {
+    "errno": 1001,
+    "errMsg": "notifyBLECharacteristicValueChanged:fail parameter error: parameter.state should be Boolean instead of Undefined;parameter.deviceId should be String instead of Undefined;parameter.serviceId should be String instead of Undefined;parameter.characteristicId should be String instead of Undefined;"
+  },
+  "addNativeDownloadTask": {
+    "errno": 102,
+    "errMsg": "addNativeDownloadTask:fail:access denied"
+  },
+  "getSavedFileInfo": {
+    "errno": 1001,
+    "errMsg": "getSavedFileInfo:fail parameter error: parameter.filePath should be String instead of Undefined;"
+  },
+  "bindGroup": { "errno": 102, "errMsg": "bindGroup:fail:access denied" },
+  "launchDevMiniProgram": {
+    "errno": 1001,
+    "errMsg": "launchDevMiniProgram:fail parameter error: parameter.appId should be String instead of Undefined;"
+  },
+  "traceEvent": { "errMsg": "traceEvent:fail" },
+  "startFacialRecognitionVerify": {
+    "errno": 102,
+    "errMsg": "startFacialRecognitionVerify:fail:access denied"
+  }
+}
