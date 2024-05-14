@@ -1,0 +1,677 @@
+{
+  "updateXWebLivePusher": {},
+  "enterWCCoinHomePage": {},
+  "openWCPayOverseaPaymentReceive": {
+    "errno": 102,
+    "errMsg": "openWCPayOverseaPaymentReceive:fail:access denied"
+  },
+  "insertNativeView": {},
+  "launchApplicationDirectly": {
+    "errno": 102,
+    "errMsg": "launchApplicationDirectly:fail:access denied"
+  },
+  "sendBizRedPacket": {
+    "errno": 102,
+    "errMsg": "sendBizRedPacket:fail:access denied"
+  },
+  "updateNativeView": {},
+  "splashAdAllViewLayoutStateChange": {},
+  "NFCGetHistoricalBytes": {},
+  "createFinderAccount": {},
+  "getLocalLiveInfo": {},
+  "setNavigateBackInterceptionForFakeNative": {},
+  "extTransfer": {},
+  "isSupportNFC": {},
+  "updateXWebLivePlayer": {},
+  "getAdPushMsg": {},
+  "openChannelsPostPage": {},
+  "shareGameLive": {},
+  "addMapVisualLayer": {},
+  "rtosWatchQuickReply": {},
+  "insertMagicBrushFrame": {},
+  "shareAppMessageToSpecificContactForFakeNativeDirectly": {},
+  "openWCPayLQTDepositPlan": {},
+  "getLastLocationCache": {},
+  "deleteUserAutoFillData": {},
+  "exitGameLive": {},
+  "stopNFCDiscovery": {},
+  "cancelDownloadTaskForNative": {},
+  "jumpToWCPayMessage": {},
+  "operateDownloadTask": {},
+  "stopBLEPeripheralAdvertising": {},
+  "updateMapMarkers": {},
+  "shareSpecificWxapp": {},
+  "startCustomFacialRecognitionVerify": {
+    "errno": 102,
+    "errMsg": "startCustomFacialRecognitionVerify:fail:access denied"
+  },
+  "predownloadMiniProgramPackage": {},
+  "requestSRFile": {},
+  "editTextWithPopForm": {},
+  "insertFinderWidget": {},
+  "gamelifeManager": {},
+  "operateMusicPlayer": {},
+  "isdir": {},
+  "private_setPageOrientation": {},
+  "pauseDownloadTaskForNative": {},
+  "operateBackgroundAudio": {},
+  "launchApplication": {},
+  "cryptoGetGeneratedKeys": {},
+  "shareFinderProduct": {},
+  "loadVideoResource": {},
+  "openWeAppHistoryList": {},
+  "checkNetworkAPIURL": {},
+  "appendRuntimeContext": {},
+  "triggerBackgroundFetch": {},
+  "openChannelsTopic": {},
+  "launchDevMiniProgram": {
+    "errMsg": "fail:access denied"
+  },
+  "highlightBottomBanner": {},
+  "noticePerformanceMetrics": {},
+  "shareAppMessage": {},
+  "splashAdFirstStepViewLayoutStateChange": {},
+  "private_openUrl": {},
+  "private_onWebPageUrlExposed": {},
+  "getGlobalStorage": {},
+  "startFacialRecognitionVerify": {
+    "errno": 102,
+    "errMsg": "startFacialRecognitionVerify:fail:access denied"
+  },
+  "openUserProfile": {
+    "errno": 102,
+    "errMsg": "openUserProfile:fail:access denied"
+  },
+  "pageNotFoundCallback": {},
+  "getInstallStateForNative": {},
+  "requestContactDisplayInfo": {},
+  "getMapCenterLocation": {},
+  "createUploadTaskAsync": {},
+  "setGlobalStorage": {},
+  "removeMapVisualLayer": {},
+  "openCustomerServiceChatForFakeNative": {},
+  "loadJsFiles": {},
+  "openWCPayLQTDepositPlanAdd": {},
+  "rewriteRoute": {},
+  "secureTunnel": { "errno": 102, "errMsg": "secureTunnel:fail:access denied" },
+  "scanItem": { "errMsg": "scanItem:fail cancel" },
+  "operateRequestTask": {},
+  "restart": {},
+  "searchContacts": {
+    "errMsg": "searchContacts:fail :access denied"
+  },
+  "bindGroup": { "errno": 102, "errMsg": "bindGroup:fail:access denied" },
+  "addDownloadTask": {},
+  "operateRecorder": {},
+  "writeCommData": {},
+  "logInJava": {},
+  "fs_copyFile": {},
+  "requestVerifyUserIdentity": {
+    "errno": 102,
+    "errMsg": "requestVerifyUserIdentity:fail:access denied"
+  },
+  "getWxCommFont": {},
+  "uploadWeRunData": {
+    "errMsg": "uploadWeRunData:fail"
+  },
+  "openWebViewUseFastLoad": {},
+  "createWebViewForFastLoad": {},
+  "showShareTimelineMenu": {},
+  "cryptoGenerateKey": {},
+  "setBluetoothBackgroundMode": {
+    "errMsg": "setBluetoothBackgroundMode:fail parameter error: parameter.devices[0] should be Object instead of String;"
+  },
+  "requestFindPayPwdWay": {},
+  "insertXWebLivePlayer": {},
+  "saveWaid": {},
+  "queryDownloadTaskForNative": {},
+  "updateAppContact": {},
+  "returnCopyUrl": {},
+  "addDownloadTaskForNative": {},
+  "verifyPlugin": {},
+  "hideVirtualBottomNavigationBar": {},
+  "insertXWebMap": {},
+  "highlightTitleForSinglePage": {},
+  "shareFinderShop": {},
+  "moveMapMarkerAlong": {},
+  "addMapCircles": {},
+  "eraseMapLines": {},
+  "showShareActionSheet": {
+    "errno": 102,
+    "errMsg": "showShareActionSheet:fail:access denied"
+  },
+  "private_addContact": {},
+  "setFileSpaceStatistics": {},
+  "updateXWebVideo": {},
+  "openWCPayLQTSave": {},
+  "getLabInfo": {
+    "errMsg": "getLabInfo:fail:access denied"
+  },
+  "requestOfflineUserBindQuery": {},
+  "enableGyroscope": {},
+  "startBLEPeripheralAdvertising": {},
+  "updateXWebCamera": {},
+  "enterContact": { "errMsg": "enterContact:fail no permission" },
+  "setTingAudioState": {},
+  "notifyDcpPaymentCallback": {},
+  "removeMapCustomLayer": {},
+  "private_getBackgroundFetchData": {},
+  "makeVoIPCall": { "errno": 102, "errMsg": "makeVoIPCall:fail:access denied" },
+  "updateKeyboard": {},
+  "operateSocketTask": {},
+  "enableLocationUpdate": {},
+  "openADCanvas": {},
+  "pauseDownloadTask": {},
+  "openTextStateMessage": {},
+  "updateShareMenuUpdatable": {},
+  "setAcquireWebviewDom": {},
+  "adDataReport": {},
+  "checkStrangerContactListIsFriend": {},
+  "subscribeVoIPMembers": {},
+  "requestPersonalPay": {
+    "errno": 102,
+    "errMsg": "requestPersonalPay:fail:access denied"
+  },
+  "operateWxappCGI": {},
+  "captureHTMLWebviewFullScreenshot": {},
+  "addMapGroundOverlay": {},
+  "requestMedicalInsurancePay": {
+    "errno": 102,
+    "errMsg": "requestMedicalInsurancePay:fail:access denied"
+  },
+  "showSystemSheetMenu": {},
+  "faceVerifyForPay": {
+    "errno": 102,
+    "errMsg": "faceVerifyForPay:fail:access denied"
+  },
+  "openLiteApp": {},
+  "operateMediaContainer": {},
+  "setSecuritySnapshotStrategy": {},
+  "removeNativeView": {},
+  "returnTakeScreenshot": {},
+  "getMapIndoorFloor": {},
+  "sendRedPacket": {},
+  "showNavigationBar": {},
+  "getMusicPlayerState": {},
+  "setVolume": {},
+  "openWCCardHomePage": {},
+  "openRealnameAuth": {},
+  "queryTrafficCardInfo": {
+    "errno": 102,
+    "errMsg": "queryTrafficCardInfo:fail:access denied"
+  },
+  "setCurrentPaySpeech": {
+    "errno": 102,
+    "errMsg": "setCurrentPaySpeech:fail:access denied"
+  },
+  "showLiveToast": {},
+  "getFinderAccount": {},
+  "updateMultiPickerView": {},
+  "verifyPaymentPassword": {
+    "errno": 102,
+    "errMsg": "verifyPaymentPassword:fail:access denied"
+  },
+  "notifyBLECharacteristicValueChanged": {
+    "errMsg": "notifyBLECharacteristicValueChanged:fail:not init"
+  },
+  "getUserAutoFillData": {},
+  "fetchSendingAndFailProfileFeed": {},
+  "private_setNavigationBarRightButton": {},
+  "initMapMarkerCluster": {},
+  "addMapControls": {},
+  "reportSubmitForm": {},
+  "showDatePickerView": {},
+  "chooseMultiWechatChatroom": {},
+  "profile": {},
+  "executeMapVisualLayerCommand": {},
+  "private_quicklyAddBrandContact": {},
+  "updateShareMenuShareTicket": {},
+  "bindPaymentCard": {
+    "errno": 102,
+    "errMsg": "bindPaymentCard:fail:access denied"
+  },
+  "openChannelsRewardedVideoAd": {},
+  "openWCCertHomePage": {},
+  "saveSplashScreenshot": {},
+  "requestSnsPayment": {},
+  "modifyFinderAccountAvatar": {},
+  "closeBLEPeripheralServer": {},
+  "addMapMarkers": {},
+  "jumpRedPacketEnvelopePreview": {},
+  "resumeDownloadTaskForNative": {},
+  "setBackgroundAudioState": {},
+  "updateXWebVoIPView": {},
+  "disableLocationUpdate": {},
+  "recordOperateUserDataInWa": {},
+  "addDownloadTaskStraight": {},
+  "loadPaySpeechDialectConfig": {
+    "errno": 102,
+    "errMsg": "loadPaySpeechDialectConfig:fail:access denied"
+  },
+  "private_openChannelsLive": {},
+  "navigateBackNative": {
+    "errno": 102,
+    "errMsg": "navigateBackNative:fail:access denied"
+  },
+  "closeSplashAd": {},
+  "createCellularNetworkRequestTaskAsync": {},
+  "kvReport": {},
+  "openCTID": {},
+  "enableSplashAdHotStart": {},
+  "fs_appendFile": {},
+  "private_fileSystemConvert": {},
+  "shareTimeline": {},
+  "requestAuthUserAutoFillData": {},
+  "setMapIndoorFloor": {},
+  "launchMiniProgram": {
+    "errno": 102,
+    "errMsg": "launchMiniProgram:fail:access denied"
+  },
+  "preloadLiteApp": {},
+  "requestEntrustAuthorization": {
+    "errno": 102,
+    "errMsg": "requestEntrustAuthorization:fail:access denied"
+  },
+  "operateWXData": {
+    "errno": 1001,
+    "errMsg": "operateWXData:fail parameter error: parameter.apiName should be String instead of Undefined;"
+  },
+  "getNpuLibsPath": {},
+  "buyWCCoin": {},
+  "setUserAutoFillData": {},
+  "deleteTrafficCard": {
+    "errno": 102,
+    "errMsg": "deleteTrafficCard:fail:access denied"
+  },
+  "getPhoneNumber": {},
+  "phoneBindCardEntry": {},
+  "updateShareMenuDynamic": {},
+  "webTransfer": {},
+  "updateShareMenuToDo": {},
+  "openSelectPayment": {
+    "errno": 102,
+    "errMsg": "openSelectPayment:fail:access denied"
+  },
+  "createVestUser": {},
+  "cancelDownloadTask": {},
+  "addMapLines": {},
+  "NFCConnect": {},
+  "bindSocketToNetwork": {},
+  "openAddress": {},
+  "showSalesDrivingMenu": {},
+  "batchGetContact": {},
+  "publishWeChatState": {
+    "errMsg": "publishWeChatState:fail can only be invoked by user TAP gesture."
+  },
+  "openLink": {},
+  "openChannelsRedPacketPublish": {},
+  "faceProcessInit": {},
+  "getLiteGameCapsuleWidgetRect": {},
+  "modifyFinderAccountNickname": {},
+  "quickSendRedPacket": {},
+  "operateXWebLivePlayerBackground": {},
+  "shareFinderEndorsementToFriend": {},
+  "setNavigateBackConfirmDialog": {},
+  "shareAppMessageToSpecificContactDirectly": {},
+  "openNewLifeEditor": {},
+  "createRequestTaskAsync": {},
+  "openChannelsLiveCollection": {
+    "errno": 0,
+    "errMsg": "openChannelsLiveCollection:ok"
+  },
+  "cryptoOpen": {},
+  "openDeliveryList": {
+    "errno": 102,
+    "errMsg": "openDeliveryList:fail:access denied"
+  },
+  "updateCapsuleIcon": {},
+  "callbackDataToNative": {},
+  "cryptoOperate": {},
+  "deleteFinderDataItem": {},
+  "requestBizSplitBillPayment": {
+    "errno": 1001,
+    "errMsg": "requestBizSplitBillPayment:fail:access denied"
+  },
+  "fetchFinderProfileFeed": {},
+  "removeTextArea": {},
+  "openChannelsOrderCenter": {},
+  "openHKOfflinePayView": {},
+  "faceProcessStop": {},
+  "NFCGetAtqa": {},
+  "operateXWebLivePusher": {},
+  "removeMapLines": {},
+  "translateMapMarker": {},
+  "removeMapGroundOverlay": {},
+  "chooseShareGroup": {
+    "errno": 102,
+    "errMsg": "chooseShareGroup:fail:access denied"
+  },
+  "pushNativeWebView": {},
+  "join1v1VoIPChat": {},
+  "cryptoRemoveKey": {},
+  "NFCClose": {},
+  "batchPreloadMiniProgram": {},
+  "operateXWebVideoBackground": {},
+  "setKeyboardValue": {},
+  "operateRealtimeData": {},
+  "showUpdatableMessageSubscribeButton": {},
+  "removeXWebWebGLCanvas": {},
+  "setDeviceOrientation": {},
+  "openWeAppStarList": {},
+  "choosePhoneNumberAreaCode": {},
+  "removeXWebVideo": {},
+  "reportAction": { "errMsg": "reportAction:fail" },
+  "openAddressWithLightMode": {},
+  "handleBrandPersonalCenterAction": {},
+  "enterGameLiveRoom": {},
+  "opNativeRedDot": {},
+  "queryDownloadTask": {},
+  "releaseInferenceSession": {},
+  "operateXWebVideo": {},
+  "setAlreadyAcceptPrivacyScopeList": {},
+  "openOfflinePayView": {
+    "errno": 102,
+    "errMsg": "openOfflinePayView:fail:access denied"
+  },
+  "insertXWebLivePusher": {},
+  "startFacialEncryptionVerify": {
+    "errno": 102,
+    "errMsg": "startFacialEncryptionVerify:fail:access denied"
+  },
+  "resumeDownloadTask": {},
+  "updateApp": {},
+  "insertXWebWebGLCanvas": {},
+  "openChannelsCreateContact": {
+    "errno": 102,
+    "errMsg": "openChannelsCreateContact:fail:access denied"
+  },
+  "addMapArc": {},
+  "getRecentUsageList": {},
+  "downloadPageDataForFastLoad": {},
+  "startFacialRecognitionVerifyAndUploadVideo": {
+    "errno": 102,
+    "errMsg": "startFacialRecognitionVerifyAndUploadVideo:fail:access denied"
+  },
+  "showShareMenuWithShareTicket": {},
+  "hideShareTimelineMenu": {},
+  "goToLiteAppRoam": {},
+  "checkTrafficCardConditions": {
+    "errno": 102,
+    "errMsg": "checkTrafficCardConditions:fail:access denied"
+  },
+  "updateXWebWebGLCanvas": {},
+  "handleMPChannelAction": {},
+  "insertXWebVoIPView": {},
+  "openWeComUserProfileForFakeNative": {},
+  "addWeRunData": {
+    "errMsg": "addWeRunData:fail parameter error: step should be number and greater or equal to 0"
+  },
+  "shareAppMessageForFakeNative": {
+    "errno": 1001,
+    "errMsg":  "shareAppMessageForFakeNative:fail:access denied"
+  },
+  "jumpDownloaderWidgetForNative": {},
+  "getMapRegion": {},
+  "showAddressPickerView": {},
+  "shareImageMessage": {},
+  "getInstallState": {},
+  "getMapRotate": {},
+  "getMapScale": {},
+  "setLabInfo": {
+    "errno": 1001,
+    "errMsg": "setLabInfo:fail:access denied"
+  },
+  "openUrl": { "errMsg": "openUrl: invalid url \"\"" },
+  "getDownloadWidgetTaskInfoForNative": {},
+  "openWeComUserProfile": {
+    "errno": 1001,
+    "errMsg": "openWeComUserProfile:fail parameter error: parameter.dataUrl should be String instead of Undefined;"
+  },
+  "requestMallPayment": {
+    "errno": 102,
+    "errMsg": "requestMallPayment:fail:access denied"
+  },
+  "addMapPolygons": {},
+  "openQRCode": { "errno": 102, "errMsg": "openQRCode:fail:access denied" },
+  "requestPaymentToBank": {
+    "errno": 102,
+    "errMsg": "requestPaymentToBank:fail:access denied"
+  },
+  "reportRealtimeAction": {},
+  "consumeWCCoin": {},
+  "removeXWebLivePlayer": {},
+  "showImageOperateSheet": {},
+  "removeMagicBrushFrame": {},
+  "enableDeviceMotionChangeListening": {},
+  "roamApiChannel": {},
+  "updateXWebMap": {},
+  "createAudioInstanceAsync": {},
+  "checkHandoffEnabled": {},
+  "showPickerView": {},
+  "functionalPageStartGame": {},
+  "showWCCoinFirstBuyCoinTips": {},
+  "responseClientRequest": {},
+  "enableLocationUpdateBackground": {},
+  "loadWAFile": {},
+  "startFacialEncryptionVerifyAndUploadVideo": {
+    "errno": 102,
+    "errMsg": "startFacialEncryptionVerifyAndUploadVideo:fail:access denied"
+  },
+  "finishLoading": {},
+  "operateAudio": {},
+  "setStatusBarStyle": {},
+  "addNativeDownloadTask": {
+    "errno": 102,
+    "errMsg": "addNativeDownloadTask:fail:access denied"
+  },
+  "getAppConfig": {},
+  "runInferenceSession": {},
+  "setMapIndoorMaskColor": {},
+  "issueTrafficCard": {
+    "errno": 102,
+    "errMsg": "issueTrafficCard:fail:access denied"
+  },
+  "shareAppMessageDirectly": {},
+  "uploadToCommonCDN": { "errMsg": "uploadToCommonCDN:fail no permission" },
+  "operateUploadTask": {},
+  "openRedPacketEditPage": {},
+  "uploadEncryptedFileToCDN": {
+    "errno": 102,
+    "errMsg": "uploadEncryptedFileToCDN:fail:access denied"
+  },
+  "gameLiveInfoControl": {},
+  "setAppSnapshotStrategy": {},
+  "collectWepalm": {},
+  "publishWeChatStateDirectly": {},
+  "showVirtualBottomNavigationBar": {},
+  "invokeMiniProgramAPI": {},
+  "showKeyboard": {},
+  "requestWCPayRealnameVerify": {},
+  "updateMapGroundOverlay": {},
+  "endorsementFinished": {},
+  "getGamePerformance": {},
+  "removeBLEPeripheralService": {},
+  "addToFavorites": {},
+  "removeXWebVoIPView": {},
+  "jumpRedPacketEnvelopeList": {},
+  "openBizProfile": {},
+  "openAddressEditor": {},
+  "removeGlobalStorage": {},
+  "operateLocalServicesScan": {},
+  "getWCCoinBalance": {},
+  "publishWechatStateActivity": {
+    "errMsg": "publishWechatStateActivity:fail should only called after a successful payment"
+  },
+  "sendDataToH5": {},
+  "reportCanvasData": {},
+  "chooseWeChatContact": {
+    "errno": 102,
+    "errMsg": "chooseWeChatContact:fail:access denied"
+  },
+  "getIPAddress": {},
+  "getRegionData": {},
+  "reportPageData": {},
+  "setPageOrientation": { "errMsg": "setPageOrientation:fail:invalid data" },
+  "startCustomFacialRecognitionVerifyAndUploadVideo": {
+    "errno": 102,
+    "errMsg": "startCustomFacialRecognitionVerifyAndUploadVideo:fail:access denied"
+  },
+  "addBLEPeripheralService": {},
+  "enableCompass": {},
+  "installDownloadTaskForNative": {},
+  "getGameLivePermission": {},
+  "openBluetoothAdapterBackground": {
+    "errMsg": "openBluetoothAdapterBackground:fail requiredBackgroundModes in app.json invalid"
+  },
+  "requestFacetoFacePayment": {
+    "errno": 102,
+    "errMsg": "requestFacetoFacePayment:fail:access denied"
+  },
+  "showMultiPickerView": {},
+  "addMapCustomLayer": {},
+  "saveInitialRenderingCache": {},
+  "disableScrollBounce": {},
+  "setDefaultTrafficCard": {
+    "errno": 102,
+    "errMsg": "setDefaultTrafficCard:fail:access denied"
+  },
+  "updatePerfData": { "errMsg": "updatePerfData:fail" },
+  "removeXWebMap": {},
+  "operateXWebLivePlayer": {},
+  "traceEvent": { "errMsg": "traceEvent:fail" },
+  "requestScanPOSPay": { "errMsg": "requestScanPOSPay:fail invalid amount" },
+  "nativeWXPayCgiTunnel": {},
+  "hideSplashScreen": {},
+  "captureScreen": {
+    "errno": 102,
+    "errMsg": "captureScreen:fail:access denied"
+  },
+  "removeXWebCamera": {},
+  "shareInvitationToLiveRoom": {},
+  "systemLog": {},
+  "privateEnterContact": {},
+  "refreshSession": {},
+  "insertXWebVideo": {},
+  "operateGlobalMonitoredBluetoothDevice": {},
+  "setNavigationBarRightButton": {
+    "errno": 1001,
+    "errMsg": "setNavigationBarRightButton:fail:access denied"
+  },
+  "startNFCDiscovery": {},
+  "operateSmStorage": {},
+  "fs_rename": {},
+  "setScreenMode": {},
+  "operateCallTone": {},
+  "requestJointPayment": {
+    "errno": 102,
+    "errMsg": "requestJointPayment:fail:access denied"
+  },
+  "joinGroup": { "errno": 102, "errMsg": "joinGroup:fail:access denied" },
+  "removeMapMarkers": {},
+  "chooseMultiMedia": {
+    "errno": 102,
+    "errMsg": "chooseMultiMedia:fail:access denied"
+  },
+  "insertXWebCamera": {},
+  "cryptoExchangeKey": {},
+  "getSavedFileInfo": {
+    "errMsg": "getSavedFileInfo:fail no such file /asdasd/asd/asd"
+  },
+  "getWCPayOverseaPrepayRequest": {
+    "errMsg": "getWCPayOverseaPrepayRequest:fail cancel"
+  },
+  "setMapCenterOffset": {},
+  "removeSplashScreenshot": {},
+  "operateRecentUsageList": {},
+  "openWeAppSearch": {},
+  "showSplashAdMenu": {},
+  "createDownloadTaskAsync": {},
+  "getWeAppNewTipsInfo": {},
+  "operateWxappStarItem": {},
+  "notifyWCPayResult": {
+    "errno": 1001,
+    "errMsg": "notifyWCPayResult:fail:access denied"
+  },
+  "hasJoinVoIPChat": {},
+  "openWCPayLQTDetail": {},
+  "hideNavigationBar": {},
+  "setNavigateBackInterception": {},
+  "includeMapPoints": {},
+  "getEncryptHKPasswd": {},
+  "setMenuStyle": {},
+  "openWeComUserProfileForAd": {},
+  "ecdsaSign": {},
+  "impact": {},
+  "getAppContact": {},
+  "setMapLocMarkerIcon": {},
+  "writeBLEPeripheralCharacteristicValue": {},
+  "openWCExDeviceList": {},
+  "showSplashAd": {},
+  "getMapSkew": {},
+  "setAudioState": {},
+  "cryptoCompute": {},
+  "NFCSetTimeout": {},
+  "postMessageToMagicBrushFrame": {},
+  "openWeAppAuthManageList": {},
+  "getGlobalStorageInfo": {},
+  "operateMediaTrack": {},
+  "operateSmCryptoSensitive": {},
+  "getAudioState": {},
+  "navigateBackH5": {
+    "errMsg": "navigateBackH5:fail not HTML5 page can navigate back."
+  },
+  "rechargeTrafficCard": {
+    "errno": 102,
+    "errMsg": "rechargeTrafficCard:fail:access denied"
+  },
+  "addImageToFavorites": {},
+  "adOperateWXData": {},
+  "isNFCTechConnected": {},
+  "setMapBoundary": {},
+  "operateSmCrypto": {},
+  "startGameLive": {},
+  "openWeAppProfile": {},
+  "moveToMapLocation": {},
+  "requestH5Transaction": { "errMsg": "requestH5Transaction:ok" },
+  "openWeRunSetting": {},
+  "minimizeGameLive": {},
+  "removeMapArc": {},
+  "operateNativeView": {},
+  "hideSplashScreenshot": {},
+  "startHandoff": {},
+  "preloadMiniProgramEnv": {},
+  "NFCGetMaxTransceiveLength": {},
+  "NFCGetSak": {},
+  "openRedPacket": {},
+  "destroyAudioInstance": {},
+  "getWeAppProfileInfo": {},
+  "operateTingAudio": {},
+  "getVolume": {},
+  "handleWCPayOverseaWalletBuffer": {
+    "errno": 102,
+    "errMsg": "handleWCPayOverseaWalletBuffer:fail:access denied"
+  },
+  "requestQueryCashier": {
+    "errno": 1001,
+    "errMsg": "requestQueryCashier:fail:access denied"
+  },
+  "loadLibFiles": {},
+  "getOAID": {},
+  "launchApplicationForNative": {
+    "errno": 102,
+    "errMsg": "launchApplicationForNative:fail:access denied"
+  },
+  "sendRedCoverAppMsg": {},
+  "installDownloadTask": {},
+  "enableAccelerometer": {},
+  "openNewLifeDetail": {},
+  "checkIsSupportFacialRecognition": {
+    "errno": 102,
+    "errMsg": "checkIsSupportFacialRecognition:fail:access denied"
+  },
+  "deleteWeAppNewTipsInfo": {},
+  "openFinderProfile": {},
+  "removeXWebLivePusher": {},
+  "clearAdPushMsg": {},
+  "NFCTransceive": {}
+}
