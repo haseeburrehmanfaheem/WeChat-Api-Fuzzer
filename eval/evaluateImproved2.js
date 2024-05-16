@@ -64,7 +64,7 @@ global.evaluate = async function (script,api) {
             return JSON.stringify(globalThis.resultSet);
 
         } catch(err){
-            globalThis.resultSet["${api}"]=err;
+            globalThis.resultSet["${api}"]="catch"+JSON.stringify(err);
             return JSON.stringify(err);
         }
     })()`;
@@ -89,7 +89,7 @@ async function runEach() {
 
   for (const element of inputArray) {
     console.log("element : " + element);
-    var finalScript = `wx.${element}({success: function (res) {globalThis.resultSet["${element}"]=res;},fail: function(err){globalThis.resultSet["${element}"]=err;}});`;
+    var finalScript = `wx.${element}({success: function (res) {globalThis.resultSet["${element}"]="suc"+JSON.stringify(res);},fail: function(err){globalThis.resultSet["${element}"]="err"+JSON.stringify(err);}});`;
 
     await evaluate(finalScript,element);
   }

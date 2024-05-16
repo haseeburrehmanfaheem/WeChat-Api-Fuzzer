@@ -3,8 +3,6 @@ const remotedebuggerurllink = 'ws://127.0.0.1:37077';
 const repl = require('repl');
 
 
-
-
 var runtime = null;
 var evaluated = false;
 var id = 0;
