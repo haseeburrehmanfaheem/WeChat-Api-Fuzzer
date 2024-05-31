@@ -1,8 +1,9 @@
 const CDP = require("chrome-remote-interface");
 const remotedebuggerurllink = "ws://127.0.0.1:32751";
 const repl = require("repl");
-const fs = require("fs").promises;
-const filePath = "/Users/haseeb/Desktop/devTool/parameters/output1.txt";
+// const fs = require("fs").promises;
+const fs = require("fs")
+const filePath = "/home/hfaheem/Desktop/WeChatAPIs/wechat-eval/parameters/outputREQ.txt";
 
 
 var runtime = null;
@@ -90,7 +91,7 @@ global.evaluate = async function (script,api) {
 
 async function runEach() {
     try {
-        const data = fs.readFileSync(filePath, 'utf8');
+        const data = await fs.readFileSync(filePath, 'utf8');
         const lines = data.trim().split('\n');
         lines.forEach(line => {
             const firstSpaceIndex = line.indexOf(' ');
@@ -107,6 +108,8 @@ async function runEach() {
             console.log('Parameters:', parameters);
             
             var finalScript = `wx.${name}({${parameters}success: function (res) {globalThis.resultSet["${name}"]=res;},fail: function(err){globalThis.resultSet["${name}"]=err;}});`;
+            console.log('Final Script:', finalScript);
+            return
             evaluate(finalScript, name);
         });
     } catch (err) {
