@@ -1,0 +1,707 @@
+ecdsaSign signText:"test",
+setScreenMode screenMode:"test",
+openWebViewUseFastLoad Val:"test",EndTime:1,SvrType:1,StartTime:1,BucketSrc:1,hexBackgroundColor:"test",backMode:1,previewMode:1,url:"test",openType:1,GroupId:1,pageOrientation:"test",ExptCheckSum:"test",halfScreen:true,extData:"test",ExptType:1,ExptId:1,ExptSequence:1,Key:"test",
+authorize
+readCompressedFile
+deleteUserAutoFillData groupKey:"test",
+enableLocationUpdate
+phoneBindCardEntry Val:"test",package:"test",EndTime:1,SvrType:1,StartTime:1,BucketSrc:1,signtype:"test",noncestr:"test",GroupId:1,ExptCheckSum:"test",ExptType:1,paysign:"test",ExptSequence:1,ExptId:1,Key:"test",timestamp:"test",
+setCurrentPaySpeech tempFilePath:"test",dialectPackId:"test",md5Sum:"test",isOnlyDownload:true,version:"test",
+vibrateLong
+removeXWebLivePlayer
+operateRequestTask operationType:"test",requestTaskId:"test",
+openCard Val:"test",cardList:"test",EndTime:1,ExptCheckSum:"test",SvrType:1,ExptType:1,StartTime:1,BucketSrc:1,ExptId:1,ExptSequence:1,Key:"test",GroupId:1,
+operateSocketTask data:"test",socketTaskId:"test",operationType:"test",
+redirectTo singlePageData:{},url:"test",
+makeBluetoothPair
+enableSplashAdHotStart intervalThreshold:1,isShow:true,
+captureHTMLWebviewFullScreenshot
+getBluetoothAdapterState Val:"test",EndTime:1,ExptCheckSum:"test",SvrType:1,ExptType:1,StartTime:1,BucketSrc:1,ExptId:1,ExptSequence:1,Key:"test",GroupId:1,
+openRealnameAuth Val:"test",EndTime:1,ExptCheckSum:"test",SvrType:1,ExptType:1,StartTime:1,BucketSrc:1,ExptId:1,ExptSequence:1,Key:"test",GroupId:1,
+updateXWebLivePlayer
+operateRecentUsageList
+getLastLocationCache
+queryDownloadTask appIdArray:[],downloadId:1,downloadIdArray:[],
+enableLocationUpdate
+stopBluetoothDevicesDiscovery Val:"test",ExptCheckSum:"test",EndTime:1,SvrType:1,ExptType:1,StartTime:1,BucketSrc:1,ExptSequence:1,ExptId:1,Key:"test",GroupId:1,
+setInnerAudioOption Val:"test",ExptCheckSum:"test",EndTime:1,SvrType:1,ExptType:1,StartTime:1,BucketSrc:1,ExptId:1,ExptSequence:1,Key:"test",GroupId:1,
+readdir
+showShareTimelineMenu
+requestFacetoFacePayment Val:"test",confirm_token:"test",ExptCheckSum:"test",EndTime:1,SvrType:1,ExptType:1,StartTime:1,BucketSrc:1,ExptSequence:1,ExptId:1,Key:"test",GroupId:1,
+captureScreen
+updateCapsuleIcon sessionBuffer:"test",iconUrl:"test",darkModeIconUrl:"test",
+pauseDownloadTaskForNative downloadId:1,
+checkHandoffEnabled
+openChannelsLive
+login
+hideShareMenu
+openStickerSetView productId:"test",
+getLocation
+removeMapMarkers mapId:1,markers:"test",
+getMapScale mapId:1,
+requestMerchantTransfer Val:"test",EndTime:1,ExptCheckSum:"test",SvrType:1,ExptType:1,BucketSrc:1,StartTime:1,ExptId:1,ExptSequence:1,Key:"test",GroupId:1,
+makePhoneCall phoneNumber:"test",
+showUpdatableMessageSubscribeButton shareKey:"test",
+getAvailableAudioSources
+modifyFinderAccountNickname
+jumpRedPacketEnvelopeList Val:"test",packetId:"test",ExptCheckSum:"test",EndTime:1,SvrType:1,ExptType:1,BucketSrc:1,StartTime:1,ExptSequence:1,ExptId:1,Key:"test",GroupId:1,
+triggerBackgroundFetch
+addDownloadTaskStraight taskUrl:"test",alternativeUrl:"test",taskName:"test",fileMd5:"test",packageName:"test",fileType:"test",extInfo:"test",
+removeMapLines mapId:1,lines:"test",
+translateMapMarker
+unlink
+removeStorage key:"test",
+getInstallState packageNameArray:[],packageName:"test",
+traceEvent args:"test",phase:"test",name:"test",start:1,end:1,category:"test",events:[],
+hideSplashScreenshot
+navigateBackMiniProgram extraData:{},privateExtraData:{},
+notifyWCPayResult timeStamp:"test",bizEventKey:"test",
+openADCanvas Val:"test",canvasDynamicInfo:"test",ExptCheckSum:"test",EndTime:1,SvrType:1,ExptType:1,BucketSrc:1,StartTime:1,ExptId:1,ExptSequence:1,Key:"test",GroupId:1,
+getWeAppProfileInfo username:"test",
+startFacialEncryptionVerifyAndUploadVideo checkAliveType:1,requestVerifyPreInfo:"test",
+clearStorage
+getWeAppNewTipsInfo pathKey:"test",
+showToast image:"test",title:"test",mask:true,
+loadPaySpeechDialectConfig
+operateXWebLivePlayerBackground
+getEncryptHKPasswd Val:"test",EndTime:1,ExptCheckSum:"test",SvrType:1,ExptType:1,StartTime:1,BucketSrc:1,ExptSequence:1,ExptId:1,Key:"test",GroupId:1,
+setKeepScreenOn
+handleBrandPersonalCenterAction Val:"test",EndTime:1,ExptCheckSum:"test",SvrType:1,ExptType:1,BucketSrc:1,StartTime:1,ExptId:1,ExptSequence:1,Key:"test",GroupId:1,
+fetchSendingAndFailProfileFeed
+minimizeGameLive
+releaseInferenceSession
+requestSubscribeMessage
+joinVoIPChat Val:"test",EndTime:1,ExptCheckSum:"test",SvrType:1,ExptType:1,StartTime:1,BucketSrc:1,ExptId:1,ExptSequence:1,Key:"test",GroupId:1,
+openWeAppProfile Val:"test",ExptCheckSum:"test",EndTime:1,SvrType:1,ExptType:1,BucketSrc:1,StartTime:1,ExptId:1,ExptSequence:1,Key:"test",GroupId:1,
+readFile
+openTextStateMessage Val:"test",ExptCheckSum:"test",EndTime:1,data:{},SvrType:1,ExptType:1,StartTime:1,BucketSrc:1,ExptSequence:1,ExptId:1,Key:"test",GroupId:1,
+pauseDownloadTask downloadId:1,
+openChannelsOrderCenter
+logInJava
+setBackgroundColor
+shareSpecificWxapp username:"test",
+showDatePickerView mode:"test",current:"test",headerText:"test",start:"test",range:{},end:"test",fields:"test",
+returnTakeScreenshot url:"test",
+openUrl pageOrientation:"test",url:"test",
+predownloadMiniProgramPackage path:"test",appId:"test",moduleName:"test",username:"test",
+showKeyboard keyboardType:"test",defaultValue:"test",confirmType:"test",
+reLaunch url:"test",
+fetchFinderProfileFeed
+restart privateExtraData:"test",url:"test",
+setBackgroundAudioState src:"test",
+writeNdefMessage
+appendRuntimeContext data:"test",
+cryptoExchangeKey privateKey:"test",keyAlias:"test",publicKey:"test",algorithm:"test",
+uploadWeRunData step:1,
+openVideoEditor buttonOptions:[],sdkParmas:{},editType:1,audioMix:true,editorParmas:{},timeRange:[],toolBars:[],
+closeSplashAd
+shareGameLive Val:"test",ExptCheckSum:"test",EndTime:1,SvrType:1,ExptType:1,StartTime:1,BucketSrc:1,ExptSequence:1,ExptId:1,Key:"test",GroupId:1,
+addBLEPeripheralService descriptors:[],characteristics:[],read:true,service:{},permission:{},value:"test",serverId:1,uuid:"test",write:true,properties:{},
+preloadSkylineView
+operateXWebVideoBackground
+openWeAppAuthManageList Val:"test",EndTime:1,ExptCheckSum:"test",SvrType:1,ExptType:1,StartTime:1,BucketSrc:1,ExptId:1,ExptSequence:1,Key:"test",GroupId:1,
+systemLog message:"test",
+getLocalLiveInfo
+getSkylineInfo
+insertXWebLivePlayer
+writeBLECharacteristicValue Val:"test",EndTime:1,SvrType:1,StartTime:1,BucketSrc:1,characteristicId:"test",deviceId:"test",GroupId:1,ExptCheckSum:"test",writeType:"test",ExptType:1,ExptId:1,ExptSequence:1,serviceId:"test",value:"test",Key:"test",
+deleteTrafficCard Val:"test",deviceType:"test",EndTime:1,SvrType:1,deviceData:{},StartTime:1,BucketSrc:1,GroupId:1,ExptCheckSum:"test",ExptType:1,ExptSequence:1,ExptId:1,Key:"test",
+operateSmStorage
+openDocument Val:"test",EndTime:1,SvrType:1,filePath:"test",StartTime:1,BucketSrc:1,GroupId:1,ExptCheckSum:"test",showMenu:true,ExptType:1,ExptId:1,ExptSequence:1,fileType:"test",Key:"test",
+startFacialEncryptionVerify checkAliveType:1,requestVerifyPreInfo:"test",
+getInstallStateForNative packageNameArray:[],packageName:"test",
+bindGroup signature:"test",groupId:"test",nonceStr:"test",
+addFileToFavorites fileName:"test",filePath:"test",
+setNavigateBackInterception scopes:[],
+insertXWebLivePusher
+createBLEPeripheralServer
+refreshSession
+openWCPayLQTSave Val:"test",package:"test",EndTime:1,SvrType:1,StartTime:1,BucketSrc:1,nonceStr:"test",GroupId:1,timeStamp:"test",ExptCheckSum:"test",paySign:"test",ExptType:1,signType:"test",pay_channel:"test",ExptId:1,ExptSequence:1,Key:"test",
+issueTrafficCard deviceType:"test",Val:"test",EndTime:1,SvrType:1,StartTime:1,BucketSrc:1,deviceData:{},GroupId:1,ExptCheckSum:"test",ExptType:1,ExptSequence:1,ExptId:1,Key:"test",
+reportRealtimeAction actionData:"test",
+openChannelsCreateContact Val:"test",ExptCheckSum:"test",EndTime:1,SvrType:1,ExptType:1,StartTime:1,BucketSrc:1,ExptId:1,ExptSequence:1,Key:"test",GroupId:1,
+updateShareMenuShareTicket
+disableLocationUpdate
+insertFinderWidget
+hasJoinVoIPChat
+fs_appendFile
+updateShareMenuUpdatable
+openChannelsActivity Val:"test",EndTime:1,SvrType:1,StartTime:1,BucketSrc:1,GroupId:1,ExptCheckSum:"test",feedId:"test",ExptType:1,ExptId:1,ExptSequence:1,Key:"test",nonceId:"test",
+scanCode Val:"test",ExptCheckSum:"test",EndTime:1,SvrType:1,ExptType:1,StartTime:1,BucketSrc:1,scanType:[],ExptId:1,ExptSequence:1,Key:"test",GroupId:1,
+hideStatusBar
+createVestUser editAvatarInfo:{},avatarUrl:"test",nickname:"test",id:"test",
+searchContacts phoneNumber:"test",
+getStorageInfo
+showLiveToast toastContent:"test",duration:1,icon:"test",
+addDownloadTask taskUrl:"test",appId:"test",taskName:"test",packageName:"test",fileMd5:"test",fileType:"test",extInfo:"test",
+profile Val:"test",EndTime:1,SvrType:1,BucketSrc:1,StartTime:1,tabType:"test",GroupId:1,ExptCheckSum:"test",ExptType:1,profileReportInfo:"test",ExptSequence:1,ExptId:1,Key:"test",username:"test",
+saveWaid
+responseClientRequest data:"test",support:true,
+private_onWebPageUrlExposed bizType:1,urlList:"test",
+webTransfer reqBody:"test",scope:"test",header:{},reqUrl:"test",
+resumeDownloadTaskForNative downloadId:1,
+loadVideoResource resources:[],
+batchGetStorage keyList:[],storageId:1,
+switchTab url:"test",
+openChannelsLive
+setDeviceOrientation
+openCTID miniProgramID:"test",
+canvasGetImageData x:1,width:1,y:1,height:1,
+openWCExDeviceList Val:"test",ExptCheckSum:"test",EndTime:1,SvrType:1,ExptType:1,StartTime:1,BucketSrc:1,ExptId:1,ExptSequence:1,Key:"test",GroupId:1,
+updateKeyboard value:"test",
+NFCSetTimeout
+openNewLifeDetail Val:"test",EndTime:1,SvrType:1,StartTime:1,BucketSrc:1,GroupId:1,ExptCheckSum:"test",feedId:"test",ExptType:1,ExptSequence:1,ExptId:1,fromScene:1,Key:"test",nonceId:"test",
+stopRecord
+createAudioInstanceAsync
+shareVideoMessage Val:"test",EndTime:1,SvrType:1,StartTime:1,BucketSrc:1,GroupId:1,videoPath:"test",ExptCheckSum:"test",ExptType:1,thumbPath:"test",ExptId:1,ExptSequence:1,Key:"test",
+updateApp
+openCustomerServiceChat rendererOptions:{},singlePage:{},androidVersionBegin:"test",skyline:{},sdkVersionEnd:"test",sdkVersionBegin:"test",sendMessageImg:"test",sendMessageHintTitle:"test",url:"test",extInfo:"test",sendMessageTitle:"test",handleWebviewPreload:"test",androidVersionEnd:"test",navigationBarRightButton:{},sendMessageParam:{},page:{},window:{},sendMessagePath:"test",
+operateSmCrypto
+hideSplashScreen
+startBLEPeripheralAdvertising
+openStickerIPView Val:"test",EndTime:1,SvrType:1,BucketSrc:1,StartTime:1,title:"test",GroupId:1,ExptCheckSum:"test",ExptType:1,iconUrl:"test",ExptSequence:1,ExptId:1,Key:"test",setKey:"test",desc:"test",
+showShareActionSheet
+addMapGroundOverlay mapId:1,
+showStatusBar
+setNavigateBackConfirmDialog content:"test",
+chooseShareGroup labelList:[],private:true,userList:[],visible:true,public:true,invisible:true,group:"test",
+launchApplication operateDirectly:"test",sourceInfo:"test",alertType:"test",signature:"test",appId:"test",parameter:"test",schemeUrl:"test",bizInfo:"test",packageName:"test",extInfo:"test",
+enableAccelerometer enable:true,
+chooseMultiMedia Val:"test",EndTime:1,SvrType:1,latitude:1.0,StartTime:1,BucketSrc:1,cameraType:[],GroupId:1,ExptCheckSum:"test",sourceType:[],ExptType:1,location:{},ExptSequence:1,ExptId:1,Key:"test",longitude:1.0,
+getStorage key:"test",
+extTransfer scope:"test",reqBody:"test",header:{},reqUrl:"test",
+closeBLEPeripheralServer serverId:1,
+startWifi
+fromScreenLocation mapId:1,
+requestContactDisplayInfo userHash:"test",nickname:"test",headUrl:"test",userHashList:[],
+setNavigationBarRightButton iconPath:"test",
+setNavigationBarColor duration:1,timingFunc:"test",animation:{},
+setAudioState src:"test",audioId:"test",
+removeMapCustomLayer mapId:1,
+openSetting Val:"test",ExptCheckSum:"test",EndTime:1,SvrType:1,ExptType:1,StartTime:1,BucketSrc:1,ExptSequence:1,ExptId:1,Key:"test",username:"test",GroupId:1,
+operateXWebVideo viewId:1,type:"test",
+removeMapVisualLayer layerId:"test",mapId:1,
+openSingleStickerView Val:"test",EndTime:1,SvrType:1,StartTime:1,BucketSrc:1,GroupId:1,emojiInfoBuf:"test",ExptCheckSum:"test",ExptType:1,ExptSequence:1,ExptId:1,Key:"test",md5:"test",
+authorize
+startGameLive Val:"test",EndTime:1,ExptCheckSum:"test",SvrType:1,ExptType:1,StartTime:1,BucketSrc:1,ExptSequence:1,ExptId:1,Key:"test",GroupId:1,
+setClipboardData data:"test",
+preloadLiteApp
+operateRealtimeData
+loadJsFiles paths:[],key:"test",
+showShareMenu
+openAddress Val:"test",ExptCheckSum:"test",EndTime:1,SvrType:1,ExptType:1,StartTime:1,BucketSrc:1,ExptId:1,ExptSequence:1,Key:"test",GroupId:1,
+hideNavigationBar
+operateNativeView
+createWebViewForFastLoad itemShowTypes:[],scene:1,
+eraseMapLines latitude:"test",mapId:1,id:"test",lines:"test",point:{},longitude:"test",
+highlightTitleForSinglePage
+getBackgroundFetchData fetchType:"test",
+shareFinderShop Val:"test",EndTime:1,ExptCheckSum:"test",SvrType:1,ExptType:1,StartTime:1,BucketSrc:1,ExptId:1,ExptSequence:1,Key:"test",GroupId:1,
+openWCPayOverseaPaymentReceive Val:"test",EndTime:1,ExptCheckSum:"test",SvrType:1,ExptType:1,BucketSrc:1,StartTime:1,ExptId:1,ExptSequence:1,Key:"test",GroupId:1,
+getAppContact fromBusinessUsername:"test",WsRequestDomain:[],client_js_ext_info:"test",contexts:[],package_type:1,UploadDomain:[],second:"test",UDPDomain:[],NewSetting:{},Appid:"test",auto_update:true,Network:{},semver:"test",VersionMD5:"test",black_style:{},custom_version:"test",inner_version:1,white_style:{},EntranceModule:"test",halfPage:{},navigation_bar_text_color:"test",prefix_path:"test",loading_image_info:{},device_orientation:"test",progressbar_color:"test",firstPageNavigationStyle:"test",RunningFlag:1,code_size:1,separated_plugin_list:"test",MigrateInfo:{},plugin_id:"test",dev_key:1,renderer:"test",version_desc:"test",keyPath:"test",RunningFlagInfo:{},AppOpenForbiddenUrl:"test",TCPDomain:[],widget_list:[],PrefetchDNSDomain:[],module_list:[],isTransparentBackgroundSupport:"test",NewCategories:[],alias:[],wxapkg_md5:"test",DownloadDomain:[],without_lib_md5:"test",OriginalRedirectUrl:"test",fake_native_loading_style_info:{},url:"test",background_color:"test",RequestDomain:[],appid:"test",target_appid:"test",first:"test",username:"test",md5:"test",
+requestVerifyUserIdentity Val:"test",EndTime:1,ExptCheckSum:"test",SvrType:1,ExptType:1,StartTime:1,BucketSrc:1,sessionid:"test",ExptSequence:1,ExptId:1,Key:"test",GroupId:1,
+chooseWeChatContact contactMode:[],
+destroyAudioInstance audioId:"test",
+showNavigationBar
+createUploadTaskAsync
+openWCPayLQTDetail Val:"test",auto_jump_charge_setting:1,package:"test",EndTime:1,SvrType:1,BucketSrc:1,StartTime:1,nonceStr:"test",GroupId:1,timeStamp:"test",ExptCheckSum:"test",paySign:"test",ExptType:1,show_open_toast:1,pay_channel:"test",signType:"test",ExptId:1,ExptSequence:1,Key:"test",
+chooseVideo Val:"test",EndTime:1,SvrType:1,StartTime:1,BucketSrc:1,GroupId:1,ExptCheckSum:"test",sourceType:[],ExptType:1,ExptId:1,ExptSequence:1,Key:"test",maxDuration:"test",
+shareAppMessage rendererOptions:{},liteAppQuery:"test",videoThumbPath:"test",videoMD5:"test",singlePage:{},signature:"test",openId:"test",link:"test",liteAppBizData:"test",skyline:{},sdkVersionBegin:"test",type:"test",title:"test",sdkVersionEnd:"test",liteAppPath:"test",mode:"test",path:"test",playDesc:"test",chatroomUsername:"test",androidVersionEnd:"test",cacheKey:"test",imageUrl:"test",messageExtraData:"test",hasRelievedBuyPlugin:true,liteAppId:"test",videoButtonText:"test",androidVersionBegin:"test",handleWebviewPreload:"test",thumbDataHash:"test",videoPath:"test",navigationBarRightButton:{},webViewUrl:"test",window:{},page:{},to:"test",webpageUrl:"test",
+getPhoneNumber
+consumeWCCoin Val:"test",EndTime:1,ExptCheckSum:"test",SvrType:1,ExptType:1,StartTime:1,BucketSrc:1,ExptId:1,ExptSequence:1,Key:"test",GroupId:1,
+addMapMarkers borderColor:"test",callout:"test",data:"test",latitude:"test",customCallout:"test",label:"test",shadowOpacity:1,content:"test",ariaLabel:"test",buildingId:"test",collision:"test",anchor:"test",mapId:1,id:"test",floorName:"test",iconPath:"test",markers:"test",longitude:"test",
+private_setPageOrientation
+writeCommData data:"test",packageName:"test",
+updateVoIPChatMuteConfig Val:"test",ExptCheckSum:"test",EndTime:1,SvrType:1,ExptType:1,StartTime:1,BucketSrc:1,ExptId:1,ExptSequence:1,Key:"test",GroupId:1,
+NFCGetMaxTransceiveLength
+chooseContact
+previewImage Val:"test",EndTime:1,SvrType:1,StartTime:1,BucketSrc:1,GroupId:1,urls:[],current:"test",ExptCheckSum:"test",ExptType:1,ExptSequence:1,ExptId:1,Key:"test",
+getWxCommFont path:"test",
+cryptoRemoveKey keyAlias:"test",
+operateMediaContainer operationType:"test",mimeType:"test",containerId:1,
+openADCanvas Val:"test",canvasDynamicInfo:"test",EndTime:1,ExptCheckSum:"test",SvrType:1,ExptType:1,StartTime:1,BucketSrc:1,ExptId:1,ExptSequence:1,Key:"test",GroupId:1,
+showMultiPickerView current:[],headerText:"test",array:[],
+faceVerifyForPay Val:"test",faceVerifyTitle:"test",package:"test",EndTime:1,SvrType:1,StartTime:1,BucketSrc:1,GroupId:1,packageSign:"test",scene:1,otherVerifyTitle:"test",ExptCheckSum:"test",ExptType:1,otherVerifyTitleFront:"test",needFrontPage:"test",ExptSequence:1,ExptId:1,Key:"test",
+joinGroup signature:"test",groupId:"test",nonceStr:"test",
+showVirtualBottomNavigationBar
+shareAppMessageForFakeNative rendererOptions:{},videoThumbPath:"test",liteAppQuery:"test",videoMD5:"test",singlePage:{},signature:"test",openId:"test",link:"test",defaultHintUrl:"test",liteAppBizData:"test",skyline:{},sdkVersionEnd:"test",type:"test",title:"test",sdkVersionBegin:"test",liteAppPath:"test",mode:"test",path:"test",chatroomUsername:"test",playDesc:"test",androidVersionEnd:"test",cacheKey:"test",imageUrl:"test",messageExtraData:"test",hasRelievedBuyPlugin:true,liteAppId:"test",videoButtonText:"test",androidVersionBegin:"test",handleWebviewPreload:"test",videoPath:"test",thumbDataHash:"test",navigationBarRightButton:{},webViewUrl:"test",window:{},page:{},to:"test",webpageUrl:"test",
+reportKeyValue dataArray:[],Val:"test",EndTime:1,SvrType:1,BucketSrc:1,StartTime:1,GroupId:1,ExptCheckSum:"test",ExptType:1,ExptSequence:1,ExptId:1,value:"test",Key:"test",key:1,
+faceDetect
+private_openUrl Val:"test",commonUxInfo:"test",EndTime:1,SvrType:1,StartTime:1,BucketSrc:1,url:"test",GroupId:1,ExptCheckSum:"test",ExptType:1,adInfo:"test",ExptId:1,ExptSequence:1,Key:"test",
+operateAudio audioId:"test",operationType:"test",
+addPhoneContact mobilePhoneNumber:"test",lastName:"test",homePhoneNumber:"test",nickName:"test",hostNumber:"test",remark:"test",homeFaxNumber:"test",title:"test",url:"test",photoFilePath:"test",firstName:"test",workPhoneNumber:"test",organization:"test",weChatNumber:"test",middleName:"test",email:"test",workFaxNumber:"test",
+hideNavigationBarLoading
+reportCanvasData eventInfo:"test",
+openDeliveryList query:"test",
+installDownloadTask appId:"test",downloadId:1,
+openChannelsTopic Val:"test",EndTime:1,ExptCheckSum:"test",SvrType:1,ExptType:1,BucketSrc:1,StartTime:1,ExptId:1,ExptSequence:1,Key:"test",GroupId:1,
+updateXWebWebGLCanvas
+launchApplicationForNative operateDirectly:"test",sourceInfo:"test",alertType:"test",signature:"test",parameter:"test",appId:"test",schemeUrl:"test",bizInfo:"test",packageName:"test",extInfo:"test",
+hideTabBar
+getMapRegion mapId:1,
+getMapSkew mapId:1,
+jumpDownloaderWidgetForNative Val:"test",EndTime:1,ExptCheckSum:"test",SvrType:1,ExptType:1,appId:"test",StartTime:1,BucketSrc:1,ExptId:1,ExptSequence:1,Key:"test",GroupId:1,
+readZipEntry
+openWeComUserProfile Val:"test",EndTime:1,ExptCheckSum:"test",SvrType:1,ExptType:1,bizInfo:"test",StartTime:1,BucketSrc:1,ExptSequence:1,ExptId:1,Key:"test",GroupId:1,
+openSelectPayment Val:"test",EndTime:1,SvrType:1,StartTime:1,BucketSrc:1,sessionid:"test",url:"test",GroupId:1,ExptCheckSum:"test",ExptType:1,ExptSequence:1,ExptId:1,Key:"test",
+getSetting
+downloadPageDataForFastLoad itemList:[],url:"test",
+setVisualEffectOnCapture
+chooseVideo Val:"test",EndTime:1,SvrType:1,BucketSrc:1,StartTime:1,GroupId:1,ExptCheckSum:"test",sourceType:[],ExptType:1,ExptId:1,ExptSequence:1,maxDuration:"test",Key:"test",
+privateEnterContact rendererOptions:{},sessionFrom:"test",singlePage:{},androidVersionBegin:"test",businessId:"test",skyline:{},title:"test",userName:"test",sdkVersionBegin:"test",sdkVersionEnd:"test",sendMessageImg:"test",handleWebviewPreload:"test",sendMessageTitle:"test",contactUsername:"test",androidVersionEnd:"test",navigationBarRightButton:{},subTitle:"test",appId:"test",window:{},sendMessagePath:"test",page:{},headimgUrl:"test",
+setLabInfo labId:"test",enabled:true,
+queryTrafficCardInfo Val:"test",deviceType:"test",EndTime:1,SvrType:1,StartTime:1,deviceData:{},BucketSrc:1,GroupId:1,ExptCheckSum:"test",ExptType:1,ExptId:1,ExptSequence:1,Key:"test",
+gamelifeManager
+nativeWXPayCgiTunnel
+addMapArc pass:{},mapId:1,
+connectWifi password:"test",BSSID:"test",SSID:"test",
+addMapControls controls:"test",data:"test",clickable:true,mapId:1,iconPath:"test",
+isdir
+getFuzzyLocation
+openWCCertHomePage Val:"test",ExptCheckSum:"test",EndTime:1,SvrType:1,ExptType:1,StartTime:1,BucketSrc:1,ExptSequence:1,ExptId:1,Key:"test",GroupId:1,
+setBackgroundTextStyle
+removeXWebVoIPView
+checkIsSoterEnrolledInDevice checkAuthMode:"test",
+kvReport logStr:"test",logId:1,
+getDeviceInfo Val:"test",ExptCheckSum:"test",EndTime:1,SvrType:1,waidPkg:"test",ExptType:1,BucketSrc:1,StartTime:1,ExptSequence:1,ExptId:1,Key:"test",GroupId:1,
+operateCallTone Val:"test",EndTime:1,ExptCheckSum:"test",SvrType:1,ExptType:1,BucketSrc:1,StartTime:1,ExptSequence:1,ExptId:1,Key:"test",GroupId:1,
+createRequestTaskAsync
+operateWxappCGI uiCgi:1,uri:"test",username:"test",
+addImageToFavorites rendererOptions:{},navigationBarRightButton:{},androidVersionEnd:"test",singlePage:{},androidVersionBegin:"test",skyline:{},page:{},window:{},sdkVersionEnd:"test",sdkVersionBegin:"test",url:"test",handleWebviewPreload:"test",
+operateMediaTrack operationType:"test",source:"test",
+resumeDownloadTask downloadId:1,
+compressVideo src:"test",quality:"test",
+returnCopyUrl url:"test",
+jumpRedPacketEnvelopePreview url:"test",
+chooseMultiWechatChatroom rightButtonLightFontColor:"test",countExceedTipWord:"test",chatroomSessionWord:"test",params:{},maxCount:1,rightButtonLightColor:"test",canSelectOpenIM:true,tipWord:"test",selectedUserNameList:[],rightButtonDarkColor:"test",choiseSessionWord:"test",rightButtonWord:"test",rightButtonDarkFontColor:"test",
+navigateBackNative extraData:"test",
+getPhoneNumber
+opNativeRedDot op:"test",
+chooseInvoiceTitle Val:"test",EndTime:1,ExptCheckSum:"test",SvrType:1,ExptType:1,StartTime:1,BucketSrc:1,ExptId:1,ExptSequence:1,Key:"test",GroupId:1,
+openChannelsLiveCollection Val:"test",EndTime:1,ExptCheckSum:"test",SvrType:1,ExptType:1,BucketSrc:1,StartTime:1,ExptSequence:1,ExptId:1,Key:"test",GroupId:1,
+removeSplashScreenshot
+closeBluetoothAdapter
+private_addContact Val:"test",EndTime:1,ExptCheckSum:"test",SvrType:1,ExptType:1,BucketSrc:1,StartTime:1,ExptSequence:1,ExptId:1,Key:"test",GroupId:1,
+notifyBLECharacteristicValueChanged Val:"test",EndTime:1,SvrType:1,StartTime:1,BucketSrc:1,characteristicId:"test",deviceId:"test",GroupId:1,ExptCheckSum:"test",ExptType:1,state:true,ExptSequence:1,ExptId:1,serviceId:"test",Key:"test",
+quickSendRedPacket Val:"test",EndTime:1,SvrType:1,StartTime:1,BucketSrc:1,sessionId:"test",materialId:"test",GroupId:1,ExptCheckSum:"test",ExptType:1,ExptSequence:1,ExptId:1,Key:"test",
+setDeviceOrientation
+enableDeviceMotionChangeListening enable:true,
+updateXWebLivePusher
+openRedPacketEditPage
+makeVoIPCall Val:"test",EndTime:1,avatarUrl:"test",SvrType:1,BucketSrc:1,StartTime:1,type:"test",allowBackCamera:true,scene:"test",GroupId:1,ExptCheckSum:"test",ExptType:1,context:"test",toUserName:"test",ExptSequence:1,ExptId:1,Key:"test",showOther:true,
+canvasToTempFilePath destWidth:"test",destHeight:"test",fileType:"test",
+writeBLEPeripheralCharacteristicValue serverId:1,value:"test",
+addMapPolygons polygons:"test",level:"test",latitude:"test",mapId:1,dashArray:"test",points:"test",longitude:"test",
+moveMapMarkerAlong
+requestH5Transaction Val:"test",package:"test",EndTime:1,SvrType:1,BucketSrc:1,StartTime:1,nonceStr:"test",url:"test",GroupId:1,timeStamp:"test",ExptCheckSum:"test",paySign:"test",closeWebAfterPayDetailBack:"test",ExptType:1,signType:"test",ExptSequence:1,ExptId:1,Key:"test",
+openLocation Val:"test",address:"test",EndTime:1,SvrType:1,latitude:"test",BucketSrc:1,StartTime:1,scale:"test",GroupId:1,ExptCheckSum:"test",ExptType:1,name:"test",ExptSequence:1,ExptId:1,Key:"test",longitude:"test",
+getMapRotate mapId:1,
+clearAdPushMsg slotid:"test",
+checkNetworkAPIURL
+compressImage src:"test",
+enterWCCoinHomePage Val:"test",EndTime:1,ExptCheckSum:"test",SvrType:1,ExptType:1,businessId:"test",BucketSrc:1,StartTime:1,ExptId:1,ExptSequence:1,Key:"test",GroupId:1,
+updateAppContact appId:"test",username:"test",
+playVoice localId:"test",
+checkIsSoterEnrolledInDevice checkAuthMode:"test",
+openCustomerServiceChat rendererOptions:{},singlePage:{},androidVersionBegin:"test",skyline:{},sdkVersionEnd:"test",sdkVersionBegin:"test",sendMessageImg:"test",sendMessageHintTitle:"test",url:"test",extInfo:"test",handleWebviewPreload:"test",sendMessageTitle:"test",androidVersionEnd:"test",navigationBarRightButton:{},sendMessageParam:{},page:{},window:{},sendMessagePath:"test",
+cryptoOpen privateKey:"test",signature:"test",keyAlias:"test",tagLength:1,publicKey:"test",id:1,type:"test",iv:"test",key:"test",algorithm:"test",
+enableGyroscope enable:true,
+getLiteGameCapsuleWidgetRect
+openWeAppSearch Val:"test",ExptCheckSum:"test",EndTime:1,SvrType:1,ExptType:1,BucketSrc:1,StartTime:1,ExptSequence:1,ExptId:1,Key:"test",GroupId:1,
+removeXWebVideo
+queryDownloadTaskForNative appIdArray:[],downloadId:1,downloadIdArray:[],
+setAudioState src:"test",audioId:"test",
+saveFile
+requestEntrustAuthorization Val:"test",EndTime:1,SvrType:1,StartTime:1,BucketSrc:1,sessionid:"test",url:"test",GroupId:1,ExptCheckSum:"test",ExptType:1,ExptId:1,ExptSequence:1,Key:"test",
+addMapLines level:"test",latitude:"test",name:"test",mapId:1,floorName:"test",id:"test",lines:"test",segmentTexts:"test",points:"test",longitude:"test",colorList:"test",buildingId:"test",
+openNewLifeEditor Val:"test",ExptCheckSum:"test",EndTime:1,SvrType:1,ExptType:1,StartTime:1,BucketSrc:1,ExptId:1,ExptSequence:1,Key:"test",GroupId:1,
+enterContact rendererOptions:{},sessionFrom:"test",singlePage:{},androidVersionBegin:"test",businessId:"test",skyline:{},sdkVersionBegin:"test",sdkVersionEnd:"test",sendMessageImg:"test",sendMessageTitle:"test",handleWebviewPreload:"test",navigationBarRightButton:{},androidVersionEnd:"test",page:{},sendMessagePath:"test",window:{},
+adDataReport adInfo:"test",
+goToLiteAppRoam running:"test",query:"test",pagePath:"test",device:"test",
+vibrateShort style:"test",
+functionalPageStartGame
+endorsementFinished
+getUserAutoFillData fields:[],
+operateBackgroundAudio
+openChannelsRedPacketPublish
+updateMapMarkers borderColor:"test",callout:"test",data:"test",latitude:"test",customCallout:"test",label:"test",shadowOpacity:1,content:"test",buildingId:"test",ariaLabel:"test",collision:"test",anchor:"test",mapId:1,floorName:"test",id:"test",markers:"test",iconPath:"test",longitude:"test",
+setMapBoundary southwest:{},northeast:{},mapId:1,
+startBluetoothDevicesDiscovery Val:"test",EndTime:1,SvrType:1,StartTime:1,BucketSrc:1,services:"test",GroupId:1,ExptCheckSum:"test",ExptType:1,allowDuplicatesKey:true,interval:1,ExptSequence:1,ExptId:1,Key:"test",
+openAddressEditor Val:"test",ExptCheckSum:"test",EndTime:1,SvrType:1,ExptType:1,StartTime:1,BucketSrc:1,ExptId:1,ExptSequence:1,Key:"test",GroupId:1,
+startPullDownRefresh
+private_setPageOrientation
+disableLocationUpdate
+hideHomeButton
+faceProcessInit
+preloadMiniProgramEnv Val:"test",EndTime:1,ExptCheckSum:"test",SvrType:1,ExptType:1,StartTime:1,BucketSrc:1,ExptId:1,type:"test",ExptSequence:1,Key:"test",GroupId:1,
+getSavedFileInfo
+showShareMenuWithShareTicket
+setMapIndoorMaskColor mapId:1,
+secureTunnel
+insertXWebCamera cameraId:1,
+startBeaconDiscovery uuids:"test",
+writeFile
+getMapIndoorFloor mapId:1,
+pushNativeWebView Val:"test",EndTime:1,ExptCheckSum:"test",SvrType:1,ExptType:1,StartTime:1,BucketSrc:1,ExptId:1,ExptSequence:1,Key:"test",url:"test",GroupId:1,
+showNavigationBarLoading
+showSplashAdMenu
+setTabBarBadge
+getAudioState audioId:"test",
+openChannelsPostPage Val:"test",ExptCheckSum:"test",EndTime:1,SvrType:1,ExptType:1,StartTime:1,BucketSrc:1,ExptId:1,ExptSequence:1,Key:"test",GroupId:1,
+removeSavedFile
+openWCPayLQTDepositPlanAdd Val:"test",package:"test",EndTime:1,SvrType:1,StartTime:1,BucketSrc:1,nonceStr:"test",GroupId:1,timeStamp:"test",ExptCheckSum:"test",routeURL:"test",paySign:"test",ExptType:1,signType:"test",pay_channel:"test",ExptId:1,ExptSequence:1,Key:"test",
+shareInvitationToLiveRoom
+shareTimeline rendererOptions:{},Val:"test",EndTime:1,singlePage:{},SvrType:1,BucketSrc:1,skyline:{},sdkVersionEnd:"test",title:"test",sdkVersionBegin:"test",path:"test",androidVersionEnd:"test",imageUrl:"test",messageExtraData:"test",ExptId:1,androidVersionBegin:"test",StartTime:1,handleWebviewPreload:"test",GroupId:1,navigationBarRightButton:{},ExptCheckSum:"test",preloadResources:"test",ExptType:1,page:{},window:{},ExptSequence:1,Key:"test",
+checkStrangerContactListIsFriend data:{},
+getAppConfig
+shareFinderProduct Val:"test",EndTime:1,ExptCheckSum:"test",SvrType:1,ExptType:1,StartTime:1,BucketSrc:1,ExptSequence:1,ExptId:1,Key:"test",GroupId:1,
+setBLEMTU Val:"test",EndTime:1,SvrType:1,StartTime:1,BucketSrc:1,deviceId:"test",GroupId:1,mtu:1,ExptCheckSum:"test",ExptType:1,ExptId:1,ExptSequence:1,Key:"test",
+private_fileSystemConvert fileName:"test",mimeType:"test",localId:"test",
+rechargeTrafficCard Val:"test",deviceType:"test",EndTime:1,SvrType:1,StartTime:1,BucketSrc:1,deviceData:{},GroupId:1,ExptCheckSum:"test",ExptType:1,ExptId:1,ExptSequence:1,Key:"test",
+openLiteApp ignoreAlive:true,keepAlive:{},
+noticePerformanceMetrics Val:"test",parent:"test",EndTime:1,SvrType:1,BucketSrc:1,StartTime:1,eventType:1,GroupId:1,timeStamp:1,ExptCheckSum:"test",ExptType:1,eventName:"test",ExptId:1,ExptSequence:1,category:1,Key:"test",events:[],option:1,
+requestBizSplitBillPayment orderNo:"test",
+navigateTo singlePageData:{},url:"test",
+operateUploadTask uploadTaskId:"test",operationType:"test",
+setNavigateBackInterception scopes:[],
+disableLocationUpdate
+openWeComUserProfile Val:"test",ExptCheckSum:"test",EndTime:1,SvrType:1,ExptType:1,bizInfo:"test",StartTime:1,BucketSrc:1,ExptSequence:1,ExptId:1,Key:"test",GroupId:1,
+hideSplashScreen
+removeMapGroundOverlay mapId:1,
+createBLEConnection Val:"test",ExptCheckSum:"test",EndTime:1,SvrType:1,ExptType:1,StartTime:1,BucketSrc:1,ExptId:1,ExptSequence:1,deviceId:"test",Key:"test",GroupId:1,
+publishWechatStateActivity Val:"test",ExptCheckSum:"test",EndTime:1,SvrType:1,ExptType:1,StartTime:1,BucketSrc:1,ExptSequence:1,ExptId:1,Key:"test",GroupId:1,
+getFileInfo
+removeNativeView
+updateMultiPickerView headerText:"test",array:[],
+shareAppMessageDirectly rendererOptions:{},videoThumbPath:"test",liteAppQuery:"test",videoMD5:"test",singlePage:{},signature:"test",openId:"test",link:"test",skyline:{},liteAppBizData:"test",type:"test",sdkVersionEnd:"test",sdkVersionBegin:"test",title:"test",liteAppPath:"test",mode:"test",path:"test",chatroomUsername:"test",playDesc:"test",androidVersionEnd:"test",cacheKey:"test",imageUrl:"test",messageExtraData:"test",hasRelievedBuyPlugin:true,liteAppId:"test",videoButtonText:"test",androidVersionBegin:"test",handleWebviewPreload:"test",videoPath:"test",thumbDataHash:"test",navigationBarRightButton:{},webViewUrl:"test",page:{},to:"test",window:{},webpageUrl:"test",
+getNpuLibsPath
+operateXWebLivePlayer viewId:1,type:"test",
+openQRCode Val:"test",EndTime:1,SvrType:1,StartTime:1,BucketSrc:1,GroupId:1,ExptCheckSum:"test",needResult:"test",ExptType:1,scanType:"test",ExptSequence:1,ExptId:1,Key:"test",desc:"test",
+getGamePerformance Val:"test",ExptCheckSum:"test",EndTime:1,SvrType:1,ExptType:1,StartTime:1,BucketSrc:1,ExptId:1,ExptSequence:1,Key:"test",GroupId:1,
+setAlreadyAcceptPrivacyScopeList scopeList:[],pipelineScopeMap:{},jsapiScopeMap:{},
+sendBizRedPacket Val:"test",key_appbrand_from_path:"test",EndTime:1,SvrType:1,key_appbrand_from_scene:"test",BucketSrc:1,key_appbrand_from_username:"test",src_username:"test",paySign:"test",appId:"test",signType:"test",ExptId:1,package:"test",cookie:"test",StartTime:1,reqKey:"test",nonceStr:"test",url:"test",GroupId:1,timeStamp:"test",ExptCheckSum:"test",ExptType:1,partnerId:"test",ExptSequence:1,Key:"test",
+openLink url:"test",
+navigateBackH5 extraData:"test",
+getRandomValues
+openChannelsRewardedVideoAd Val:"test",EndTime:1,ExptCheckSum:"test",SvrType:1,ExptType:1,BucketSrc:1,StartTime:1,ExptSequence:1,ExptId:1,Key:"test",GroupId:1,
+setTabBarStyle
+requestWCPayRealnameVerify Val:"test",EndTime:1,ExptCheckSum:"test",SvrType:1,ExptType:1,BucketSrc:1,StartTime:1,ExptId:1,ExptSequence:1,Key:"test",GroupId:1,
+chooseMessageFile
+openADCanvas
+choosePhoneNumberAreaCode
+getSavedFileList
+openChannelsLive
+vibrateShort style:"test",
+operateDownloadTask downloadTaskId:"test",operationType:"test",
+cancelDownloadTask downloadIdArray:[],
+faceProcessStop
+updatePerfData dataArray:[],value:"test",key:"test",
+insertXWebVideo
+publishWeChatStateDirectly Val:"test",EndTime:1,ExptCheckSum:"test",SvrType:1,ExptType:1,BucketSrc:1,StartTime:1,ExptSequence:1,ExptId:1,Key:"test",GroupId:1,
+openRedPacket Val:"test",ExptCheckSum:"test",EndTime:1,SvrType:1,ExptType:1,StartTime:1,BucketSrc:1,ExptId:1,ExptSequence:1,Key:"test",GroupId:1,
+editTextWithPopForm
+updateXWebMap
+addToFavorites Val:"test",rendererOptions:{},EndTime:1,singlePage:{},SvrType:1,BucketSrc:1,skyline:{},sdkVersionEnd:"test",title:"test",sdkVersionBegin:"test",path:"test",androidVersionEnd:"test",imageUrl:"test",ExptId:1,androidVersionBegin:"test",StartTime:1,handleWebviewPreload:"test",GroupId:1,navigationBarRightButton:{},ExptCheckSum:"test",ExptType:1,window:{},page:{},ExptSequence:1,Key:"test",
+rmdir
+requestFindPayPwdWay
+getScreenBrightness
+mkdir
+saveSplashScreenshot
+pauseVoice
+splashAdFirstStepViewLayoutStateChange
+cancelDownloadTaskForNative downloadIdArray:[],
+invokeMiniProgramAPI
+getFuzzyLocation
+rewriteRoute url:"test",
+setNavigationBarRightButton iconPath:"test",
+openFinderProfile Val:"test",EndTime:1,ExptCheckSum:"test",SvrType:1,ExptType:1,StartTime:1,BucketSrc:1,ExptId:1,ExptSequence:1,Key:"test",GroupId:1,
+verifyPaymentPassword
+reportRealtimeAction actionData:"test",
+sendSms
+getLabInfo labId:"test",
+sendRedCoverAppMsg receiveuri:"test",
+chooseMedia Val:"test",sizeType:[],EndTime:1,SvrType:1,StartTime:1,BucketSrc:1,mediaType:[],GroupId:1,ExptCheckSum:"test",sourceType:[],ExptType:1,ExptId:1,ExptSequence:1,camera:"test",Key:"test",
+batchPreloadMiniProgram Val:"test",EndTime:1,SvrType:1,preloadList:"test",BucketSrc:1,preloadRate:[],path:"test",high:1.0,low:1.0,appType:1,appId:"test",id:1,ExptId:1,openRate:1.0,middle:1.0,StartTime:1,openParams:"test",GroupId:1,innerScene:1,businessScene:1,visitScene:1,ExptCheckSum:"test",ExptType:1,ExptSequence:1,Key:"test",
+operateXWebLivePusher viewId:1,type:"test",
+hideShareTimelineMenu
+createBLEConnection Val:"test",EndTime:1,ExptCheckSum:"test",SvrType:1,ExptType:1,StartTime:1,BucketSrc:1,ExptId:1,ExptSequence:1,deviceId:"test",Key:"test",GroupId:1,
+hideToast
+setScreenBrightness
+getWCPayOverseaPrepayRequest Val:"test",key_appbrand_from_path:"test",EndTime:1,key_appbrand_from_scene:"test",SvrType:1,BucketSrc:1,key_appbrand_from_username:"test",src_username:"test",paySign:"test",appId:"test",signType:"test",ExptId:1,package:"test",cookie:"test",StartTime:1,reqKey:"test",url:"test",nonceStr:"test",GroupId:1,timeStamp:"test",ExptCheckSum:"test",ExptType:1,partnerId:"test",ExptSequence:1,Key:"test",
+operateMusicPlayer
+loadLibFiles paths:[],
+showSplashAd
+isNFCTechConnected
+verifyPlugin data:"test",
+getClipboardData
+uploadToCommonCDN snsUploadVersion:1,appType:1,fileData:"test",filePath:"test",isStorageMode:true,action:"test",fileKey:"test",fileType:1,thumbFileData:"test",thumbFilePath:"test",
+canvasToTempFilePath
+navigateBackApplication extraData:"test",appId:"test",
+operateWXData
+NFCGetSak
+updateShareMenuToDo
+getImageInfo src:"test",
+requestPayment
+showSystemSheetMenu sessionBuffer:"test",
+bindPaymentCard
+setAcquireWebviewDom type:[],
+removeBLEPeripheralService serviceId:"test",serverId:1,
+toScreenLocation mapId:1,
+setStatusBarStyle
+collectWepalm Val:"test",EndTime:1,palmSideLimit:"test",SvrType:1,StartTime:1,BucketSrc:1,sessionid:"test",GroupId:1,ExptCheckSum:"test",ExptType:1,ExptSequence:1,ExptId:1,Key:"test",
+startNFCDiscovery
+disableScrollBounce
+startCustomFacialRecognitionVerify checkAliveType:1,requestVerifyPreInfo:"test",
+handleMPChannelAction operateType:"test",
+setEnableDebug
+setTabBarItem
+unzip
+setScreenBrightness
+splashAdAllViewLayoutStateChange
+setBackgroundAudioState src:"test",
+setTingAudioState src:"test",
+setMenuStyle style:"test",
+getWCCoinBalance
+scanItem data:"test",
+pageNotFoundCallback
+openBluetoothAdapter Val:"test",ExptCheckSum:"test",EndTime:1,SvrType:1,ExptType:1,StartTime:1,BucketSrc:1,ExptId:1,ExptSequence:1,Key:"test",GroupId:1,
+batchGetContact appIds:[],
+readBLECharacteristicValue Val:"test",EndTime:1,SvrType:1,StartTime:1,BucketSrc:1,deviceId:"test",characteristicId:"test",GroupId:1,ExptCheckSum:"test",ExptType:1,ExptId:1,ExptSequence:1,serviceId:"test",Key:"test",
+setBluetoothBackgroundMode
+private_addContact Val:"test",EndTime:1,ExptCheckSum:"test",SvrType:1,ExptType:1,BucketSrc:1,StartTime:1,ExptId:1,ExptSequence:1,Key:"test",GroupId:1,
+requestPaymentToBank Val:"test",key_appbrand_from_path:"test",EndTime:1,key_appbrand_from_scene:"test",SvrType:1,BucketSrc:1,key_appbrand_from_username:"test",src_username:"test",paySign:"test",appId:"test",signType:"test",ExptId:1,package:"test",cookie:"test",StartTime:1,reqKey:"test",url:"test",nonceStr:"test",GroupId:1,timeStamp:"test",ExptCheckSum:"test",ExptType:1,partnerId:"test",ExptSequence:1,Key:"test",
+createRequestTaskAsync
+updateShareMenuDynamic
+reportSubmitForm
+setSecuritySnapshotStrategy
+isSupportNFC
+handleWCPayOverseaWalletBuffer timeStamp:"test",walletRegion:"test",package:"test",paySign:"test",appId:"test",action:"test",signType:"test",buffer:"test",url:"test",nonceStr:"test",
+phoneBindCardVerifySms package:"test",signtype:"test",paysign:"test",sessionid:"test",noncestr:"test",timestamp:"test",
+getIPAddress
+setStorage data:"test",dataType:"test",key:"test",
+getBackgroundFetchToken
+previewMedia Val:"test",EndTime:1,sources:[],SvrType:1,StartTime:1,BucketSrc:1,type:"test",url:"test",GroupId:1,current:"test",ExptCheckSum:"test",ExptType:1,ExptSequence:1,ExptId:1,poster:"test",Key:"test",
+enableCompass enable:true,
+showTabBar
+addMapVisualLayer layerId:"test",level:"test",mapId:1,
+NFCClose
+chooseContact
+operateWXData
+exitVoIPChat Val:"test",ExptCheckSum:"test",EndTime:1,SvrType:1,ExptType:1,StartTime:1,BucketSrc:1,ExptSequence:1,ExptId:1,Key:"test",GroupId:1,
+chooseLocation Val:"test",EndTime:1,SvrType:1,latitude:"test",BucketSrc:1,StartTime:1,GroupId:1,ExptCheckSum:"test",ExptType:1,ExptId:1,ExptSequence:1,Key:"test",longitude:"test",
+shareFileMessage Val:"test",fileName:"test",EndTime:1,SvrType:1,filePath:"test",BucketSrc:1,StartTime:1,GroupId:1,ExptCheckSum:"test",ExptType:1,ExptId:1,ExptSequence:1,Key:"test",
+chooseInvoice Val:"test",EndTime:1,SvrType:1,BucketSrc:1,StartTime:1,cardSign:"test",nonceStr:"test",GroupId:1,timeStamp:1,ExptCheckSum:"test",ExptType:1,signType:"test",ExptSequence:1,ExptId:1,Key:"test",
+initMapMarkerCluster mapId:1,
+jumpToWCPayMessage Val:"test",package:"test",EndTime:1,SvrType:1,StartTime:1,BucketSrc:1,nonceStr:"test",GroupId:1,timeStamp:"test",ExptCheckSum:"test",paySign:"test",ExptType:1,signType:"test",ExptSequence:1,ExptId:1,Key:"test",
+getDownloadWidgetTaskInfoForNative
+operateSmCryptoSensitive
+moveToMapLocation latitude:"test",mapId:1,longitude:"test",
+createDownloadTaskAsync
+requestQueryCashier timeStamp:"test",package:"test",paySign:"test",signType:"test",nonceStr:"test",
+insertXWebWebGLCanvas
+cryptoGetGeneratedKeys
+canvasPutImageData width:1,x:1,y:1,height:1,
+startSoterAuthentication requestAuthModes:[],authContent:"test",challenge:"test",
+operateWxappStarItem actionType:1,username:"test",
+getConnectedWifi checkNetInfo:true,
+preloadWebview
+openWCCardHomePage Val:"test",ExptCheckSum:"test",EndTime:1,SvrType:1,ExptType:1,StartTime:1,BucketSrc:1,ExptId:1,ExptSequence:1,Key:"test",GroupId:1,
+startFacialRecognitionVerifyAndUploadVideo checkAliveType:1,requestVerifyPreInfo:"test",
+reportIDKey Val:"test",dataArray:[],EndTime:1,SvrType:1,StartTime:1,BucketSrc:1,GroupId:1,ExptCheckSum:"test",ExptType:1,id:1,ExptId:1,ExptSequence:1,value:1,Key:"test",key:1,
+openUrl Val:"test",ExptCheckSum:"test",EndTime:1,SvrType:1,ExptType:1,StartTime:1,BucketSrc:1,ExptSequence:1,ExptId:1,Key:"test",GroupId:1,
+getInferenceEnvInfo Val:"test",ExptCheckSum:"test",EndTime:1,SvrType:1,ExptType:1,StartTime:1,BucketSrc:1,ExptId:1,ExptSequence:1,Key:"test",GroupId:1,
+openBizProfile Val:"test",EndTime:1,SvrType:1,StartTime:1,BucketSrc:1,GroupId:1,ExptCheckSum:"test",profileReportInfo:"test",ExptType:1,ExptSequence:1,ExptId:1,Key:"test",username:"test",
+chooseLicensePlate
+stat
+private_openUrl Val:"test",commonUxInfo:"test",EndTime:1,SvrType:1,StartTime:1,BucketSrc:1,url:"test",GroupId:1,ExptCheckSum:"test",ExptType:1,adInfo:"test",ExptId:1,ExptSequence:1,Key:"test",
+checkIsSupportFacialRecognition
+getGameLivePermission Val:"test",EndTime:1,ExptCheckSum:"test",SvrType:1,ExptType:1,StartTime:1,BucketSrc:1,ExptId:1,ExptSequence:1,Key:"test",GroupId:1,
+openWeComUserProfileForFakeNative Val:"test",ExptCheckSum:"test",EndTime:1,SvrType:1,ExptType:1,StartTime:1,BucketSrc:1,bizInfo:"test",ExptId:1,ExptSequence:1,Key:"test",GroupId:1,
+updateXWebVideo
+getBLEDeviceRSSI deviceId:"test",
+openWeRunSetting
+isBluetoothDevicePaired deviceId:"test",
+operateRecorder
+checkTrafficCardConditions Val:"test",deviceType:"test",EndTime:1,SvrType:1,deviceData:{},StartTime:1,BucketSrc:1,GroupId:1,ExptCheckSum:"test",ExptType:1,ExptSequence:1,ExptId:1,Key:"test",
+bindSocketToNetwork networkType:"test",
+includeMapPoints padding:"test",latitude:"test",mapId:1,points:"test",longitude:"test",
+highlightBottomBanner shouldHighlight:true,
+openLocation Val:"test",ExptCheckSum:"test",EndTime:1,SvrType:1,ExptType:1,StartTime:1,BucketSrc:1,ExptSequence:1,ExptId:1,Key:"test",GroupId:1,
+getBeacons
+removeStorage key:"test",
+setDefaultTrafficCard Val:"test",deviceType:"test",EndTime:1,SvrType:1,StartTime:1,deviceData:{},BucketSrc:1,GroupId:1,ExptCheckSum:"test",ExptType:1,ExptSequence:1,ExptId:1,Key:"test",
+getOAID Val:"test",ExptCheckSum:"test",EndTime:1,SvrType:1,ExptType:1,StartTime:1,BucketSrc:1,ExptId:1,ExptSequence:1,Key:"test",GroupId:1,
+createInferenceSession allowGPU:true,allowQuantize:true,useNpuOnly:true,typicalShape:{},model:"test",allowNPU:true,typicalDataFile:{},precisionLevel:1,
+saveInitialRenderingCache
+getBluetoothDevices Val:"test",EndTime:1,ExptCheckSum:"test",SvrType:1,ExptType:1,StartTime:1,BucketSrc:1,ExptSequence:1,ExptId:1,Key:"test",GroupId:1,
+checkIsSupportSoterAuthentication
+openChannelsUserProfile
+cryptoCompute id:1,
+getFinderAccount
+saveVideoToPhotosAlbum
+publishWeChatState Val:"test",EndTime:1,ExptCheckSum:"test",SvrType:1,ExptType:1,StartTime:1,BucketSrc:1,ExptId:1,ExptSequence:1,Key:"test",GroupId:1,
+cropImage rendererOptions:{},androidVersionEnd:"test",navigationBarRightButton:{},singlePage:{},src:"test",androidVersionBegin:"test",window:{},page:{},skyline:{},sdkVersionEnd:"test",sdkVersionBegin:"test",handleWebviewPreload:"test",
+requestMedicalInsurancePay Val:"test",ExptCheckSum:"test",EndTime:1,SvrType:1,ExptType:1,StartTime:1,BucketSrc:1,ExptId:1,ExptSequence:1,Key:"test",GroupId:1,
+enterGameLiveRoom Val:"test",ExptCheckSum:"test",EndTime:1,SvrType:1,ExptType:1,StartTime:1,BucketSrc:1,ExptSequence:1,ExptId:1,Key:"test",GroupId:1,
+getMusicPlayerState
+addDownloadTaskForNative alterUrl:"test",taskUrl:"test",appId:"test",taskName:"test",fileMd5:"test",packageName:"test",fileType:"test",extInfo:"test",
+requestVirtualPayment Val:"test",virtualPaySign:"test",EndTime:1,SvrType:1,StartTime:1,BucketSrc:1,priceLevel:"test",GroupId:1,extInfo:"test",ExptCheckSum:"test",ExptType:1,outTradeNo:"test",attach:"test",ExptSequence:1,ExptId:1,Key:"test",desc:"test",
+setUserAutoFillData dataList:"test",
+canvasToTempFilePath
+vibrateShort style:"test",
+insertXWebMap
+setBackgroundFetchToken token:"test",
+openWeAppStarList Val:"test",ExptCheckSum:"test",EndTime:1,SvrType:1,ExptType:1,StartTime:1,BucketSrc:1,ExptId:1,ExptSequence:1,Key:"test",sceneNote:"test",GroupId:1,
+openChannelsTopic Val:"test",EndTime:1,ExptCheckSum:"test",SvrType:1,ExptType:1,BucketSrc:1,StartTime:1,ExptSequence:1,ExptId:1,Key:"test",GroupId:1,
+fs_copyFile
+notifyDcpPaymentCallback dcp_token:"test",ret_status:"test",
+shareFinderEndorsementToFriend
+addNativeDownloadTask Val:"test",app_version:"test",EndTime:1,SvrType:1,BucketSrc:1,StartTime:1,fileMD5:"test",taskSize:"test",title:"test",GroupId:1,permission_url:"test",privacy_agreement_url:"test",ExptCheckSum:"test",taskUrl:"test",ExptType:1,developer:"test",taskName:"test",app_desc:"test",ExptId:1,ExptSequence:1,thumbUrl:"test",Key:"test",
+shareAppMessageForFakeNative rendererOptions:{},videoThumbPath:"test",liteAppQuery:"test",videoMD5:"test",signature:"test",singlePage:{},openId:"test",link:"test",defaultHintUrl:"test",skyline:{},liteAppBizData:"test",sdkVersionEnd:"test",type:"test",sdkVersionBegin:"test",title:"test",liteAppPath:"test",mode:"test",playDesc:"test",chatroomUsername:"test",path:"test",androidVersionEnd:"test",cacheKey:"test",imageUrl:"test",messageExtraData:"test",hasRelievedBuyPlugin:true,liteAppId:"test",videoButtonText:"test",androidVersionBegin:"test",handleWebviewPreload:"test",videoPath:"test",thumbDataHash:"test",navigationBarRightButton:{},webViewUrl:"test",to:"test",page:{},window:{},webpageUrl:"test",
+getLastLocationCache
+buyWCCoin Val:"test",agreementVersion:"test",EndTime:1,productId:"test",SvrType:1,StartTime:1,BucketSrc:1,GroupId:1,mode:"test",panelShowType:"test",ExptCheckSum:"test",ExptType:1,ExptId:1,ExptSequence:1,Key:"test",customCount:"test",
+executeMapVisualLayerCommand layerId:"test",mapId:1,command:"test",
+editImage rendererOptions:{},navigationBarRightButton:{},androidVersionEnd:"test",src:"test",singlePage:{},androidVersionBegin:"test",window:{},page:{},skyline:{},sdkVersionBegin:"test",sdkVersionEnd:"test",handleWebviewPreload:"test",
+setMapIndoorFloor mapId:1,floorName:"test",buildingId:"test",
+stopNFCDiscovery
+openHKOfflinePayView Val:"test",EndTime:1,ExptCheckSum:"test",SvrType:1,ExptType:1,StartTime:1,BucketSrc:1,ExptSequence:1,ExptId:1,Key:"test",GroupId:1,
+sendRedPacket Val:"test",ExptCheckSum:"test",EndTime:1,SvrType:1,ExptType:1,scope:[],StartTime:1,BucketSrc:1,ExptSequence:1,ExptId:1,Key:"test",GroupId:1,
+addVideoToFavorites videoPath:"test",thumbPath:"test",
+checkIsOpenAccessibility
+postMessageToReferrerMiniProgram extraData:"test",
+postMessageToMagicBrushFrame biz:1,message:"test",
+getWifiList
+hideKeyboard
+stopVoice localId:"test",
+modifyFinderAccountAvatar
+operateWXData
+login
+getConnectedBluetoothDevices Val:"test",EndTime:1,ExptCheckSum:"test",SvrType:1,ExptType:1,StartTime:1,BucketSrc:1,services:[],ExptSequence:1,ExptId:1,Key:"test",GroupId:1,
+startHandoff
+joinVoIPChat Val:"test",EndTime:1,ExptCheckSum:"test",SvrType:1,ExptType:1,StartTime:1,BucketSrc:1,ExptSequence:1,ExptId:1,Key:"test",GroupId:1,
+shareImageMessage Val:"test",rendererOptions:{},EndTime:1,singlePage:{},SvrType:1,imagePath:"test",androidVersionBegin:"test",BucketSrc:1,StartTime:1,skyline:{},sdkVersionEnd:"test",sdkVersionBegin:"test",GroupId:1,handleWebviewPreload:"test",navigationBarRightButton:{},androidVersionEnd:"test",ExptCheckSum:"test",ExptType:1,entrancePath:"test",page:{},window:{},ExptId:1,ExptSequence:1,Key:"test",
+runInferenceSession input:{},shape:[],data:1,
+choosePoi Val:"test",EndTime:1,ExptCheckSum:"test",SvrType:1,ExptType:1,BucketSrc:1,StartTime:1,ExptSequence:1,ExptId:1,Key:"test",GroupId:1,
+addMapCircles level:"test",latitude:"test",circles:"test",mapId:1,radius:1,longitude:"test",
+removeXWebWebGLCanvas
+getSystemInfoAsync
+sendDataToH5 Val:"test",EndTime:1,data:"test",SvrType:1,StartTime:1,BucketSrc:1,webviewId:1,GroupId:1,ExptCheckSum:"test",ExptType:1,ExptId:1,ExptSequence:1,Key:"test",
+insertNativeView
+showAddressPickerView mode:"test",current:[],
+rtosWatchQuickReply action:1,
+subscribeVoIPMembers openIdList:[],Val:"test",ExptCheckSum:"test",EndTime:1,SvrType:1,ExptType:1,BucketSrc:1,StartTime:1,ExptSequence:1,ExptId:1,Key:"test",GroupId:1,
+getBLEDeviceCharacteristics Val:"test",EndTime:1,SvrType:1,StartTime:1,BucketSrc:1,deviceId:"test",GroupId:1,ExptCheckSum:"test",ExptType:1,ExptSequence:1,ExptId:1,serviceId:"test",Key:"test",
+getStorage key:"test",
+reportAction Val:"test",EndTime:1,SvrType:1,StartTime:1,BucketSrc:1,GroupId:1,ExptCheckSum:"test",ExptType:1,ExptSequence:1,ExptId:1,value:"test",key:"test",Key:"test",
+closeBLEConnection Val:"test",ExptCheckSum:"test",EndTime:1,SvrType:1,ExptType:1,StartTime:1,BucketSrc:1,ExptId:1,ExptSequence:1,deviceId:"test",Key:"test",GroupId:1,
+hideKeyboard
+removeXWebMap
+startCustomFacialRecognitionVerifyAndUploadVideo checkAliveType:1,requestVerifyPreInfo:"test",
+updateNativeView
+updateXWebCamera cameraId:1,
+getNetworkType
+openWCPayLQTDepositPlan Val:"test",package:"test",EndTime:1,routURL:"test",SvrType:1,BucketSrc:1,StartTime:1,nonceStr:"test",GroupId:1,timeStamp:"test",ExptCheckSum:"test",paySign:"test",ExptType:1,signType:"test",pay_channel:"test",ExptSequence:1,ExptId:1,Key:"test",
+requestPayment
+navigateBack singlePageData:{},
+setVolume
+uploadEncryptedFileToCDN tempFilePath:"test",
+NFCGetAtqa
+installDownloadTaskForNative appId:"test",downloadId:1,
+hideVirtualBottomNavigationBar
+openOfflinePayView Val:"test",package:"test",EndTime:1,SvrType:1,StartTime:1,BucketSrc:1,nonceStr:"test",GroupId:1,timeStamp:"test",ExptCheckSum:"test",paySign:"test",ExptType:1,signType:"test",ExptId:1,ExptSequence:1,Key:"test",
+getAdPushMsg slotid:"test",
+createFinderAccount
+operateGlobalMonitoredBluetoothDevice envVersion:"test",entryPackage:"test",data:{},monitoredDeviceInfo:{},type:"test",deviceId:"test",
+requestSnsPayment Val:"test",package:"test",EndTime:1,SvrType:1,bankType:"test",StartTime:1,BucketSrc:1,nonceStr:"test",GroupId:1,timeStamp:"test",ExptCheckSum:"test",paySign:"test",bindSerial:"test",ExptType:1,paymentDeskModalTitle:"test",signType:"test",partnerId:"test",prepayId:"test",ExptId:1,ExptSequence:1,Key:"test",
+captureScreen
+chooseImage sizeType:"test",Val:"test",EndTime:1,SvrType:1,count:"test",BucketSrc:1,StartTime:1,GroupId:1,ExptCheckSum:"test",sourceType:[],ExptType:1,ExptSequence:1,ExptId:1,Key:"test",
+setClipboardData data:"test",
+getRegionData
+getLocation
+authorize
+roamApiChannel
+getStorageInfo
+getRecentUsageList
+callbackDataToNative
+showPickerView headerText:"test",array:[],
+setStorage data:"test",dataType:"test",key:"test",
+requestOfflineUserBindQuery timeStamp:"test",package:"test",paySign:"test",signType:"test",nonceStr:"test",
+cryptoOperate id:1,type:"test",
+fs_rename
+openChannelsActivity
+requestPersonalPay Val:"test",ExptCheckSum:"test",EndTime:1,SvrType:1,ExptType:1,StartTime:1,out_prepay_id:"test",BucketSrc:1,ExptSequence:1,ExptId:1,Key:"test",GroupId:1,
+NFCGetHistoricalBytes
+setAppSnapshotStrategy
+openMapApp
+addCard cardList:"test",Val:"test",EndTime:1,ExptCheckSum:"test",SvrType:1,ExptType:1,StartTime:1,BucketSrc:1,ExptSequence:1,ExptId:1,Key:"test",GroupId:1,
+insertMagicBrushFrame biz:1,envVersion:"test",extraData:"test",appId:"test",fsPath:"test",position:{},appPath:"test",
+operateBackgroundAudio
+showSalesDrivingMenu
+openBluetoothAdapter Val:"test",ExptCheckSum:"test",EndTime:1,SvrType:1,ExptType:1,StartTime:1,BucketSrc:1,ExptSequence:1,ExptId:1,Key:"test",GroupId:1,
+recordOperateUserDataInWa
+operateTingAudio
+NFCConnect
+stopBeaconDiscovery
+setMapCenterOffset mapId:1,
+removeMapArc mapId:1,id:1,
+openChannelsUserProfile
+enableLocationUpdate
+removeXWebLivePusher
+setFileSpaceStatistics enable:true,
+openAddress Val:"test",ExptCheckSum:"test",EndTime:1,SvrType:1,ExptType:1,StartTime:1,BucketSrc:1,ExptSequence:1,ExptId:1,Key:"test",GroupId:1,
+uploadWeRunData step:1,
+updateMapGroundOverlay mapId:1,
+deleteWeAppNewTipsInfo pathKey:"test",
+requestAuthUserAutoFillData authGroupList:[],fields:[],wording:"test",
+updateXWebVoIPView
+stopWifi
+getVideoInfo src:"test",
+getBLEDeviceServices Val:"test",EndTime:1,ExptCheckSum:"test",SvrType:1,ExptType:1,StartTime:1,BucketSrc:1,ExptId:1,ExptSequence:1,deviceId:"test",Key:"test",GroupId:1,
+setKeyboardValue
+addPhoneCalendar
+stopPullDownRefresh
+NFCTransceive
+showActionSheet itemList:"test",
+startFacialRecognitionVerify checkAliveType:1,requestVerifyPreInfo:"test",
+openUserProfile Val:"test",EndTime:1,SvrType:1,StartTime:1,BucketSrc:1,GroupId:1,ExptCheckSum:"test",profileReportInfo:"test",ExptType:1,ExptId:1,ExptSequence:1,Key:"test",username:"test",
+adOperateWXData appendDeviceInfo:true,
+reserveChannelsLive
+closeBluetoothAdapter
+deleteFinderDataItem
+stopBLEPeripheralAdvertising
+requestPayment
+launchMiniProgram fromBusinessUsername:"test",Val:"test",WsRequestDomain:[],checkSumMd5:"test",entrance_module:"test",FlagshipSetting:{},downloadURL:"test",client_js_ext_info:"test",BucketSrc:1,contexts:[],package_type:1,UploadDomain:[],second:"test",UDPDomain:[],NewSetting:{},auto_update:true,Appid:"test",appId:"test",semver:"test",Network:{},HeaderBlackList:[],ExptId:1,VersionMD5:"test",black_style:{},icon_green:{},custom_version:"test",white_style:{},inner_version:1,EntranceModule:"test",halfPage:{},StartTime:1,version:1,navigation_bar_text_color:"test",prefix_path:"test",loading_image_info:{},icon_big:{},icon_light:{},device_orientation:"test",progressbar_color:"test",preSceneNote:"test",ExptType:1,firstPageNavigationStyle:"test",page:{},SyncVersionSetting:{},Key:"test",RunningFlag:1,plugin_id:"test",separated_plugin_list:"test",extoptions:"test",code_size:1,dev_key:1,MigrateInfo:{},renderer:"test",EndTime:1,version_desc:"test",HeaderWhiteList:[],SvrType:1,RunningFlagInfo:{},AppOpenForbiddenUrl:"test",TCPDomain:[],widget_list:[],PrefetchDNSDomain:[],PackageManager:{},module_list:"test",isTransparentBackgroundSupport:"test",NewCategories:[],wxapkg_md5:"test",alias:[],SyncLaunchSceneList:[],HTTPHeaderReferer:"test",DownloadDomain:[],without_lib_md5:"test",PreDownloadUserNameBlackList:[],UsePackageConfirmSubDescScopeList:[],SubContextImgDomain:[],icon_dark:{},OriginalRedirectUrl:"test",fake_native_loading_style_info:{},url:"test",GroupId:1,icon_gray:{},envVersion:"test",background_color:"test",ExptCheckSum:"test",RequestDomain:[],CDNBaseURL:"test",target_appid:"test",ExptSequence:1,HTTPSetting:{},RelievedBuySetting:{},first:"test",username:"test",md5:"test",AgeAppropriateIcon:{},
+batchSetStorage kvList:[],data:"test",dataType:"test",key:"test",storageId:1,
+launchApplication operateDirectly:"test",sourceInfo:"test",alertType:"test",parameter:"test",installSchemeUrl:"test",appId:"test",schemeUrl:"test",bizInfo:"test",taskName:"test",packageName:"test",fileMd5:"test",extInfo:"test",
+cryptoGenerateKey blockModes:[],algorithm:"test",
+setNavigationBarTitle title:"test",
+exitGameLive
+removeXWebCamera cameraId:1,
+requestSRFile
+getMapCenterLocation mapId:1,
+navigateBackMiniProgram extraData:{},privateExtraData:{},
+private_getBackgroundFetchData
+insertXWebVoIPView
+openWeAppHistoryList Val:"test",ExptCheckSum:"test",EndTime:1,SvrType:1,ExptType:1,StartTime:1,BucketSrc:1,ExptId:1,ExptSequence:1,Key:"test",GroupId:1,sceneNote:"test",
+removeTextArea
+operateLocalServicesScan serviceType:"test",action:"test",
+enableLocationUpdate PreDownloadUserNameBlackList:[],UsePackageConfirmSubDescScopeList:[],icon_dark:{},SubContextImgDomain:[],HeaderWhiteList:[],FlagshipSetting:{},url:"test",icon_gray:{},icon_big:{},PackageManager:{},icon_light:{},CDNBaseURL:"test",HeaderBlackList:[],SyncLaunchSceneList:[],HTTPHeaderReferer:"test",HTTPSetting:{},RelievedBuySetting:{},SyncVersionSetting:{},icon_green:{},AgeAppropriateIcon:{},
+finishLoading
+access
+setMapLocMarkerIcon mapId:1,iconPath:"test",
+saveImageToPhotosAlbum
+removeMagicBrushFrame biz:1,
+getVolume
+reportPageData
+requestPayment
+startRecord
+showWCCoinFirstBuyCoinTips Val:"test",EndTime:1,ExptCheckSum:"test",alwaysDarkMode:1,SvrType:1,ExptType:1,StartTime:1,BucketSrc:1,ExptId:1,ExptSequence:1,Key:"test",GroupId:1,
+gameLiveInfoControl topic:"test",
+shareAppMessageDirectly rendererOptions:{},videoThumbPath:"test",liteAppQuery:"test",videoMD5:"test",signature:"test",singlePage:{},openId:"test",link:"test",skyline:{},liteAppBizData:"test",sdkVersionBegin:"test",title:"test",sdkVersionEnd:"test",type:"test",liteAppPath:"test",mode:"test",chatroomUsername:"test",path:"test",playDesc:"test",androidVersionEnd:"test",cacheKey:"test",imageUrl:"test",messageExtraData:"test",hasRelievedBuyPlugin:true,liteAppId:"test",videoButtonText:"test",androidVersionBegin:"test",handleWebviewPreload:"test",videoPath:"test",thumbDataHash:"test",navigationBarRightButton:{},webViewUrl:"test",page:{},to:"test",window:{},webpageUrl:"test",
+addMapCustomLayer mapId:1,
+showModal title:"test",content:"test",
+launchMiniProgram WsRequestDomain:[],checkSumMd5:"test",fromBusinessUsername:"test",Val:"test",entrance_module:"test",FlagshipSetting:{},client_js_ext_info:"test",downloadURL:"test",BucketSrc:1,contexts:[],package_type:1,UploadDomain:[],second:"test",UDPDomain:[],NewSetting:{},auto_update:true,Appid:"test",Network:{},semver:"test",HeaderBlackList:[],VersionMD5:"test",ExptId:1,black_style:{},icon_green:{},custom_version:"test",white_style:{},inner_version:1,EntranceModule:"test",halfPage:{},StartTime:1,version:1,prefix_path:"test",navigation_bar_text_color:"test",loading_image_info:{},icon_big:{},icon_light:{},device_orientation:"test",progressbar_color:"test",ExptType:1,preSceneNote:"test",firstPageNavigationStyle:"test",page:{},Key:"test",SyncVersionSetting:{},RunningFlag:1,plugin_id:"test",MigrateInfo:{},dev_key:1,separated_plugin_list:"test",code_size:1,renderer:"test",EndTime:1,version_desc:"test",HeaderWhiteList:[],SvrType:1,RunningFlagInfo:{},AppOpenForbiddenUrl:"test",TCPDomain:[],widget_list:"test",PrefetchDNSDomain:[],PackageManager:{},module_list:[],isTransparentBackgroundSupport:"test",NewCategories:[],wxapkg_md5:"test",SyncLaunchSceneList:[],alias:[],HTTPHeaderReferer:"test",DownloadDomain:[],without_lib_md5:"test",PreDownloadUserNameBlackList:[],UsePackageConfirmSubDescScopeList:[],icon_dark:{},SubContextImgDomain:[],OriginalRedirectUrl:"test",fake_native_loading_style_info:{},url:"test",GroupId:1,icon_gray:{},envVersion:"test",background_color:"test",ExptCheckSum:"test",RequestDomain:[],CDNBaseURL:"test",target_appid:"test",ExptSequence:1,HTTPSetting:{},RelievedBuySetting:{},first:"test",md5:"test",username:"test",AgeAppropriateIcon:{},
+getNetworkType
+showImageOperateSheet
+enableLocationUpdate
+loadWAFile filename:"test",
