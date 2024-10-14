@@ -1,0 +1,1173 @@
+{
+  "ecdsaSign": "catch:{}",
+  "setScreenMode": "catch:{}",
+  "openWebViewUseFastLoad": "catch:{}",
+  "authorize": {
+    "errno": 1001,
+    "errMsg": "authorize:fail parameter error: parameter.scope should be String instead of Undefined;"
+  },
+  "readCompressedFile": "catch:{}",
+  "deleteUserAutoFillData": "catch:{}",
+  "enableLocationUpdate": "catch:{}",
+  "phoneBindCardEntry": "catch:{}",
+  "removeXWebLivePlayer": "catch:{}",
+  "operateRequestTask": "catch:{}",
+  "openCard": {
+    "errno": 1001,
+    "errMsg": "openCard:fail parameter error: parameter.cardList should be Array instead of String;"
+  },
+  "operateSocketTask": "catch:{}",
+  "redirectTo": {
+    "errMsg": "redirectTo:fail page \"pages/index/test\" is not found"
+  },
+  "makeBluetoothPair": {
+    "errno": 1001,
+    "errMsg": "makeBluetoothPair:fail parameter error: parameter.deviceId should be String instead of Undefined;"
+  },
+  "enableSplashAdHotStart": "catch:{}",
+  "captureHTMLWebviewFullScreenshot": "catch:{}",
+  "openRealnameAuth": "catch:{}",
+  "updateXWebLivePlayer": "catch:{}",
+  "operateRecentUsageList": "catch:{}",
+  "getLastLocationCache": "catch:{}",
+  "queryDownloadTask": "catch:{}",
+  "readdir": "catch:{}",
+  "showShareTimelineMenu": "catch:{}",
+  "updateCapsuleIcon": "catch:{}",
+  "pauseDownloadTaskForNative": "catch:{}",
+  "checkHandoffEnabled": "catch:{}",
+  "openStickerSetView": {
+    "errno": 1001,
+    "errMsg": "openStickerSetView:fail parameter error: parameter.url should be String instead of Undefined;"
+  },
+  "removeMapMarkers": "catch:{}",
+  "getMapScale": "catch:{}",
+  "showUpdatableMessageSubscribeButton": "catch:{}",
+  "modifyFinderAccountNickname": "catch:{}",
+  "jumpRedPacketEnvelopeList": "catch:{}",
+  "triggerBackgroundFetch": "catch:{}",
+  "addDownloadTaskStraight": "catch:{}",
+  "removeMapLines": "catch:{}",
+  "translateMapMarker": "catch:{}",
+  "unlink": "catch:{}",
+  "getInstallState": "catch:{}",
+  "hideSplashScreenshot": "catch:{}",
+  "navigateBackMiniProgram": {
+    "errMsg": "navigateBackMiniProgram:fail not MiniProgram can navigate back."
+  },
+  "notifyWCPayResult": {
+    "errno": 1001,
+    "errMsg": "notifyWCPayResult:fail parameter error: parameter.appId should be String instead of Undefined;"
+  },
+  "openADCanvas": "catch:{}",
+  "getWeAppProfileInfo": "catch:{}",
+  "getWeAppNewTipsInfo": "catch:{}",
+  "operateXWebLivePlayerBackground": "catch:{}",
+  "getEncryptHKPasswd": "catch:{}",
+  "setKeepScreenOn": {
+    "errno": 1001,
+    "errMsg": "setKeepScreenOn:fail parameter error: parameter.keepScreenOn should be Boolean instead of Undefined;"
+  },
+  "handleBrandPersonalCenterAction": "catch:{}",
+  "fetchSendingAndFailProfileFeed": "catch:{}",
+  "minimizeGameLive": "catch:{}",
+  "releaseInferenceSession": "catch:{}",
+  "openWeAppProfile": "catch:{}",
+  "readFile": "catch:{}",
+  "openTextStateMessage": "catch:{}",
+  "pauseDownloadTask": "catch:{}",
+  "openChannelsOrderCenter": "catch:{}",
+  "logInJava": "catch:{}",
+  "shareSpecificWxapp": "catch:{}",
+  "showDatePickerView": "catch:{}",
+  "returnTakeScreenshot": "catch:{}",
+  "openUrl": { "errMsg": "openUrl: invalid url \"\"" },
+  "predownloadMiniProgramPackage": "catch:{}",
+  "showKeyboard": "catch:{}",
+  "reLaunch": {
+    "errMsg": "reLaunch:fail page \"pages/index/test\" is not found"
+  },
+  "fetchFinderProfileFeed": "catch:{}",
+  "restart": "catch:{}",
+  "setBackgroundAudioState": "catch:{}",
+  "writeNdefMessage": "catch:{}",
+  "appendRuntimeContext": "catch:{}",
+  "cryptoExchangeKey": "catch:{}",
+  "openVideoEditor": {
+    "errno": 1001,
+    "errMsg": "openVideoEditor:fail parameter error: parameter.filePath should be String instead of Undefined;"
+  },
+  "closeSplashAd": "catch:{}",
+  "shareGameLive": "catch:{}",
+  "addBLEPeripheralService": "catch:{}",
+  "preloadSkylineView": { "errMsg": "preloadSkylineView:fail " },
+  "operateXWebVideoBackground": "catch:{}",
+  "openWeAppAuthManageList": "catch:{}",
+  "systemLog": "catch:{}",
+  "getLocalLiveInfo": "catch:{}",
+  "insertXWebLivePlayer": "catch:{}",
+  "writeBLECharacteristicValue": {
+    "errno": 1001,
+    "errMsg": "writeBLECharacteristicValue:fail parameter error: parameter.value should be ArrayBuffer instead of String;"
+  },
+  "operateSmStorage": "catch:{}",
+  "joinVoIPChat": {
+    "errno": 1001,
+    "errMsg": "joinVoIPChat:fail parameter error: parameter.signature should be String instead of Undefined;parameter.nonceStr should be String instead of Undefined;parameter.timeStamp should be Number instead of Undefined;parameter.groupId should be String instead of Undefined;"
+  },
+  "requestSubscribeMessage": {
+    "errno": 1001,
+    "errMsg": "requestSubscribeMessage:fail parameter error: parameter.tmplIds should be Array instead of Undefined;"
+  },
+  "setCurrentPaySpeech": {
+    "errno": 102,
+    "errMsg": "setCurrentPaySpeech:fail:access denied"
+  },
+  "vibrateLong": { "errMsg": "vibrateLong:fail:not allowed in background" },
+  "getBluetoothAdapterState": {
+    "errno": 1500101,
+    "errCode": 10000,
+    "errMsg": "getBluetoothAdapterState:fail:not init"
+  },
+  "stopBluetoothDevicesDiscovery": {
+    "errno": 1500101,
+    "errCode": 10000,
+    "errMsg": "stopBluetoothDevicesDiscovery:fail:not init"
+  },
+  "setInnerAudioOption": { "errMsg": "setInnerAudioOption:ok" },
+  "requestFacetoFacePayment": {
+    "errno": 102,
+    "errMsg": "requestFacetoFacePayment:fail:access denied"
+  },
+  "captureScreen": {
+    "errno": 102,
+    "errMsg": "captureScreen:fail:access denied"
+  },
+  "hideShareMenu": { "errMsg": "hideShareMenu:ok" },
+  "getAvailableAudioSources": {
+    "audioSources": [
+      "auto",
+      "mic",
+      "camcorder",
+      "voice_recognition",
+      "voice_communication",
+      "unprocessed"
+    ],
+    "errMsg": "getAvailableAudioSources:ok"
+  },
+  "removeStorage": { "errMsg": "removeStorage:ok" },
+  "traceEvent": { "errMsg": "traceEvent:fail" },
+  "startFacialEncryptionVerifyAndUploadVideo": {
+    "errno": 102,
+    "errMsg": "startFacialEncryptionVerifyAndUploadVideo:fail:access denied"
+  },
+  "clearStorage": { "errno": 0, "errMsg": "clearStorage:ok" },
+  "loadPaySpeechDialectConfig": {
+    "errno": 102,
+    "errMsg": "loadPaySpeechDialectConfig:fail:access denied"
+  },
+  "getSkylineInfo": {
+    "errMsg": "getSkylineInfo:ok",
+    "isSupported": false,
+    "reason": "client not supported",
+    "version": "1.2.4"
+  },
+  "deleteTrafficCard": {
+    "errno": 102,
+    "errMsg": "deleteTrafficCard:fail:access denied"
+  },
+  "openDocument": { "errMsg": "openDocument:fail:file doesn't exist" },
+  "startFacialEncryptionVerify": {
+    "errno": 102,
+    "errMsg": "startFacialEncryptionVerify:fail:access denied"
+  },
+  "showToast": { "errMsg": "showToast:ok" },
+  "uploadWeRunData": {
+    "errno": 102,
+    "errMsg": "uploadWeRunData:fail:access denied"
+  },
+  "getInstallStateForNative": "catch:{}",
+  "setNavigateBackInterception": "catch:{}",
+  "insertXWebLivePusher": "catch:{}",
+  "refreshSession": "catch:{}",
+  "openWCPayLQTSave": "catch:{}",
+  "reportRealtimeAction": "catch:{}",
+  "updateShareMenuShareTicket": "catch:{}",
+  "disableLocationUpdate": "catch:{}",
+  "insertFinderWidget": "catch:{}",
+  "hasJoinVoIPChat": "catch:{}",
+  "fs_appendFile": "catch:{}",
+  "updateShareMenuUpdatable": "catch:{}",
+  "hideStatusBar": "catch:{}",
+  "createVestUser": "catch:{}",
+  "showLiveToast": "catch:{}",
+  "addDownloadTask": "catch:{}",
+  "profile": "catch:{}",
+  "saveWaid": "catch:{}",
+  "responseClientRequest": "catch:{}",
+  "private_onWebPageUrlExposed": "catch:{}",
+  "webTransfer": "catch:{}",
+  "resumeDownloadTaskForNative": "catch:{}",
+  "loadVideoResource": "catch:{}",
+  "switchTab": {
+    "errMsg": "switchTab:fail page \"pages/index/test\" is not found"
+  },
+  "setDeviceOrientation": "catch:{}",
+  "openCTID": "catch:{}",
+  "openWCExDeviceList": "catch:{}",
+  "updateKeyboard": "catch:{}",
+  "NFCSetTimeout": "catch:{}",
+  "openNewLifeDetail": "catch:{}",
+  "createAudioInstanceAsync": "catch:{}",
+  "updateApp": "catch:{}",
+  "operateSmCrypto": "catch:{}",
+  "hideSplashScreen": "catch:{}",
+  "startBLEPeripheralAdvertising": "catch:{}",
+  "openStickerIPView": {
+    "errno": 1001,
+    "errMsg": "openStickerIPView:fail parameter error: parameter.url should be String instead of Undefined;"
+  },
+  "addMapGroundOverlay": "catch:{}",
+  "showStatusBar": "catch:{}",
+  "setNavigateBackConfirmDialog": "catch:{}",
+  "launchApplication": "catch:{}",
+  "enableAccelerometer": "catch:{}",
+  "extTransfer": "catch:{}",
+  "closeBLEPeripheralServer": "catch:{}",
+  "fromScreenLocation": "catch:{}",
+  "requestContactDisplayInfo": "catch:{}",
+  "setNavigationBarRightButton": {
+    "errno": 1001,
+    "errMsg": "setNavigationBarRightButton:fail parameter error: parameter.hide should be Boolean instead of Undefined;"
+  },
+  "setNavigationBarColor": {
+    "errno": 1001,
+    "errMsg": "setNavigationBarColor:fail parameter error: parameter.frontColor should be String instead of Undefined;parameter.backgroundColor should be String instead of Undefined;"
+  },
+  "setAudioState": "catch:{}",
+  "removeMapCustomLayer": "catch:{}",
+  "operateXWebVideo": "catch:{}",
+  "removeMapVisualLayer": "catch:{}",
+  "openSingleStickerView": {
+    "errno": 1001,
+    "errMsg": "openSingleStickerView:fail parameter error: parameter.url should be String instead of Undefined;"
+  },
+  "startGameLive": "catch:{}",
+  "preloadLiteApp": "catch:{}",
+  "operateRealtimeData": "catch:{}",
+  "loadJsFiles": "catch:{}",
+  "openAddress": "catch:{}",
+  "hideNavigationBar": "catch:{}",
+  "operateNativeView": "catch:{}",
+  "createWebViewForFastLoad": "catch:{}",
+  "eraseMapLines": "catch:{}",
+  "highlightTitleForSinglePage": "catch:{}",
+  "getBackgroundFetchData": {
+    "errMsg": "getBackgroundFetchData:fail invalid fetchType"
+  },
+  "shareFinderShop": "catch:{}",
+  "getAppContact": "catch:{}",
+  "destroyAudioInstance": "catch:{}",
+  "showNavigationBar": "catch:{}",
+  "createUploadTaskAsync": "catch:{}",
+  "openWCPayLQTDetail": "catch:{}",
+  "shareAppMessage": "catch:{}",
+  "getPhoneNumber": "catch:{}",
+  "consumeWCCoin": "catch:{}",
+  "addMapMarkers": "catch:{}",
+  "private_setPageOrientation": "catch:{}",
+  "writeCommData": "catch:{}",
+  "updateVoIPChatMuteConfig": {
+    "errno": 1001,
+    "errMsg": "updateVoIPChatMuteConfig:fail parameter error: parameter.muteConfig should be Object instead of Undefined;"
+  },
+  "NFCGetMaxTransceiveLength": "catch:{}",
+  "previewImage": {
+    "errno": 1001,
+    "errMsg": "previewImage:fail parameter error: parameter.urls should have at least 1 item;"
+  },
+  "getWxCommFont": "catch:{}",
+  "cryptoRemoveKey": "catch:{}",
+  "operateMediaContainer": "catch:{}",
+  "showMultiPickerView": "catch:{}",
+  "showVirtualBottomNavigationBar": "catch:{}",
+  "shareAppMessageForFakeNative": {
+    "errno": 1001,
+    "errMsg": "shareAppMessageForFakeNative:fail parameter error: parameter.bizType should be Number instead of Undefined;"
+  },
+  "private_openUrl": "catch:{}",
+  "operateAudio": "catch:{}",
+  "reportCanvasData": "catch:{}",
+  "installDownloadTask": "catch:{}",
+  "openChannelsTopic": "catch:{}",
+  "updateXWebWebGLCanvas": "catch:{}",
+  "getMapRegion": "catch:{}",
+  "getMapSkew": "catch:{}",
+  "jumpDownloaderWidgetForNative": "catch:{}",
+  "readZipEntry": "catch:{}",
+  "openWeComUserProfile": {
+    "errno": 1001,
+    "errMsg": "openWeComUserProfile:fail parameter error: parameter.dataUrl should be String instead of Undefined;"
+  },
+  "downloadPageDataForFastLoad": "catch:{}",
+  "privateEnterContact": "catch:{}",
+  "gamelifeManager": "catch:{}",
+  "nativeWXPayCgiTunnel": "catch:{}",
+  "addMapArc": "catch:{}",
+  "addMapControls": "catch:{}",
+  "isdir": "catch:{}",
+  "openWCCertHomePage": "catch:{}",
+  "setBackgroundTextStyle": {
+    "errMsg": "setBackgroundTextStyle:fail invalid textStyle \"undefined\""
+  },
+  "removeXWebVoIPView": "catch:{}",
+  "kvReport": "catch:{}",
+  "operateCallTone": "catch:{}",
+  "createRequestTaskAsync": "catch:{}",
+  "operateWxappCGI": "catch:{}",
+  "addImageToFavorites": "catch:{}",
+  "operateMediaTrack": "catch:{}",
+  "resumeDownloadTask": "catch:{}",
+  "returnCopyUrl": "catch:{}",
+  "jumpRedPacketEnvelopePreview": "catch:{}",
+  "chooseMultiWechatChatroom": "catch:{}",
+  "opNativeRedDot": "catch:{}",
+  "removeSplashScreenshot": "catch:{}",
+  "private_addContact": "catch:{}",
+  "quickSendRedPacket": "catch:{}",
+  "enableDeviceMotionChangeListening": "catch:{}",
+  "updateXWebLivePusher": "catch:{}",
+  "openRedPacketEditPage": "catch:{}",
+  "writeBLEPeripheralCharacteristicValue": "catch:{}",
+  "addMapPolygons": "catch:{}",
+  "moveMapMarkerAlong": "catch:{}",
+  "openLocation": {
+    "errno": 1001,
+    "errMsg": "openLocation:fail parameter error: parameter.latitude should be Number instead of Undefined;parameter.longitude should be Number instead of Undefined;"
+  },
+  "getMapRotate": "catch:{}",
+  "clearAdPushMsg": "catch:{}",
+  "checkNetworkAPIURL": "catch:{}",
+  "enterWCCoinHomePage": "catch:{}",
+  "updateAppContact": "catch:{}",
+  "playVoice": {
+    "errno": 1001,
+    "errMsg": "playVoice:fail parameter error: parameter.filePath should be String instead of Undefined;"
+  },
+  "cryptoOpen": "catch:{}",
+  "enableGyroscope": "catch:{}",
+  "getLiteGameCapsuleWidgetRect": "catch:{}",
+  "openWeAppSearch": "catch:{}",
+  "removeXWebVideo": "catch:{}",
+  "queryDownloadTaskForNative": "catch:{}",
+  "saveFile": {
+    "errno": 1001,
+    "errMsg": "saveFile:fail parameter error: parameter.tempFilePath should be String instead of Undefined;"
+  },
+  "addMapLines": "catch:{}",
+  "openNewLifeEditor": "catch:{}",
+  "enterContact": { "errMsg": "enterContact:fail no permission" },
+  "adDataReport": "catch:{}",
+  "goToLiteAppRoam": "catch:{}",
+  "functionalPageStartGame": "catch:{}",
+  "endorsementFinished": "catch:{}",
+  "getUserAutoFillData": "catch:{}",
+  "operateBackgroundAudio": "catch:{}",
+  "openChannelsRedPacketPublish": "catch:{}",
+  "updateMapMarkers": "catch:{}",
+  "setMapBoundary": "catch:{}",
+  "openAddressEditor": "catch:{}",
+  "faceProcessInit": "catch:{}",
+  "preloadMiniProgramEnv": "catch:{}",
+  "getSavedFileInfo": {
+    "errno": 1001,
+    "errMsg": "getSavedFileInfo:fail parameter error: parameter.filePath should be String instead of Undefined;"
+  },
+  "showShareMenuWithShareTicket": "catch:{}",
+  "setMapIndoorMaskColor": "catch:{}",
+  "insertXWebCamera": "catch:{}",
+  "startBeaconDiscovery": {
+    "errMsg": "startBeaconDiscovery:fail uuid must be an Array"
+  },
+  "writeFile": "catch:{}",
+  "getMapIndoorFloor": "catch:{}",
+  "pushNativeWebView": "catch:{}",
+  "showSplashAdMenu": "catch:{}",
+  "setTabBarBadge": {
+    "errno": 1001,
+    "errMsg": "setTabBarBadge:fail parameter error: parameter.index should be Number instead of Undefined;parameter.text should be String instead of Undefined;"
+  },
+  "getAudioState": "catch:{}",
+  "openChannelsPostPage": "catch:{}",
+  "removeSavedFile": {
+    "errno": 1001,
+    "errMsg": "removeSavedFile:fail parameter error: parameter.filePath should be String instead of Undefined;"
+  },
+  "openWCPayLQTDepositPlanAdd": "catch:{}",
+  "shareInvitationToLiveRoom": "catch:{}",
+  "shareTimeline": "catch:{}",
+  "checkStrangerContactListIsFriend": "catch:{}",
+  "getAppConfig": "catch:{}",
+  "shareFinderProduct": "catch:{}",
+  "private_fileSystemConvert": "catch:{}",
+  "openLiteApp": "catch:{}",
+  "noticePerformanceMetrics": "catch:{}",
+  "navigateTo": {
+    "errMsg": "navigateTo:fail page \"pages/index/test\" is not found"
+  },
+  "operateUploadTask": "catch:{}",
+  "removeMapGroundOverlay": "catch:{}",
+  "getFileInfo": {
+    "errno": 1001,
+    "errMsg": "getFileInfo:fail parameter error: parameter.filePath should be String instead of Undefined;"
+  },
+  "removeNativeView": "catch:{}",
+  "updateMultiPickerView": "catch:{}",
+  "shareAppMessageDirectly": "catch:{}",
+  "getNpuLibsPath": "catch:{}",
+  "operateXWebLivePlayer": "catch:{}",
+  "getGamePerformance": "catch:{}",
+  "setAlreadyAcceptPrivacyScopeList": "catch:{}",
+  "sendBizRedPacket": {
+    "errno": 102,
+    "errMsg": "sendBizRedPacket:fail:access denied"
+  },
+  "openLink": "catch:{}",
+  "navigateBackH5": {
+    "errMsg": "navigateBackH5:fail not HTML5 page can navigate back."
+  },
+  "getRandomValues": {
+    "errno": 1001,
+    "errMsg": "getRandomValues:fail parameter error: parameter.length should be Number instead of Undefined;"
+  },
+  "openChannelsRewardedVideoAd": "catch:{}",
+  "requestWCPayRealnameVerify": "catch:{}",
+  "choosePhoneNumberAreaCode": "catch:{}",
+  "operateDownloadTask": "catch:{}",
+  "cancelDownloadTask": "catch:{}",
+  "faceProcessStop": "catch:{}",
+  "insertXWebVideo": "catch:{}",
+  "publishWeChatStateDirectly": "catch:{}",
+  "openRedPacket": "catch:{}",
+  "editTextWithPopForm": "catch:{}",
+  "updateXWebMap": "catch:{}",
+  "addToFavorites": "catch:{}",
+  "rmdir": "catch:{}",
+  "requestFindPayPwdWay": "catch:{}",
+  "mkdir": "catch:{}",
+  "saveSplashScreenshot": "catch:{}",
+  "splashAdFirstStepViewLayoutStateChange": "catch:{}",
+  "cancelDownloadTaskForNative": "catch:{}",
+  "invokeMiniProgramAPI": "catch:{}",
+  "rewriteRoute": "catch:{}",
+  "openFinderProfile": "catch:{}",
+  "sendRedCoverAppMsg": "catch:{}",
+  "batchPreloadMiniProgram": "catch:{}",
+  "operateXWebLivePusher": "catch:{}",
+  "hideShareTimelineMenu": "catch:{}",
+  "operateMusicPlayer": "catch:{}",
+  "loadLibFiles": "catch:{}",
+  "showSplashAd": "catch:{}",
+  "isNFCTechConnected": "catch:{}",
+  "verifyPlugin": "catch:{}",
+  "uploadToCommonCDN": { "errMsg": "uploadToCommonCDN:fail no permission" },
+  "operateWXData": {
+    "errno": 1001,
+    "errMsg": "operateWXData:fail parameter error: parameter.apiName should be String instead of Undefined;"
+  },
+  "NFCGetSak": "catch:{}",
+  "updateShareMenuToDo": "catch:{}",
+  "showSystemSheetMenu": "catch:{}",
+  "setAcquireWebviewDom": "catch:{}",
+  "removeBLEPeripheralService": "catch:{}",
+  "toScreenLocation": "catch:{}",
+  "setStatusBarStyle": "catch:{}",
+  "collectWepalm": "catch:{}",
+  "startNFCDiscovery": "catch:{}",
+  "disableScrollBounce": "catch:{}",
+  "handleMPChannelAction": "catch:{}",
+  "setEnableDebug": {
+    "errno": 1001,
+    "errMsg": "setEnableDebug:fail parameter error: parameter.enableDebug should be Boolean instead of Undefined;"
+  },
+  "setTabBarItem": {
+    "errno": 1001,
+    "errMsg": "setTabBarItem:fail parameter error: parameter.index should be Number instead of Undefined;"
+  },
+  "unzip": "catch:{}",
+  "splashAdAllViewLayoutStateChange": "catch:{}",
+  "setTingAudioState": "catch:{}",
+  "setMenuStyle": "catch:{}",
+  "getWCCoinBalance": "catch:{}",
+  "pageNotFoundCallback": "catch:{}",
+  "batchGetContact": "catch:{}",
+  "setBluetoothBackgroundMode": {
+    "errno": 1001,
+    "errMsg": "setBluetoothBackgroundMode:fail parameter error: parameter.enable should be Boolean instead of Undefined;parameter.devices should be Array instead of Undefined;"
+  },
+  "updateShareMenuDynamic": "catch:{}",
+  "reportSubmitForm": "catch:{}",
+  "setSecuritySnapshotStrategy": "catch:{}",
+  "isSupportNFC": "catch:{}",
+  "getIPAddress": "catch:{}",
+  "previewMedia": { "errMsg": "previewMedia:fail length of sources is 0" },
+  "enableCompass": "catch:{}",
+  "addMapVisualLayer": "catch:{}",
+  "NFCClose": "catch:{}",
+  "initMapMarkerCluster": "catch:{}",
+  "jumpToWCPayMessage": "catch:{}",
+  "getDownloadWidgetTaskInfoForNative": "catch:{}",
+  "operateSmCryptoSensitive": "catch:{}",
+  "moveToMapLocation": "catch:{}",
+  "createDownloadTaskAsync": "catch:{}",
+  "requestQueryCashier": {
+    "errno": 1001,
+    "errMsg": "requestQueryCashier:fail parameter error: parameter.timeStamp should be Number instead of String;"
+  },
+  "insertXWebWebGLCanvas": "catch:{}",
+  "cryptoGetGeneratedKeys": "catch:{}",
+  "operateWxappStarItem": "catch:{}",
+  "openWCCardHomePage": "catch:{}",
+  "openBizProfile": "catch:{}",
+  "stat": "catch:{}",
+  "getGameLivePermission": "catch:{}",
+  "openWeComUserProfileForFakeNative": "catch:{}",
+  "updateXWebVideo": "catch:{}",
+  "openWeRunSetting": "catch:{}",
+  "operateRecorder": "catch:{}",
+  "bindSocketToNetwork": "catch:{}",
+  "includeMapPoints": "catch:{}",
+  "highlightBottomBanner": "catch:{}",
+  "getOAID": "catch:{}",
+  "saveInitialRenderingCache": "catch:{}",
+  "cryptoCompute": "catch:{}",
+  "getFinderAccount": "catch:{}",
+  "enterGameLiveRoom": "catch:{}",
+  "getMusicPlayerState": "catch:{}",
+  "addDownloadTaskForNative": "catch:{}",
+  "requestVirtualPayment": {
+    "errno": 1001,
+    "errMsg": "requestVirtualPayment:fail parameter error: parameter.signature should be String instead of Undefined;parameter.signData should be String instead of Undefined;parameter.paySig should be String instead of Undefined;parameter.mode should be String instead of Undefined;"
+  },
+  "setUserAutoFillData": "catch:{}",
+  "insertXWebMap": "catch:{}",
+  "openWeAppStarList": "catch:{}",
+  "fs_copyFile": "catch:{}",
+  "notifyDcpPaymentCallback": "catch:{}",
+  "shareFinderEndorsementToFriend": "catch:{}",
+  "buyWCCoin": "catch:{}",
+  "executeMapVisualLayerCommand": "catch:{}",
+  "setMapIndoorFloor": "catch:{}",
+  "stopNFCDiscovery": "catch:{}",
+  "openHKOfflinePayView": "catch:{}",
+  "sendRedPacket": "catch:{}",
+  "postMessageToMagicBrushFrame": "catch:{}",
+  "hideKeyboard": { "errMsg": "hideKeyboard:ok" },
+  "modifyFinderAccountAvatar": "catch:{}",
+  "startHandoff": "catch:{}",
+  "shareImageMessage": "catch:{}",
+  "runInferenceSession": "catch:{}",
+  "addMapCircles": "catch:{}",
+  "removeXWebWebGLCanvas": "catch:{}",
+  "sendDataToH5": "catch:{}",
+  "insertNativeView": "catch:{}",
+  "showAddressPickerView": "catch:{}",
+  "rtosWatchQuickReply": "catch:{}",
+  "subscribeVoIPMembers": "catch:{}",
+  "removeXWebMap": "catch:{}",
+  "updateNativeView": "catch:{}",
+  "updateXWebCamera": "catch:{}",
+  "openWCPayLQTDepositPlan": "catch:{}",
+  "navigateBack": {
+    "errMsg": "navigateBack:fail cannot navigate back at first page."
+  },
+  "setVolume": "catch:{}",
+  "NFCGetAtqa": "catch:{}",
+  "installDownloadTaskForNative": "catch:{}",
+  "hideVirtualBottomNavigationBar": "catch:{}",
+  "getAdPushMsg": "catch:{}",
+  "createFinderAccount": "catch:{}",
+  "operateGlobalMonitoredBluetoothDevice": "catch:{}",
+  "requestSnsPayment": "catch:{}",
+  "getRegionData": "catch:{}",
+  "roamApiChannel": "catch:{}",
+  "getRecentUsageList": "catch:{}",
+  "callbackDataToNative": "catch:{}",
+  "showPickerView": "catch:{}",
+  "requestOfflineUserBindQuery": "catch:{}",
+  "cryptoOperate": "catch:{}",
+  "fs_rename": "catch:{}",
+  "NFCGetHistoricalBytes": "catch:{}",
+  "setAppSnapshotStrategy": "catch:{}",
+  "openMapApp": "catch:{}",
+  "addCard": {
+    "errno": 1001,
+    "errMsg": "addCard:fail parameter error: parameter.cardList should be Array instead of String;"
+  },
+  "insertMagicBrushFrame": "catch:{}",
+  "showSalesDrivingMenu": "catch:{}",
+  "recordOperateUserDataInWa": "catch:{}",
+  "operateTingAudio": "catch:{}",
+  "NFCConnect": "catch:{}",
+  "setMapCenterOffset": "catch:{}",
+  "removeMapArc": "catch:{}",
+  "removeXWebLivePusher": "catch:{}",
+  "setFileSpaceStatistics": "catch:{}",
+  "updateMapGroundOverlay": "catch:{}",
+  "deleteWeAppNewTipsInfo": "catch:{}",
+  "requestAuthUserAutoFillData": "catch:{}",
+  "updateXWebVoIPView": "catch:{}",
+  "setKeyboardValue": "catch:{}",
+  "NFCTransceive": "catch:{}",
+  "showActionSheet": {
+    "errno": 1001,
+    "errMsg": "showActionSheet:fail parameter error: parameter.itemList should be Array instead of String;"
+  },
+  "adOperateWXData": "catch:{}",
+  "deleteFinderDataItem": "catch:{}",
+  "stopBLEPeripheralAdvertising": "catch:{}",
+  "cryptoGenerateKey": "catch:{}",
+  "exitGameLive": "catch:{}",
+  "removeXWebCamera": "catch:{}",
+  "requestSRFile": "catch:{}",
+  "getMapCenterLocation": "catch:{}",
+  "private_getBackgroundFetchData": "catch:{}",
+  "insertXWebVoIPView": "catch:{}",
+  "openWeAppHistoryList": "catch:{}",
+  "removeTextArea": "catch:{}",
+  "operateLocalServicesScan": "catch:{}",
+  "finishLoading": "catch:{}",
+  "access": "catch:{}",
+  "setMapLocMarkerIcon": "catch:{}",
+  "removeMagicBrushFrame": "catch:{}",
+  "getVolume": "catch:{}",
+  "reportPageData": "catch:{}",
+  "showWCCoinFirstBuyCoinTips": "catch:{}",
+  "gameLiveInfoControl": "catch:{}",
+  "addMapCustomLayer": "catch:{}",
+  "showImageOperateSheet": "catch:{}",
+  "loadWAFile": "catch:{}",
+  "batchGetStorage": {
+    "errMsg": "batchGetStorage:fail parameter error: parameter.keyList should have at least 1 item;"
+  },
+  "canvasGetImageData": {
+    "errMsg": "canvasGetImageData:fail fail canvas is empty"
+  },
+  "canvasToTempFilePath": {
+    "errMsg": "canvasToTempFilePath:fail should pass canvasId or canvas"
+  },
+  "requestPayment": {
+    "errMsg": "requestPayment:fail parameter error: parameter.timeStamp should be String instead of Undefined;parameter.nonceStr should be String instead of Undefined;parameter.package should be String instead of Undefined;parameter.signType should be String instead of Undefined;parameter.paySign should be String instead of Undefined;"
+  },
+  "canvasPutImageData": {
+    "errMsg": "canvasPutImageData:fail data argument must be an Uint8ClampedArray"
+  },
+  "batchSetStorage": {
+    "errMsg": "batchSetStorage:fail parameter error: parameter.kvList should have at least 1 item;"
+  },
+  "searchContacts": {
+    "errMsg": "searchContacts:fail can only be invoked by user TAP gesture."
+  },
+  "addFileToFavorites": {
+    "errMsg": "addFileToFavorites:fail:filePath is illegal"
+  },
+  "shareVideoMessage": {
+    "errMsg": "shareVideoMessage:fail :videoPath is illegal"
+  },
+  "openCustomerServiceChat": {
+    "errCode": 1,
+    "errMsg": "openCustomerServiceChat:fail url empty"
+  },
+  "openSetting": {
+    "errMsg": "openSetting:ok",
+    "authSetting": {
+      "scope.userLocation": true,
+      "scope.bluetooth": true,
+      "scope.camera": true,
+      "scope.record": true,
+      "scope.addPhoneContact": true,
+      "scope.addPhoneCalendar": true
+    }
+  },
+  "shareFileMessage": {
+    "errMsg": "shareFileMessage:fail :filePath is illegal"
+  },
+  "chooseLicensePlate": { "errMsg": "chooseLicensePlate:fail cancel" },
+  "publishWeChatState": {
+    "errMsg": "publishWeChatState:fail should only called after a successful payment"
+  },
+  "addVideoToFavorites": {
+    "errMsg": "addVideoToFavorites:fail:videoPath is illegal"
+  },
+  "addPhoneCalendar": {
+    "errMsg": "addPhoneCalendar:fail:wrong format:title or startTime"
+  },
+  "getFuzzyLocation": {
+    "errMsg": "getFuzzyLocation:fail the api need to be declared in the requiredPrivateInfos field in app.json/ext.json"
+  },
+  "chooseLocation": {
+    "errMsg": "chooseLocation:fail the api need to be declared in the requiredPrivateInfos field in app.json/ext.json"
+  },
+  "choosePoi": {
+    "errMsg": "choosePoi:fail the api need to be declared in the requiredPrivateInfos field in app.json/ext.json"
+  },
+  "bindGroup": { "errno": 102, "errMsg": "bindGroup:fail:access denied" },
+  "issueTrafficCard": {
+    "errno": 102,
+    "errMsg": "issueTrafficCard:fail:access denied"
+  },
+  "openChannelsCreateContact": {
+    "errno": 102,
+    "errMsg": "openChannelsCreateContact:fail:access denied"
+  },
+  "getStorageInfo": {
+    "limitSize": 10486,
+    "keys": [],
+    "errMsg": "getStorageInfo:ok",
+    "currentSize": 0
+  },
+  "stopRecord": { "errMsg": "stopRecord:ok" },
+  "showShareActionSheet": {
+    "errno": 102,
+    "errMsg": "showShareActionSheet:fail:access denied"
+  },
+  "chooseShareGroup": {
+    "errno": 102,
+    "errMsg": "chooseShareGroup:fail:access denied"
+  },
+  "chooseMultiMedia": {
+    "errno": 102,
+    "errMsg": "chooseMultiMedia:fail:access denied"
+  },
+  "startWifi": { "errno": 0, "errCode": 0, "errMsg": "startWifi:ok" },
+  "openWCPayOverseaPaymentReceive": {
+    "errno": 102,
+    "errMsg": "openWCPayOverseaPaymentReceive:fail:access denied"
+  },
+  "requestVerifyUserIdentity": {
+    "errno": 102,
+    "errMsg": "requestVerifyUserIdentity:fail:access denied"
+  },
+  "chooseWeChatContact": {
+    "errno": 102,
+    "errMsg": "chooseWeChatContact:fail:access denied"
+  },
+  "faceVerifyForPay": {
+    "errno": 102,
+    "errMsg": "faceVerifyForPay:fail:access denied"
+  },
+  "joinGroup": { "errno": 102, "errMsg": "joinGroup:fail:access denied" },
+  "login": {
+    "errno": 0,
+    "code": "0b2ofFkl2FPxxd4IdAnl274cWO2ofFkF",
+    "errMsg": "login:ok"
+  },
+  "faceDetect": {
+    "errMsg": "faceDetect:fail face detection does not initialize",
+    "errCode": 3,
+    "errno": 2002001
+  },
+  "openDeliveryList": {
+    "errno": 102,
+    "errMsg": "openDeliveryList:fail:access denied"
+  },
+  "launchApplicationForNative": {
+    "errno": 102,
+    "errMsg": "launchApplicationForNative:fail:access denied"
+  },
+  "hideTabBar": { "errMsg": "hideTabBar:fail:not TabBar page" },
+  "openSelectPayment": {
+    "errno": 102,
+    "errMsg": "openSelectPayment:fail:access denied"
+  },
+  "setVisualEffectOnCapture": {
+    "errno": 0,
+    "errMsg": "setVisualEffectOnCapture:ok"
+  },
+  "setLabInfo": { "errno": 102, "errMsg": "setLabInfo:fail:access denied" },
+  "queryTrafficCardInfo": {
+    "errno": 102,
+    "errMsg": "queryTrafficCardInfo:fail:access denied"
+  },
+  "connectWifi": {
+    "errno": 1505021,
+    "errCode": 12011,
+    "errMsg": "connectWifi:fail:weapp in background"
+  },
+  "openChannelsLive": {
+    "errMsg": "openChannelsLive:fail getChannelsLiveInfo:fail:"
+  },
+  "compressVideo": { "errMsg": "compressVideo:fail:src path not be supported" },
+  "navigateBackNative": {
+    "errno": 102,
+    "errMsg": "navigateBackNative:fail:access denied"
+  },
+  "checkIsSoterEnrolledInDevice": {
+    "isEnrolled": false,
+    "errMsg": "checkIsSoterEnrolledInDevice:fail not support"
+  },
+  "closeBluetoothAdapter": { "errno": 0, "errMsg": "closeBluetoothAdapter:ok" },
+  "notifyBLECharacteristicValueChanged": {
+    "errno": 1500101,
+    "errCode": 10000,
+    "errMsg": "notifyBLECharacteristicValueChanged:fail:not init"
+  },
+  "makeVoIPCall": { "errno": 102, "errMsg": "makeVoIPCall:fail:access denied" },
+  "requestH5Transaction": { "errMsg": "requestH5Transaction:ok" },
+  "requestEntrustAuthorization": {
+    "errno": 102,
+    "errMsg": "requestEntrustAuthorization:fail:access denied"
+  },
+  "vibrateShort": { "errMsg": "vibrateShort:fail:not allowed in background" },
+  "compressImage": {
+    "errno": 1103002,
+    "errMsg": "compressImage:fail:file doesn't exist"
+  },
+  "secureTunnel": { "errno": 102, "errMsg": "secureTunnel:fail:access denied" },
+  "setBLEMTU": {
+    "errno": 1500101,
+    "errCode": 10000,
+    "errMsg": "setBLEMTU:fail:not init"
+  },
+  "startPullDownRefresh": { "errMsg": "startPullDownRefresh:ok" },
+  "rechargeTrafficCard": {
+    "errno": 102,
+    "errMsg": "rechargeTrafficCard:fail:access denied"
+  },
+  "hideHomeButton": { "errMsg": "hideHomeButton:ok" },
+  "requestBizSplitBillPayment": {
+    "errno": 102,
+    "errMsg": "requestBizSplitBillPayment:fail:access denied"
+  },
+  "createBLEConnection": {
+    "errno": 1500101,
+    "errCode": 10000,
+    "errMsg": "createBLEConnection:fail:not init"
+  },
+  "openChannelsActivity": {
+    "errMsg": "openChannelsActivity:fail getChannelsLiveInfo:fail:"
+  },
+  "openQRCode": { "errno": 102, "errMsg": "openQRCode:fail:access denied" },
+  "setTabBarStyle": { "errMsg": "setTabBarStyle:fail:not TabBar page" },
+  "getSetting": {
+    "errMsg": "getSetting:ok",
+    "authSetting": {
+      "scope.camera": true,
+      "scope.record": true,
+      "scope.userLocation": true,
+      "scope.bluetooth": true,
+      "scope.addPhoneContact": true,
+      "scope.addPhoneCalendar": true,
+      "scope.address": true,
+      "scope.invoice": true,
+      "scope.invoiceTitle": true,
+      "scope.userInfo": true
+    }
+  },
+  "getSavedFileList": { "errMsg": "getSavedFileList:ok", "fileList": [] },
+  "updatePerfData": { "errMsg": "updatePerfData:fail" },
+  "getScreenBrightness": {
+    "errMsg": "getScreenBrightness:ok",
+    "value": 0.10980392
+  },
+  "pauseVoice": { "errMsg": "pauseVoice:ok" },
+  "verifyPaymentPassword": {
+    "errno": 102,
+    "errMsg": "verifyPaymentPassword:fail:access denied"
+  },
+  "getLabInfo": { "errno": 102, "errMsg": "getLabInfo:fail:access denied" },
+  "setScreenBrightness": {
+    "errMsg": "setScreenBrightness:fail: value invalid"
+  },
+  "getImageInfo": { "errMsg": "getImageInfo:fail:file not found" },
+  "bindPaymentCard": {
+    "errno": 102,
+    "errMsg": "bindPaymentCard:fail:access denied"
+  },
+  "startCustomFacialRecognitionVerify": {
+    "errno": 102,
+    "errMsg": "startCustomFacialRecognitionVerify:fail:access denied"
+  },
+  "readBLECharacteristicValue": {
+    "errno": 1500101,
+    "errCode": 10000,
+    "errMsg": "readBLECharacteristicValue:fail:not init"
+  },
+  "requestPaymentToBank": {
+    "errno": 102,
+    "errMsg": "requestPaymentToBank:fail:access denied"
+  },
+  "handleWCPayOverseaWalletBuffer": {
+    "errno": 102,
+    "errMsg": "handleWCPayOverseaWalletBuffer:fail:access denied"
+  },
+  "setStorage": { "errMsg": "setStorage:ok" },
+  "getBackgroundFetchToken": {
+    "errMsg": "getBackgroundFetchToken:ok",
+    "token": "test"
+  },
+  "getLocation": {
+    "verticalAccuracy": 0,
+    "indoorLocationType": -1,
+    "provider": "network",
+    "latitude": 43.478,
+    "errMsg": "getLocation:ok",
+    "accuracy": 15,
+    "horizontalAccuracy": 15,
+    "type": "wgs84",
+    "steps": 0,
+    "speed": 0,
+    "longitude": -80.5155,
+    "direction": 0
+  },
+  "showTabBar": { "errMsg": "showTabBar:fail:not TabBar page" },
+  "exitVoIPChat": { "errMsg": "exitVoIPChat:ok", "errCode": 0 },
+  "getConnectedWifi": {
+    "wifi": {
+      "SSID": "HardOnes",
+      "BSSID": "1c:93:7c:de:d9:b9",
+      "signalStrength": 99,
+      "frequency": 5220
+    },
+    "errno": 0,
+    "errCode": 0,
+    "errMsg": "getConnectedWifi:ok"
+  },
+  "startFacialRecognitionVerifyAndUploadVideo": {
+    "errno": 102,
+    "errMsg": "startFacialRecognitionVerifyAndUploadVideo:fail:access denied"
+  },
+  "preloadWebview": { "errMsg": "preloadWebview:ok" },
+  "getInferenceEnvInfo": {
+    "ver": "1.13.0",
+    "errno": 0,
+    "errMsg": "getInferenceEnvInfo:ok"
+  },
+  "checkIsSupportFacialRecognition": {
+    "errno": 102,
+    "errMsg": "checkIsSupportFacialRecognition:fail:access denied"
+  },
+  "getBLEDeviceRSSI": {
+    "errCode": 10000,
+    "errno": 1500101,
+    "errMsg": "getBLEDeviceRSSI:fail:not init"
+  },
+  "isBluetoothDevicePaired": {
+    "errno": 101,
+    "errMsg": "isBluetoothDevicePaired:fail:invalid data"
+  },
+  "checkTrafficCardConditions": {
+    "errno": 102,
+    "errMsg": "checkTrafficCardConditions:fail:access denied"
+  },
+  "getBeacons": { "errMsg": "getBeacons:ok", "beacons": [] },
+  "setDefaultTrafficCard": {
+    "errno": 102,
+    "errMsg": "setDefaultTrafficCard:fail:access denied"
+  },
+  "getBluetoothDevices": {
+    "errno": 1500101,
+    "errCode": 10000,
+    "errMsg": "getBluetoothDevices:fail:not init"
+  },
+  "checkIsSupportSoterAuthentication": {
+    "errMsg": "checkIsSupportSoterAuthentication:ok",
+    "supportMode": []
+  },
+  "cropImage": {
+    "errno": 107,
+    "errMsg": "cropImage:fail:jsapi returns empty data"
+  },
+  "requestMedicalInsurancePay": {
+    "errno": 102,
+    "errMsg": "requestMedicalInsurancePay:fail:access denied"
+  },
+  "addNativeDownloadTask": {
+    "errno": 102,
+    "errMsg": "addNativeDownloadTask:fail:access denied"
+  },
+  "editImage": {
+    "errno": 101,
+    "errMsg": "editImage:fail:Parse imageUrl fail, maybe imageUrl is illegal?"
+  },
+  "checkIsOpenAccessibility": {
+    "errMsg": "checkIsOpenAccessibility:ok",
+    "open": false
+  },
+  "setBackgroundFetchToken": { "errMsg": "setBackgroundFetchToken:ok" },
+  "stopVoice": { "errMsg": "stopVoice:ok" },
+  "getConnectedBluetoothDevices": {
+    "errno": 1500101,
+    "errCode": 10000,
+    "errMsg": "getConnectedBluetoothDevices:fail:not init"
+  },
+  "getBLEDeviceCharacteristics": {
+    "errno": 1500101,
+    "errCode": 10000,
+    "errMsg": "getBLEDeviceCharacteristics:fail:not init"
+  },
+  "reportAction": { "errMsg": "reportAction:ok" },
+  "closeBLEConnection": {
+    "errno": 1500101,
+    "errCode": 10000,
+    "errMsg": "closeBLEConnection:fail:not init"
+  },
+  "startCustomFacialRecognitionVerifyAndUploadVideo": {
+    "errno": 102,
+    "errMsg": "startCustomFacialRecognitionVerifyAndUploadVideo:fail:access denied"
+  },
+  "getNetworkType": {
+    "hasSystemProxy": false,
+    "signalStrength": -54,
+    "errMsg": "getNetworkType:ok",
+    "networkType": "wifi"
+  },
+  "uploadEncryptedFileToCDN": {
+    "errno": 102,
+    "errMsg": "uploadEncryptedFileToCDN:fail:access denied"
+  },
+  "openOfflinePayView": {
+    "errno": 102,
+    "errMsg": "openOfflinePayView:fail:access denied"
+  },
+  "requestPersonalPay": {
+    "errno": 102,
+    "errMsg": "requestPersonalPay:fail:access denied"
+  },
+  "stopBeaconDiscovery": {
+    "errCode": 11004,
+    "errMsg": "stopBeaconDiscovery:fail:not start"
+  },
+  "stopWifi": { "errno": 0, "errCode": 0, "errMsg": "stopWifi:ok" },
+  "getVideoInfo": { "errMsg": "getVideoInfo:fail:src path not be supported" },
+  "getBLEDeviceServices": {
+    "errno": 1500101,
+    "errCode": 10000,
+    "errMsg": "getBLEDeviceServices:fail:not init"
+  },
+  "stopPullDownRefresh": { "errMsg": "stopPullDownRefresh:ok" },
+  "startFacialRecognitionVerify": {
+    "errno": 102,
+    "errMsg": "startFacialRecognitionVerify:fail:access denied"
+  },
+  "openUserProfile": {
+    "errno": 102,
+    "errMsg": "openUserProfile:fail:access denied"
+  },
+  "launchMiniProgram": {
+    "errno": 102,
+    "errMsg": "launchMiniProgram:fail:access denied"
+  },
+  "reserveChannelsLive": {
+    "errMsg": "reserveChannelsLive:fail:pre check fail, errCode=-200002",
+    "state": 0
+  },
+  "getWifiList": { "errno": 0, "errCode": 0, "errMsg": "getWifiList:ok" },
+  "setClipboardData": { "errMsg": "setClipboardData:ok" },
+  "getClipboardData": { "data": "", "errMsg": "getClipboardData:ok" },
+  "getSystemInfoAsync": {
+    "screenWidth": 412,
+    "cpuType": "Qualcomm Technologies, Inc LITO",
+    "phoneCalendarAuthorized": true,
+    "windowHeight": 767,
+    "bluetoothEnabled": true,
+    "errMsg": "getSystemInfoAsync:ok",
+    "language": "en",
+    "microphoneAuthorized": true,
+    "fontSizeScaleFactor": 1,
+    "locationAuthorized": true,
+    "notificationAuthorized": true,
+    "model": "Pixel 4a (5G)",
+    "statusBarHeight": 52,
+    "safeArea": {
+      "width": 412,
+      "right": 412,
+      "top": 52,
+      "left": 0,
+      "bottom": 868,
+      "height": 816
+    },
+    "brand": "google",
+    "windowWidth": 412,
+    "locationEnabled": true,
+    "benchmarkLevel": 22,
+    "screenHeight": 868,
+    "abi": "arm64-v8a",
+    "version": "8.0.47",
+    "cameraAuthorized": true,
+    "deviceAbi": "arm64-v8a",
+    "system": "Android 13",
+    "memorySize": 5462,
+    "fontSizeSetting": 16,
+    "pixelRatio": 2.625,
+    "deviceOrientation": "portrait",
+    "wifiEnabled": true,
+    "screenTop": 101,
+    "platform": "android",
+    "SDKVersion": "3.3.5",
+    "enableDebug": false,
+    "devicePixelRatio": 2.625,
+    "host": { "env": "WeChat", "version": 671100753 },
+    "mode": "default"
+  },
+  "getStorage": {
+    "data": "",
+    "dataType": "",
+    "errMsg": "getStorage:fail :data not found"
+  },
+  "showShareMenu": { "errMsg": "showShareMenu:ok" },
+  "sendSms": { "errno": 0, "errMsg": "sendSms:ok" },
+  "publishWechatStateActivity": {
+    "errMsg": "publishWechatStateActivity:fail should only called after a successful payment"
+  },
+  "postMessageToReferrerMiniProgram": {
+    "errno": 301004,
+    "errMsg": "postMessageToReferrerMiniProgram:fail :require miniprogram navigation"
+  },
+  "openChannelsUserProfile": {
+    "errno": 1416100,
+    "errMsg": "openChannelsUserProfile:fail"
+  },
+  "createBLEPeripheralServer": {
+    "errno": 0,
+    "errCode": 0,
+    "errMsg": "createBLEPeripheralServer:ok",
+    "server": { "serverId": 737860403, "services": [] }
+  },
+  "openBluetoothAdapter": { "errno": 0, "errMsg": "openBluetoothAdapter:ok" },
+  "getWCPayOverseaPrepayRequest": {
+    "errMsg": "getWCPayOverseaPrepayRequest:fail cancel"
+  },
+  "requestMerchantTransfer": {
+    "result": "fail",
+    "errno": 4,
+    "errMsg": "requestMerchantTransfer:fail:internal error"
+  },
+  "chooseInvoice": { "errMsg": "chooseInvoice:fail:internal error" },
+  "makePhoneCall": { "errMsg": "makePhoneCall:ok" },
+  "hideNavigationBarLoading": { "errMsg": "hideNavigationBarLoading:ok" },
+  "showNavigationBarLoading": { "errMsg": "showNavigationBarLoading:ok" },
+  "setNavigationBarTitle": { "errMsg": "setNavigationBarTitle:ok" },
+  "scanCode": { "errMsg": "scanCode:fail cancel" },
+  "hideToast": { "errMsg": "hideToast:ok" },
+  "chooseImage": { "errMsg": "chooseImage:fail cancel" },
+  "openChannelsLiveCollection": {
+    "errno": 0,
+    "errMsg": "openChannelsLiveCollection:ok"
+  },
+  "chooseInvoiceTitle": { "errMsg": "chooseInvoiceTitle:fail cancel" },
+  "chooseContact": { "errMsg": "chooseContact:fail cancel" },
+  "chooseMedia": { "errMsg": "chooseMedia:fail cancel" },
+  "chooseVideo": { "errMsg": "chooseVideo:fail user canceled" },
+  "saveVideoToPhotosAlbum": {
+    "errMsg": "saveVideoToPhotosAlbum:fail filePath invalid"
+  },
+  "saveImageToPhotosAlbum": {
+    "errMsg": "saveImageToPhotosAlbum:fail file not exists"
+  },
+  "showModal": { "confirm": true, "cancel": false, "errMsg": "showModal:ok" },
+  "startRecord": {
+    "errMsg": "startRecord:fail:audio is recording, don't start record again"
+  },
+  "addPhoneContact": { "errMsg": "addPhoneContact:fail cancel" }
+}

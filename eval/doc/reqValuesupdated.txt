@@ -1,0 +1,1201 @@
+wx.env
+wx.canIUse
+wx.base64ToArrayBuffer
+wx.arrayBufferToBase64
+wx.openSystemBluetoothSetting
+wx.openAppAuthorizeSetting
+wx.getWindowInfo
+wx.getSystemSetting
+wx.getSystemInfoSync
+wx.getSystemInfoAsync
+wx.getSystemInfo
+wx.getSkylineInfoSync
+wx.getSkylineInfo
+wx.getRendererUserAgent
+wx.getDeviceInfo
+wx.getAppBaseInfo
+wx.getAppAuthorizeSetting
+wx.updateWeChatApp
+wx.getUpdateManager
+UpdateManager
+UpdateManager.applyUpdate
+UpdateManager.onCheckForUpdate
+UpdateManager.onUpdateFailed
+UpdateManager.onUpdateReady
+wx.onApiCategoryChange
+wx.offApiCategoryChange
+wx.getLaunchOptionsSync
+wx.getEnterOptionsSync
+wx.getApiCategory
+wx.onUnhandledRejection
+wx.onThemeChange
+wx.onPageNotFound
+wx.onLazyLoadError
+wx.onError
+wx.onAudioInterruptionEnd
+wx.onAudioInterruptionBegin
+wx.onAppShow
+wx.onAppHide
+wx.offUnhandledRejection
+wx.offThemeChange
+wx.offPageNotFound
+wx.offLazyLoadError
+wx.offError
+wx.offAudioInterruptionEnd
+wx.offAudioInterruptionBegin
+wx.offAppShow
+wx.offAppHide
+wx.setEnableDebug enableDebug:True
+wx.getRealtimeLogManager
+wx.getLogManager
+console
+console.debug
+console.error
+console.group
+console.groupEnd
+console.info
+console.log
+console.warn
+LogManager
+LogManager.debug
+LogManager.info
+LogManager.log
+LogManager.warn
+RealtimeLogManager
+RealtimeLogManager.addFilterMsg
+RealtimeLogManager.error
+RealtimeLogManager.getCurrentState
+RealtimeLogManager.in
+RealtimeLogManager.info
+RealtimeLogManager.setFilterMsg
+RealtimeLogManager.tag
+RealtimeLogManager.warn
+RealtimeTagLogManager
+RealtimeTagLogManager.addFilterMsg
+RealtimeTagLogManager.error
+RealtimeTagLogManager.info
+RealtimeTagLogManager.setFilterMsg
+RealtimeTagLogManager.warn
+wx.reportPerformance
+wx.preloadWebview
+wx.preloadSkylineView
+wx.preloadAssets data:[]
+wx.getPerformance
+EntryList
+EntryList.getEntries
+EntryList.getEntriesByName
+EntryList.getEntriesByType
+Performance
+Performance.createObserver
+Performance.getEntries
+Performance.getEntriesByName
+Performance.getEntriesByType
+Performance.setBufferSize
+PerformanceEntry
+PerformanceObserver
+PerformanceObserver.disconnect
+PerformanceObserver.observe
+wx.preDownloadSubpackage packageType:"test",success:None,fail:None,complete:None
+PreDownloadSubpackageTask
+PreDownloadSubpackageTask.onProgressUpdate
+wx.getUserCryptoManager
+UserCryptoManager
+UserCryptoManager.getLatestUserKey
+UserCryptoManager.getRandomValues length:1
+wx.switchTab url:"test"
+wx.reLaunch url:"test"
+wx.redirectTo url:"test"
+wx.navigateTo url:"test"
+wx.navigateBack
+EventChannel
+EventChannel.emit
+EventChannel.off
+EventChannel.on
+EventChannel.once
+wx.router
+router.addRouteBuilder
+router.getRouteContext
+router.removeRouteBuilder
+wx.restartMiniProgram path:"test"
+wx.openEmbeddedMiniProgram appId:"test"
+wx.onEmbeddedMiniProgramHeightChange
+wx.offEmbeddedMiniProgramHeightChange
+wx.navigateToMiniProgram
+wx.navigateBackMiniProgram
+wx.exitMiniProgram
+wx.updateShareMenu
+wx.showShareMenu
+wx.showShareImageMenu path:"test"
+wx.shareVideoMessage videoPath:"test"
+wx.shareFileMessage filePath:"test"
+wx.onCopyUrl
+wx.offCopyUrl
+wx.hideShareMenu
+wx.getShareInfo shareTicket:"test"
+wx.authPrivateMessage shareTicket:"test"
+wx.showToast title:"test"
+wx.showModal
+wx.showLoading title:"test"
+wx.showActionSheet itemList:[]
+wx.hideToast
+wx.hideLoading
+wx.enableAlertBeforeUnload message:"test"
+wx.disableAlertBeforeUnload
+wx.showNavigationBarLoading
+wx.setNavigationBarTitle title:"test"
+wx.setNavigationBarColor frontColor:"test",backgroundColor:"test"
+wx.hideNavigationBarLoading
+wx.hideHomeButton
+wx.setBackgroundTextStyle textStyle:"test"
+wx.setBackgroundColor
+wx.showTabBarRedDot index:1
+wx.showTabBar
+wx.setTabBarStyle
+wx.setTabBarItem index:1
+wx.setTabBarBadge index:1,text:"test"
+wx.removeTabBarBadge index:1
+wx.hideTabBarRedDot index:1
+wx.hideTabBar
+wx.stopPullDownRefresh
+wx.startPullDownRefresh
+wx.pageScrollTo
+ScrollViewContext
+ScrollViewContext.closeRefresh
+ScrollViewContext.closeTwoLevel
+ScrollViewContext.scrollIntoView
+ScrollViewContext.scrollTo
+ScrollViewContext.triggerRefresh
+ScrollViewContext.triggerTwoLevel
+wx.createAnimation
+Animation
+Animation.backgroundColor
+Animation.bottom
+Animation.export
+Animation.height
+Animation.left
+Animation.matrix
+Animation.matrix3d
+Animation.opacity
+Animation.right
+Animation.rotate
+Animation.rotate3d
+Animation.rotateX
+Animation.rotateY
+Animation.rotateZ
+Animation.scale
+Animation.scale3d
+Animation.scaleX
+Animation.scaleY
+Animation.scaleZ
+Animation.skew
+Animation.skewX
+Animation.skewY
+Animation.step
+Animation.top
+Animation.translate
+Animation.translate3d
+Animation.translateX
+Animation.translateY
+Animation.translateZ
+Animation.width
+wx.setTopBarText text:"test"
+wx.nextTick
+wx.getMenuButtonBoundingClientRect
+wx.setWindowSize width:1,height:1
+wx.onWindowResize
+wx.offWindowResize
+wx.checkIsPictureInPictureActive
+wx.worklet
+worklet.cancelAnimation
+worklet.derived
+worklet.shared
+worklet.decay
+worklet.Easing
+worklet.spring
+worklet.timing
+worklet.delay
+worklet.repeat
+worklet.sequence
+worklet.runOnJS
+worklet.runOnUI
+wx.request url:"test"
+RequestTask
+RequestTask.abort
+RequestTask.offChunkReceived
+RequestTask.offHeadersReceived
+RequestTask.onChunkReceived
+RequestTask.onHeadersReceived
+wx.downloadFile url:"test"
+DownloadTask
+DownloadTask.abort
+DownloadTask.offHeadersReceived
+DownloadTask.offProgressUpdate
+DownloadTask.onHeadersReceived
+DownloadTask.onProgressUpdate
+wx.uploadFile url:"test",filePath:"test",name:"test"
+UploadTask
+UploadTask.abort
+UploadTask.offHeadersReceived
+UploadTask.offProgressUpdate
+UploadTask.onHeadersReceived
+UploadTask.onProgressUpdate
+wx.sendSocketMessage
+wx.onSocketOpen
+wx.onSocketMessage
+wx.onSocketError
+wx.onSocketClose
+wx.connectSocket url:"test"
+wx.closeSocket
+SocketTask
+SocketTask.close
+SocketTask.onClose
+SocketTask.onError
+SocketTask.onMessage
+SocketTask.onOpen
+SocketTask.send
+wx.stopLocalServiceDiscovery
+wx.startLocalServiceDiscovery serviceType:"test"
+wx.onLocalServiceResolveFail
+wx.onLocalServiceLost
+wx.onLocalServiceFound
+wx.onLocalServiceDiscoveryStop
+wx.offLocalServiceResolveFail
+wx.offLocalServiceLost
+wx.offLocalServiceFound
+wx.offLocalServiceDiscoveryStop
+wx.createTCPSocket
+TCPSocket
+TCPSocket.bindWifi
+TCPSocket.close
+TCPSocket.connect
+TCPSocket.offBindWifi
+TCPSocket.offClose
+TCPSocket.offConnect
+TCPSocket.offError
+TCPSocket.offMessage
+TCPSocket.onBindWifi
+TCPSocket.onClose
+TCPSocket.onConnect
+TCPSocket.onError
+TCPSocket.onMessage
+TCPSocket.write
+wx.createUDPSocket
+UDPSocket
+UDPSocket.bind
+UDPSocket.close
+UDPSocket.connect address:"test",port:1
+UDPSocket.offClose
+UDPSocket.offError
+UDPSocket.offListening
+UDPSocket.offMessage
+UDPSocket.onClose
+UDPSocket.onError
+UDPSocket.onListening
+UDPSocket.onMessage
+UDPSocket.send address:"test",port:1
+UDPSocket.setTTL
+UDPSocket.write
+wx.requestVirtualPayment signData:{},mode:"test",paySig:"test",signature:"test"
+wx.requestScanPOSPay timeStamp:"test",nonceStr:"test",package:"test",paySign:"test"
+wx.requestPluginPayment version:"test",fee:1,paymentArgs:{}
+wx.requestPayment timeStamp:"test",nonceStr:"test",package:"test",paySign:"test"
+wx.setStorageSync
+wx.setStorage key:"test"
+wx.revokeBufferURL
+wx.removeStorageSync
+wx.removeStorage key:"test"
+wx.getStorageSync
+wx.getStorageInfoSync
+wx.getStorageInfo
+wx.getStorage key:"test"
+wx.createBufferURL
+wx.clearStorageSync
+wx.clearStorage
+wx.batchSetStorageSync
+wx.batchGetStorageSync
+wx.batchGetStorage keyList:[]
+wx.setBackgroundFetchToken
+wx.onBackgroundFetchData
+wx.getBackgroundFetchToken
+wx.getBackgroundFetchData
+wx.createCacheManager
+CacheManager
+CacheManager.addRule
+CacheManager.addRules
+CacheManager.clearCaches
+CacheManager.clearRules
+CacheManager.deleteCache
+CacheManager.deleteCaches
+CacheManager.deleteRule
+CacheManager.deleteRules
+CacheManager.match
+CacheManager.off
+CacheManager.on
+CacheManager.start
+CacheManager.stop
+wx.reportMonitor
+wx.reportEvent
+wx.reportAnalytics
+wx.getExptInfoSync
+wx.getCommonConfig mode:1
+guide
+modules
+modules
+modules
+modules
+modules
+modules
+modules
+modules
+modules
+modules
+modules
+modules
+modules
+modules
+modules
+modules
+modules
+modules
+modules
+modules
+modules
+modules
+modules
+modules
+modules
+modules
+modules
+modules
+modules
+modules
+modules
+modules
+modules
+modules
+modules
+modules
+modules
+modules
+modules
+modules
+modules
+modules
+modules
+modules
+modules
+modules
+modules
+modules
+modules
+modules
+modules
+modules
+modules
+modules
+modules
+modules
+modules
+modules
+modules
+modules
+modules
+modules
+modules
+modules
+modules
+modules
+modules
+modules
+modules
+modules
+modules
+modules
+modules
+modules
+modules
+modules
+modules
+modules
+modules
+modules
+modules
+wx.createOffscreenCanvas
+wx.createCanvasContext
+wx.canvasToTempFilePath
+wx.canvasPutImageData canvasId:"test",x:1,y:1,width:1,height:1
+wx.canvasGetImageData canvasId:"test",x:1,y:1,width:1,height:1
+Canvas
+Canvas.cancelAnimationFrame
+Canvas.createImage
+Canvas.createImageData
+Canvas.createPath2D
+Canvas.getContext
+Canvas.requestAnimationFrame
+Canvas.toDataURL
+CanvasContext
+CanvasContext.arc
+CanvasContext.arcTo
+CanvasContext.beginPath
+CanvasContext.bezierCurveTo
+CanvasContext.clearRect
+CanvasContext.clip
+CanvasContext.closePath
+CanvasContext.createCircularGradient
+CanvasContext.createLinearGradient
+CanvasContext.createPattern
+CanvasContext.draw
+CanvasContext.drawImage
+CanvasContext.fill
+CanvasContext.fillRect
+CanvasContext.fillText
+CanvasContext.lineTo
+CanvasContext.measureText
+CanvasContext.moveTo
+CanvasContext.quadraticCurveTo
+CanvasContext.rect
+CanvasContext.restore
+CanvasContext.rotate
+CanvasContext.save
+CanvasContext.scale
+CanvasContext.setFillStyle
+CanvasContext.setFontSize
+CanvasContext.setGlobalAlpha
+CanvasContext.setLineCap
+CanvasContext.setLineDash
+CanvasContext.setLineJoin
+CanvasContext.setLineWidth
+CanvasContext.setMiterLimit
+CanvasContext.setShadow
+CanvasContext.setStrokeStyle
+CanvasContext.setTextAlign
+CanvasContext.setTextBaseline
+CanvasContext.setTransform
+CanvasContext.stroke
+CanvasContext.strokeRect
+CanvasContext.strokeText
+CanvasContext.transform
+CanvasContext.translate
+CanvasGradient
+CanvasGradient.addColorStop
+Color
+Image
+ImageData
+OffscreenCanvas
+OffscreenCanvas.createImage
+OffscreenCanvas.getContext
+Path2D
+Path2D.addPath
+Path2D.arc
+Path2D.arcTo
+Path2D.bezierCurveTo
+Path2D.closePath
+Path2D.ellipse
+Path2D.lineTo
+Path2D.moveTo
+Path2D.quadraticCurveTo
+Path2D.rect
+RenderingContext
+wx.createMapContext
+MapContext
+MapContext.addArc id:1,start:{},end:{}
+MapContext.addCustomLayer layerId:"test"
+MapContext.addGroundOverlay bounds:{}
+MapContext.addVisualLayer
+MapContext.eraseLines lines:[]
+MapContext.executeVisualLayerCommand layerId:"test",command:"test"
+MapContext.fromScreenLocation
+MapContext.getCenterLocation
+MapContext.getRegion
+MapContext.getRotate
+MapContext.getScale
+MapContext.getSkew
+MapContext.includePoints points:[]
+MapContext.initMarkerCluster
+MapContext.moveToLocation
+MapContext.on
+MapContext.openMapApp
+MapContext.removeArc id:1
+MapContext.removeCustomLayer layerId:"test"
+MapContext.removeGroundOverlay
+MapContext.removeVisualLayer layerId:"test"
+MapContext.setBoundary southwest:{},northeast:{}
+MapContext.setCenterOffset offset:[]
+MapContext.setLocMarkerIcon
+MapContext.toScreenLocation
+MapContext.translateMarker markerId:1,destination:{},autoRotate:True,rotate:1
+MapContext.updateGroundOverlay bounds:{}
+wx.saveImageToPhotosAlbum filePath:"test"
+wx.previewMedia sources:[]
+wx.previewImage urls:[]
+wx.getImageInfo src:"test"
+wx.editImage src:"test"
+wx.cropImage src:"test",cropScale:"test"
+wx.compressImage src:"test"
+wx.chooseMessageFile count:1
+wx.chooseImage
+wx.saveVideoToPhotosAlbum filePath:"test"
+wx.openVideoEditor filePath:"test",minDuration:"test",maxDuration:"test"
+wx.getVideoInfo src:"test"
+wx.createVideoContext
+wx.compressVideo src:"test",bitrate:1,fps:1,resolution:1
+wx.chooseVideo
+wx.chooseMedia
+VideoContext
+VideoContext.exitBackgroundPlayback
+VideoContext.exitCasting
+VideoContext.exitFullScreen
+VideoContext.exitPictureInPicture
+VideoContext.hideStatusBar
+VideoContext.pause
+VideoContext.play
+VideoContext.playbackRate
+VideoContext.reconnectCasting
+VideoContext.requestBackgroundPlayback
+VideoContext.requestFullScreen
+VideoContext.seek
+VideoContext.sendDanmu
+VideoContext.showStatusBar
+VideoContext.startCasting
+VideoContext.stop
+VideoContext.switchCasting
+wx.stopVoice
+wx.setInnerAudioOption
+wx.playVoice filePath:"test"
+wx.pauseVoice
+wx.getAvailableAudioSources
+wx.createWebAudioContext
+wx.createMediaAudioPlayer
+wx.createInnerAudioContext
+wx.createAudioContext
+AudioBuffer
+AudioBuffer.copyFromChannel
+AudioBuffer.copyToChannel
+AudioBuffer.getChannelData
+AudioContext
+AudioContext.pause
+AudioContext.play
+AudioContext.seek
+AudioContext.setSrc
+AudioParam
+BufferSourceNode
+BufferSourceNode.connect
+BufferSourceNode.disconnect
+BufferSourceNode.start
+BufferSourceNode.stop
+InnerAudioContext
+InnerAudioContext.destroy
+InnerAudioContext.offCanplay
+InnerAudioContext.offEnded
+InnerAudioContext.offError
+InnerAudioContext.offPause
+InnerAudioContext.offPlay
+InnerAudioContext.offSeeked
+InnerAudioContext.offSeeking
+InnerAudioContext.offStop
+InnerAudioContext.offTimeUpdate
+InnerAudioContext.offWaiting
+InnerAudioContext.onCanplay
+InnerAudioContext.onEnded
+InnerAudioContext.onError
+InnerAudioContext.onPause
+InnerAudioContext.onPlay
+InnerAudioContext.onSeeked
+InnerAudioContext.onSeeking
+InnerAudioContext.onStop
+InnerAudioContext.onTimeUpdate
+InnerAudioContext.onWaiting
+InnerAudioContext.pause
+InnerAudioContext.play
+InnerAudioContext.seek
+InnerAudioContext.stop
+MediaAudioPlayer
+MediaAudioPlayer.addAudioSource
+MediaAudioPlayer.destroy
+MediaAudioPlayer.removeAudioSource
+MediaAudioPlayer.start
+MediaAudioPlayer.stop
+WebAudioContext
+WebAudioContext.close
+WebAudioContext.createAnalyser
+WebAudioContext.createBiquadFilter
+WebAudioContext.createBuffer
+WebAudioContext.createBufferSource
+WebAudioContext.createChannelMerger
+WebAudioContext.createChannelSplitter
+WebAudioContext.createConstantSource
+WebAudioContext.createDelay
+WebAudioContext.createDynamicsCompressor
+WebAudioContext.createGain
+WebAudioContext.createIIRFilter
+WebAudioContext.createOscillator
+WebAudioContext.createPanner
+WebAudioContext.createPeriodicWave
+WebAudioContext.createScriptProcessor
+WebAudioContext.createWaveShaper
+WebAudioContext.decodeAudioData
+WebAudioContext.resume
+WebAudioContext.suspend
+WebAudioContextNode
+wx.stopBackgroundAudio
+wx.seekBackgroundAudio position:1
+wx.playBackgroundAudio dataUrl:"test"
+wx.pauseBackgroundAudio
+wx.onBackgroundAudioStop
+wx.onBackgroundAudioPlay
+wx.onBackgroundAudioPause
+wx.getBackgroundAudioPlayerState
+wx.getBackgroundAudioManager
+BackgroundAudioManager
+BackgroundAudioManager.onCanplay
+BackgroundAudioManager.onEnded
+BackgroundAudioManager.onError
+BackgroundAudioManager.onNext
+BackgroundAudioManager.onPause
+BackgroundAudioManager.onPlay
+BackgroundAudioManager.onPrev
+BackgroundAudioManager.onSeeked
+BackgroundAudioManager.onSeeking
+BackgroundAudioManager.onStop
+BackgroundAudioManager.onTimeUpdate
+BackgroundAudioManager.onWaiting
+BackgroundAudioManager.pause
+BackgroundAudioManager.play
+BackgroundAudioManager.seek
+BackgroundAudioManager.stop
+wx.createLivePusherContext
+wx.createLivePlayerContext
+LivePlayerContext
+LivePlayerContext.exitCasting
+LivePlayerContext.exitFullScreen
+LivePlayerContext.exitPictureInPicture
+LivePlayerContext.mute
+LivePlayerContext.pause
+LivePlayerContext.play
+LivePlayerContext.reconnectCasting
+LivePlayerContext.requestFullScreen
+LivePlayerContext.requestPictureInPicture
+LivePlayerContext.resume
+LivePlayerContext.snapshot
+LivePlayerContext.startCasting
+LivePlayerContext.stop
+LivePlayerContext.switchCasting
+LivePusherContext
+LivePusherContext.applyBlusherStickMakeup alpha:1,path:"test",blendMode:"test"
+LivePusherContext.applyEyeBrowMakeup alpha:1,blendMode:"test",shrinkRate:1,path:"test"
+LivePusherContext.applyEyeShadowMakeup alpha:1,path:"test",blendMode:"test"
+LivePusherContext.applyFaceContourMakeup alpha:1,path:"test"
+LivePusherContext.applyFilter path:"test",alpha:1
+LivePusherContext.applyLipStickMakeup alpha:1,blendMode:"test",path:"test",faceModel:"test",shimmerType:"test",shimmerPath:"test"
+LivePusherContext.applySticker type:"test",stickers:[]
+LivePusherContext.clearFilters
+LivePusherContext.clearMakeups
+LivePusherContext.clearStickers
+LivePusherContext.createOffscreenCanvas
+LivePusherContext.exitPictureInPicture
+LivePusherContext.getMaxZoom
+LivePusherContext.onCustomRendererEvent
+LivePusherContext.pause
+LivePusherContext.pauseBGM
+LivePusherContext.playBGM url:"test"
+LivePusherContext.resume
+LivePusherContext.resumeBGM
+LivePusherContext.sendMessage msg:"test"
+LivePusherContext.setBGMVolume volume:"test"
+LivePusherContext.setMICVolume volume:1
+LivePusherContext.setZoom zoom:1
+LivePusherContext.snapshot
+LivePusherContext.start
+LivePusherContext.startPreview
+LivePusherContext.stop
+LivePusherContext.stopBGM
+LivePusherContext.stopPreview
+LivePusherContext.switchCamera
+LivePusherContext.toggleTorch
+wx.stopRecord
+wx.startRecord
+wx.getRecorderManager
+RecorderManager
+RecorderManager.onError
+RecorderManager.onFrameRecorded
+RecorderManager.onInterruptionBegin
+RecorderManager.onInterruptionEnd
+RecorderManager.onPause
+RecorderManager.onResume
+RecorderManager.onStart
+RecorderManager.onStop
+RecorderManager.pause
+RecorderManager.resume
+RecorderManager.start
+RecorderManager.stop
+wx.createCameraContext
+CameraContext
+CameraContext.onCameraFrame
+CameraContext.setZoom zoom:1
+CameraContext.startRecord
+CameraContext.stopRecord
+CameraContext.takePhoto
+CameraFrameListener
+CameraFrameListener.start
+CameraFrameListener.stop
+EditorContext.blur
+EditorContext
+EditorContext.clear
+EditorContext.format
+EditorContext.getContents
+EditorContext.getSelectionText
+EditorContext.insertDivider
+EditorContext.insertImage src:"test"
+EditorContext.insertText
+EditorContext.redo
+EditorContext.removeFormat
+EditorContext.scrollIntoView
+EditorContext.setContents
+EditorContext.undo
+wx.createMediaContainer
+MediaContainer
+MediaContainer.addTrack
+MediaContainer.destroy
+MediaContainer.export
+MediaContainer.extractDataSource source:"test"
+MediaContainer.removeTrack
+MediaTrack
+wx.updateVoIPChatMuteConfig muteConfig:{}
+wx.subscribeVoIPVideoMembers openIdList:[]
+wx.setEnable1v1Chat
+wx.onVoIPVideoMembersChanged
+wx.onVoIPChatStateChanged
+wx.onVoIPChatSpeakersChanged
+wx.onVoIPChatMembersChanged
+wx.onVoIPChatInterrupted
+wx.offVoIPVideoMembersChanged
+wx.offVoIPChatStateChanged
+wx.offVoIPChatSpeakersChanged
+wx.offVoIPChatMembersChanged
+wx.offVoIPChatInterrupted
+wx.joinVoIPChat
+wx.join1v1Chat caller:{},listener:{}
+wx.exitVoIPChat
+wx.createMediaRecorder
+MediaRecorder
+MediaRecorder.destroy
+MediaRecorder.off
+MediaRecorder.on
+MediaRecorder.pause
+MediaRecorder.requestFrame
+MediaRecorder.resume
+MediaRecorder.start
+MediaRecorder.stop
+wx.createVideoDecoder
+VideoDecoder
+VideoDecoder.getFrameData
+VideoDecoder.off
+VideoDecoder.on
+VideoDecoder.remove
+VideoDecoder.seek
+VideoDecoder.start source:"test"
+VideoDecoder.stop
+wx.stopLocationUpdate
+wx.startLocationUpdateBackground
+wx.startLocationUpdate
+wx.openLocation latitude:1,longitude:1
+wx.onLocationChangeError
+wx.onLocationChange
+wx.offLocationChangeError
+wx.offLocationChange
+wx.getLocation
+wx.getFuzzyLocation
+wx.choosePoi
+wx.chooseLocation
+wx.saveFileToDisk filePath:"test"
+wx.openDocument filePath:"test"
+wx.getFileSystemManager
+FileStats
+FileSystemManager
+FileSystemManager.access path:"test"
+FileSystemManager.accessSync
+FileSystemManager.appendFile filePath:"test"
+FileSystemManager.appendFileSync
+FileSystemManager.close fd:"test"
+FileSystemManager.closeSync fd:"test"
+FileSystemManager.copyFile srcPath:"test",destPath:"test"
+FileSystemManager.copyFileSync
+FileSystemManager.fstat fd:"test"
+FileSystemManager.fstatSync fd:"test"
+FileSystemManager.ftruncate fd:"test",length:1
+FileSystemManager.ftruncateSync fd:"test",length:1
+FileSystemManager.getFileInfo filePath:"test"
+FileSystemManager.getSavedFileList
+FileSystemManager.mkdir dirPath:"test"
+FileSystemManager.mkdirSync
+FileSystemManager.open filePath:"test"
+FileSystemManager.openSync filePath:"test"
+FileSystemManager.readCompressedFile filePath:"test",compressionAlgorithm:"test"
+FileSystemManager.readCompressedFileSync filePath:"test",compressionAlgorithm:"test"
+FileSystemManager.readdir dirPath:"test"
+FileSystemManager.readdirSync
+FileSystemManager.readFile filePath:"test"
+FileSystemManager.readFileSync
+FileSystemManager.readZipEntry filePath:"test",entries:[]
+FileSystemManager.removeSavedFile filePath:"test"
+FileSystemManager.rename oldPath:"test",newPath:"test"
+FileSystemManager.renameSync
+FileSystemManager.rmdir dirPath:"test"
+FileSystemManager.rmdirSync
+FileSystemManager.saveFile tempFilePath:"test"
+FileSystemManager.saveFileSync
+FileSystemManager.stat path:"test"
+FileSystemManager.statSync
+FileSystemManager.truncate filePath:"test"
+FileSystemManager.truncateSync filePath:"test"
+FileSystemManager.unlink filePath:"test"
+FileSystemManager.unlinkSync
+FileSystemManager.unzip zipFilePath:"test",targetPath:"test"
+FileSystemManager.write fd:"test"
+FileSystemManager.writeFile filePath:"test"
+FileSystemManager.writeFileSync
+FileSystemManager.writeSync fd:"test"
+ReadResult
+Stats
+Stats.isDirectory
+Stats.isFile
+WriteResult
+wx.pluginLogin
+wx.login
+wx.checkSession
+wx.getAccountInfoSync
+wx.getUserProfile desc:"test"
+wx.getUserInfo
+UserInfo
+wx.authorizeForMiniProgram scope:"test"
+wx.authorize scope:"test"
+wx.openSetting
+wx.getSetting
+AuthSetting
+SubscriptionsSetting
+wx.chooseAddress
+wx.openCard cardList:[]
+wx.addCard cardList:[]
+wx.chooseInvoiceTitle
+wx.chooseInvoice
+wx.startSoterAuthentication requestAuthModes:[],challenge:"test"
+wx.checkIsSupportSoterAuthentication
+wx.checkIsSoterEnrolledInDevice checkAuthMode:"test"
+wx.shareToWeRun recordList:[]
+wx.getWeRunData
+wx.showRedPackage url:"test"
+wx.addVideoToFavorites videoPath:"test"
+wx.addFileToFavorites filePath:"test"
+wx.checkIsAddedToMyMiniProgram
+wx.chooseLicensePlate
+wx.reserveChannelsLive noticeId:"test"
+wx.openChannelsUserProfile finderUserName:"test"
+wx.openChannelsLive finderUserName:"test"
+wx.openChannelsEvent finderUserName:"test",eventId:"test"
+wx.openChannelsActivity finderUserName:"test",feedId:"test"
+wx.getChannelsShareKey
+wx.getChannelsLiveNoticeInfo finderUserName:"test"
+wx.getChannelsLiveInfo finderUserName:"test"
+wx.requestDeviceVoIP
+wx.getDeviceVoIPList
+wx.getGroupEnterInfo
+wx.requirePrivacyAuthorize
+wx.openPrivacyContract
+wx.onNeedPrivacyAuthorization
+wx.getPrivacySetting
+wx.openCustomerServiceChat extInfo:{}
+wx.openStickerSetView url:{}
+wx.openStickerIPView url:{}
+wx.openSingleStickerView url:{}
+wx.stopBluetoothDevicesDiscovery
+wx.startBluetoothDevicesDiscovery
+wx.openBluetoothAdapter
+wx.onBluetoothDeviceFound
+wx.onBluetoothAdapterStateChange
+wx.offBluetoothDeviceFound
+wx.offBluetoothAdapterStateChange
+wx.makeBluetoothPair deviceId:"test",pin:"test"
+wx.isBluetoothDevicePaired deviceId:"test"
+wx.getConnectedBluetoothDevices services:[]
+wx.getBluetoothDevices
+wx.getBluetoothAdapterState
+wx.closeBluetoothAdapter
+wx.setBLEMTU deviceId:"test",mtu:1
+wx.readBLECharacteristicValue deviceId:"test",serviceId:"test",characteristicId:"test"
+wx.onBLEMTUChange
+wx.onBLEConnectionStateChange
+wx.onBLECharacteristicValueChange
+wx.offBLEMTUChange
+wx.offBLEConnectionStateChange
+wx.offBLECharacteristicValueChange
+wx.notifyBLECharacteristicValueChange deviceId:"test",serviceId:"test",characteristicId:"test",state:True
+wx.getBLEMTU deviceId:"test"
+wx.getBLEDeviceServices deviceId:"test"
+wx.getBLEDeviceRSSI deviceId:"test"
+wx.getBLEDeviceCharacteristics deviceId:"test",serviceId:"test"
+wx.createBLEConnection deviceId:"test"
+wx.closeBLEConnection deviceId:"test"
+wx.onBLEPeripheralConnectionStateChanged
+wx.offBLEPeripheralConnectionStateChanged
+wx.createBLEPeripheralServer
+BLEPeripheralServer
+BLEPeripheralServer.close
+BLEPeripheralServer.offCharacteristicReadRequest
+BLEPeripheralServer.offCharacteristicSubscribed
+BLEPeripheralServer.offCharacteristicUnsubscribed
+BLEPeripheralServer.offCharacteristicWriteRequest
+BLEPeripheralServer.onCharacteristicReadRequest
+BLEPeripheralServer.onCharacteristicSubscribed
+BLEPeripheralServer.onCharacteristicUnsubscribed
+BLEPeripheralServer.onCharacteristicWriteRequest
+BLEPeripheralServer.removeService
+BLEPeripheralServer.startAdvertising
+BLEPeripheralServer.stopAdvertising
+BLEPeripheralServer.writeCharacteristicValue
+wx.stopBeaconDiscovery
+wx.startBeaconDiscovery uuids:[]
+wx.onBeaconUpdate
+wx.onBeaconServiceChange
+wx.offBeaconUpdate
+wx.offBeaconServiceChange
+wx.getBeacons
+BeaconInfo
+wx.getNFCAdapter
+IsoDep
+IsoDep.close
+IsoDep.connect
+IsoDep.getHistoricalBytes
+IsoDep.getMaxTransceiveLength
+IsoDep.isConnected
+IsoDep.setTimeout timeout:1
+MifareClassic
+MifareClassic.close
+MifareClassic.connect
+MifareClassic.getMaxTransceiveLength
+MifareClassic.isConnected
+MifareClassic.setTimeout timeout:1
+MifareUltralight
+MifareUltralight.close
+MifareUltralight.connect
+MifareUltralight.getMaxTransceiveLength
+MifareUltralight.isConnected
+MifareUltralight.setTimeout timeout:1
+Ndef
+Ndef.close
+Ndef.connect
+Ndef.isConnected
+Ndef.offNdefMessage
+Ndef.onNdefMessage
+Ndef.setTimeout timeout:1
+NfcA
+NfcA.close
+NfcA.connect
+NfcA.getAtqa
+NfcA.getMaxTransceiveLength
+NfcA.getSak
+NfcA.isConnected
+NfcA.setTimeout timeout:1
+NFCAdapter
+NFCAdapter.getIsoDep
+NFCAdapter.getMifareClassic
+NFCAdapter.getMifareUltralight
+NFCAdapter.getNdef
+NFCAdapter.getNfcA
+NFCAdapter.getNfcB
+NFCAdapter.getNfcF
+NFCAdapter.getNfcV
+NFCAdapter.offDiscovered
+NFCAdapter.onDiscovered
+NFCAdapter.startDiscovery
+NFCAdapter.stopDiscovery
+NfcB
+NfcB.close
+NfcB.connect
+NfcB.getMaxTransceiveLength
+NfcB.isConnected
+NfcB.setTimeout timeout:1
+NfcF
+NfcF.close
+NfcF.connect
+NfcF.getMaxTransceiveLength
+NfcF.isConnected
+NfcF.setTimeout timeout:1
+NfcV
+NfcV.close
+NfcV.connect
+NfcV.getMaxTransceiveLength
+NfcV.isConnected
+NfcV.setTimeout timeout:1
+wx.stopWifi
+wx.startWifi
+wx.setWifiList wifiList:[]
+wx.onWifiConnectedWithPartialInfo
+wx.onWifiConnected
+wx.onGetWifiList
+wx.offWifiConnectedWithPartialInfo
+wx.offWifiConnected
+wx.offGetWifiList
+wx.getWifiList
+wx.getConnectedWifi
+wx.connectWifi SSID:"test",password:"test"
+WifiInfo
+wx.addPhoneRepeatCalendar title:"test",startTime:1
+wx.addPhoneCalendar title:"test",startTime:1
+wx.chooseContact
+wx.addPhoneContact firstName:"test"
+wx.checkIsOpenAccessibility
+wx.getBatteryInfoSync
+wx.getBatteryInfo
+wx.setClipboardData data:"test"
+wx.getClipboardData
+wx.stopHCE
+wx.startHCE aid_list:[]
+wx.onHCEMessage
+wx.offHCEMessage
+wx.getHCEState
+wx.onNetworkWeakChange
+wx.onNetworkStatusChange
+wx.offNetworkWeakChange
+wx.offNetworkStatusChange
+wx.getNetworkType
+wx.getLocalIPAddress
+wx.getRandomValues length:1
+wx.setVisualEffectOnCapture
+wx.setScreenBrightness value:1
+wx.setKeepScreenOn keepScreenOn:True
+wx.onUserCaptureScreen
+wx.onScreenRecordingStateChanged
+wx.offUserCaptureScreen
+wx.offScreenRecordingStateChanged
+wx.getScreenRecordingState
+wx.getScreenBrightness
+wx.onKeyboardHeightChange
+wx.offKeyboardHeightChange
+wx.hideKeyboard
+wx.getSelectedTextRange
+wx.makePhoneCall phoneNumber:"test"
+wx.stopAccelerometer
+wx.startAccelerometer
+wx.onAccelerometerChange
+wx.offAccelerometerChange
+wx.stopCompass
+wx.startCompass
+wx.onCompassChange
+wx.offCompassChange
+wx.stopDeviceMotionListening
+wx.startDeviceMotionListening
+wx.onDeviceMotionChange
+wx.offDeviceMotionChange
+wx.stopGyroscope
+wx.startGyroscope
+wx.onGyroscopeChange
+wx.offGyroscopeChange
+wx.onMemoryWarning
+wx.offMemoryWarning
+wx.scanCode
+wx.sendSms
+wx.vibrateShort type:"test"
+wx.vibrateLong
+wx.getInferenceEnvInfo
+wx.createInferenceSession model:"test"
+InferenceSession
+InferenceSession.destroy
+InferenceSession.offError
+InferenceSession.offLoad
+InferenceSession.onError
+InferenceSession.onLoad
+InferenceSession.run
+Tensor
+Tensors
+wx.isVKSupport
+wx.createVKSession track:{}
+VKBodyAnchor
+VKCamera
+VKCamera.getProjectionMatrix
+VKDepthAnchor
+VKFaceAnchor
+VKFrame
+VKFrame.getCameraBuffer
+VKFrame.getCameraTexture
+VKFrame.getDisplayTransform
+VKHandAnchor
+VKMarkerAnchor
+VKOCRAnchor
+VKOSDAnchor
+VKPlaneAnchor
+VKSession
+VKSession.addMarker
+VKSession.addOSDMarker
+VKSession.cancelAnimationFrame
+VKSession.destroy
+VKSession.getAllMarker
+VKSession.getAllOSDMarker
+VKSession.getVKFrame
+VKSession.hitTest
+VKSession.off
+VKSession.on
+VKSession.removeMarker
+VKSession.removeOSDMarker
+VKSession.requestAnimationFrame
+VKSession.start
+VKSession.stop
+VKSession.update3DMode
+VKSession.updateOSDThreshold
+wx.stopFaceDetect
+wx.initFaceDetect
+wx.createWorker
+Worker
+Worker.getCameraFrameData
+Worker.onMessage
+Worker.onProcessKilled
+Worker.postMessage
+Worker.terminate
+Worker.testOnProcessKilled
+wx.createSelectorQuery
+wx.createIntersectionObserver
+IntersectionObserver
+IntersectionObserver.disconnect
+IntersectionObserver.observe
+IntersectionObserver.relativeTo
+IntersectionObserver.relativeToViewport
+MediaQueryObserver
+MediaQueryObserver.disconnect
+MediaQueryObserver.observe
+NodesRef
+NodesRef.boundingClientRect
+NodesRef.context
+NodesRef.fields
+NodesRef.node
+NodesRef.scrollOffset
+SelectorQuery
+SelectorQuery.exec
+SelectorQuery.in
+SelectorQuery.select
+SelectorQuery.selectAll
+SelectorQuery.selectViewport
+wx.getExtConfigSync
+wx.getExtConfig
+wx.createRewardedVideoAd adUnitId:"test"
+wx.createInterstitialAd adUnitId:"test"
+InterstitialAd
+InterstitialAd.destroy
+InterstitialAd.load
+InterstitialAd.offClose
+InterstitialAd.offError
+InterstitialAd.offLoad
+InterstitialAd.onClose
+InterstitialAd.onError
+InterstitialAd.onLoad
+InterstitialAd.show
+RewardedVideoAd
+RewardedVideoAd.destroy
+RewardedVideoAd.load
+RewardedVideoAd.offClose
+RewardedVideoAd.offError
+RewardedVideoAd.offLoad
+RewardedVideoAd.onClose
+RewardedVideoAd.onError
+RewardedVideoAd.onLoad
+RewardedVideoAd.show
+Snapshot
+Snapshot.takeSnapshot

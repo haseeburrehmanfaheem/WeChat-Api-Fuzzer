@@ -1,0 +1,4 @@
+vibrateLong
+showToast image:"test",title:"test",mask:true,
+getLocation
+setClipboardData data:"test",

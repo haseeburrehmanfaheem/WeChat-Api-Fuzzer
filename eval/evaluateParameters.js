@@ -1,9 +1,10 @@
 const CDP = require("chrome-remote-interface");
-const remotedebuggerurllink = "ws://127.0.0.1:32751";
+const remotedebuggerurllink = "ws://127.0.0.1:15987";
 const repl = require("repl");
 // const fs = require("fs").promises;
 const fs = require("fs")
-const filePath = "/home/hfaheem/Desktop/WeChatAPIs/wechat-eval/parameters/outputREQ.txt";
+// const filePath = "/Users/haseeb/Desktop/devTool/parameters/outputREQ.txt";
+const filePath = "manualValues.txt";
 
 
 var runtime = null;
@@ -20,8 +21,8 @@ async function main() {
   await this.runtime
     .evaluate({ expression: script, contextId: 2, timeout: 5000 })
     .then((res) => {
-      console.log("evaluated with result : " + res.result.value);
-
+      // console.log("evaluated with result : " + res.result.value);
+      console.log("evaluated ");
       if (res.result.value === "true") {
         evaluated = true;
       }
@@ -34,6 +35,7 @@ async function main() {
     console.log("evaluated");
     await runEach();
     repl.start();
+    // runEach();
   }
 }
 
@@ -50,7 +52,7 @@ global.resultSet = async function () {
     })
     .catch((err) => {
       console.log("err : " + err);
-    });
+    }); 
 }
 
 
@@ -67,7 +69,7 @@ global.evaluate = async function (script,api) {
             return JSON.stringify(globalThis.resultSet);
 
         } catch(err){
-            globalThis.resultSet["${api}"]=err;
+            globalThis.resultSet["${api}"]="catch:" + JSON.stringify(err);
             return JSON.stringify(err);
         }
     })()`;
@@ -79,6 +81,7 @@ global.evaluate = async function (script,api) {
         console.log(res.result.description);
       }
       console.log("evaluated with result : " + res.result.value);
+      // console.log("evaluated with result : ");
     })
     .catch((err) => {
       console.log("err : " + err);
@@ -93,29 +96,36 @@ async function runEach() {
     try {
         const data = await fs.readFileSync(filePath, 'utf8');
         const lines = data.trim().split('\n');
-        lines.forEach(line => {
+        for (const line of lines) 
+        {
             const firstSpaceIndex = line.indexOf(' ');
             let name, parameters;
             if (firstSpaceIndex !== -1) {
                 name = line.substring(0, firstSpaceIndex);
-                parameters = line.substring(firstSpaceIndex + 1);
+                parameters = line.substring(firstSpaceIndex + 1) + ",";
             } else {
                 name = line;
                 parameters = ''; 
             }
-            console.log('---'); 
+            console.log('-----------------'); 
             console.log('Name:', name);
             console.log('Parameters:', parameters);
             
-            var finalScript = `wx.${name}({${parameters}success: function (res) {globalThis.resultSet["${name}"]=res;},fail: function(err){globalThis.resultSet["${name}"]=err;}});`;
+            var finalScript = `${name}({${parameters}success: function (res) {globalThis.resultSet["${name}"]=res;},fail: function(err){globalThis.resultSet["${name}"]=err;}});`;
             console.log('Final Script:', finalScript);
-            return
+            // return
             evaluate(finalScript, name);
-        });
+            await delay(1000);
+        };
     } catch (err) {
         console.error('Error reading file:', err);
     }
 }
 
+function delay(ms) {
+  return new Promise(resolve => setTimeout(resolve, ms));
+}
 
-runEach();
+main()
+
+// "wx.getRandomValues":{"errMsg":"getRandomValues:ok","randomValues":{},"__wx_dont_hook_sdk_inner_variable_packkeys_otherwise_you_will_regret_and_occur_bug__
