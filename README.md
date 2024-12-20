@@ -1,7 +1,6 @@
 # WeChat API Fuzzer
 
-This repository contains tools for analyzing and dynamically invoking WeChat Miniapp APIs. The goal is to evaluate which Android Framework APIs do miniapp APIs invoke to create a mapping between miniapp-framework APIs.
-
+This repository contains tools for analyzing and dynamically invoking WeChat Miniapp APIs.The goal is to evaluate which Android framework APIs are invoked by Miniapp APIs to create a mapping between them.
 ## Overview
 
 The main code is located in the `Evalulate-WeChat` folder. It leverages WeChat's devtools to execute miniapp APIs dynamically using the Chrome debugger protocol. Specifically, the code reverse engineers and customizes the WeChat debugging protocol to invoke APIs on targeted platforms.
